@@ -2,7 +2,7 @@
 
 Master in [Data Marketing and Analytics](https://www.bbs.unibo.eu/master-fulltime/data-marketing-and-analytics/)
 
-- Access this content at: https://github.com/w4bo/2025-bbs-fbi
+- Access this content at: https://github.com/w4bo/2026-bbs-fbi
 
 ![image](https://user-images.githubusercontent.com/18005592/235678122-cc2992d4-2113-42aa-aa83-a641c77e85e9.png)
 
@@ -29,17 +29,17 @@ Master in [Data Marketing and Analytics](https://www.bbs.unibo.eu/master-fulltim
 
 | When | Who | What |
 | -    | -    | -    |
-| Day 1 (Apr 28, 2025 – h 14.30 – 18.00) | Matteo Francia    | Introduction to Business Intelligence |
-| Day 2 (Apr 30, 2025 – h 14.30 - 18.00) | Enrico Gallinucci | OLAP Analyses with Power BI |
-| Day 3 (May 07, 2025 – h 09.30 – 13.00) | Matteo Francia    | From BI to analytics |
-| Day 4 (May 08, 2025 – h 09.30 - 13.00) | Enrico Gallinucci | OLAP Analyses with Power BI |
-| Day 5 (May 13, 2025 – h 10.00 - 13.00) | Matteo Francia    | Data Platforms and Applications |
-| Day 6 (May 15, 2025 – h 9.30 – 12.30)  | Enrico Gallinucci | OLAP Analyses with Power BI |
-| Day 7 (May 22, 2025 – h 10.00 – 12.00) | Matteo Francia    | Exam |
+| Day 1 (Mar 31, 2026 – h 09.30 – 13.00) | Matteo Francia    | Introduction to Business Intelligence |
+| Day 2 (Apr 07, 2026 – h 14.30 – 17.30) | Matteo Francia    | From BI to analytics |
+| Day 3 (Apr 09, 2026 – h 09.30 - 13.00) | Matteo Francia    | Data Platforms and Applications |
+| Day 4 (Apr ??, 2026 – h 14.30 - 18.00) | Enrico Gallinucci | OLAP Analyses with Power BI |
+| Day 5 (Apr ??, 2026 – h 09.30 - 13.00) | Enrico Gallinucci | OLAP Analyses with Power BI |
+| Day 6 (Apr ??, 2026 – h 9.30 – 12.30)  | Enrico Gallinucci | OLAP Analyses with Power BI |
+| Day 7 (Apr 29, 2026 – h 10.00 – 12.00) | Matteo Francia    | Exam |
 
 Exam:
 
-- Written test (1h): Questions related to the concepts introduced in the course (mainly the first 3 lessons); questions will be open-ended and no external material is allowed. 
+- Written test (1h): Questions related to the concepts introduced in the course (mainly the first 3 lessons); *questions will be open-ended* and *no external material is allowed*. 
 - Practical test (1h): Students will be asked to perform 3 tasks on Power BI:
     - Comprehension: given precise instructions, create the requested chart
     - Application: given a domain-oriented task in natural language, create a report that provides the answer (+ additional comments, if needed)
