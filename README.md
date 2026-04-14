@@ -54,3 +54,6 @@ Virtual machine:
         - User: bbsstudent
         - Password: bZ&6oHFJ
     - Remember to shut down the VM after class
+
+Indyco builder: https://files.indyco.iconsulting.biz/package/latest/IndycoBuilder.msi
+PowerBI Desktop: https://www.microsoft.com/en-us/download/details.aspx?id=58494
