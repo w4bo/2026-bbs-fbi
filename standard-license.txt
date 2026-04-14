@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<license id="1584a7f6-6046-4470-a7a9-145f34feb128" expiration="2026-12-31T23:00:00.0000000" type="Standard" Edition="Educational" maxConcurrentUsers="15" maxNamedUsers="15" MaintenanceExpiration="2026-12-31T23:00:00.0000000" ApplicationName="Indyco Builder">
+  <name>Enrico Gallinucci (Master in Marketing and Data Analytics (Bologna Business School, Bologna))</name>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+        <DigestValue>uv599Qw7kMQwLnWqJMYYEF0rb8aEdhWHZY8MrDbwoH8=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>Dv7eGSP/8xTndWOzNDK2hkOk5R34Fh2Gz+MQNfla8lRdlA3tJvVLkc2UJMQ9mQBhYcmJxU5N4NopWFYwrGXVvJPQb0HM6wkmVRx5LV8UvOAilLtmVZsuwYhT3uuRnKjhw+qbnA54WwPlBt636O8RaXvIfW36VnvHE24EeZaGdeQ=</SignatureValue>
+  </Signature>
+</license>
