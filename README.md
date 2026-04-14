@@ -44,3 +44,13 @@ Exam:
     - Comprehension: given precise instructions, create the requested chart
     - Application: given a domain-oriented task in natural language, create a report that provides the answer (+ additional comments, if needed)
     - Production: create a custom report that provides additional insights on the data and comment on the results
+
+Virtual machine:
+
+- Link: https://labs.azure.com/register/cqczt6wn
+    - Access with your bbscommunity account
+    - Launch the VM
+    - Download the .rdp file and open it
+        - User: bbsstudent
+        - Password: bZ&6oHFJ
+    - Remember to shut down the VM after class
