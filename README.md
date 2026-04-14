@@ -33,7 +33,7 @@ Master in [Data Marketing and Analytics](https://www.bbs.unibo.eu/master-fulltim
 | Day 2 (Apr 07, 2026 – h 14.30 – 17.30) | Matteo Francia    | From BI to analytics |
 | Day 3 (Apr 09, 2026 – h 09.30 - 13.00) | Matteo Francia    | Data Platforms and Applications |
 | Day 4 (Apr 14, 2026 – h 14.30 - 18.00) | Enrico Gallinucci | OLAP Analyses with Power BI |
-| Day 5 (Apr 16, 2026 – h 14.30 - 17.00) | Enrico Gallinucci | OLAP Analyses with Power BI |
+| Day 5 (Apr 16, 2026 – h 14.30 - 17.30) | Enrico Gallinucci | OLAP Analyses with Power BI |
 | Day 6 (Apr 20, 2026 – h 14.30 – 17.30) | Enrico Gallinucci | OLAP Analyses with Power BI |
 | Day 7 (Apr 29, 2026 – h 10.00 – 12.00) | Matteo Francia    | Exam |
 
