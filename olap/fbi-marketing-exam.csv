@@ -1,0 +1,1001 @@
+datekey;date;year;quarter;month;week;day;productkey;productid;productname;category;subcategory;brand;customerkey;customerid;customername;location;gender;agegroup;channelkey;channeltype;salesamount;unitssold;rating;sentimentscore;productreturned
+190;2023-07-09;2023;3;7;27;9;43;43;Product 43;Books;Subcat B;Brand W;22;22;Customer 22;Texas;Male;36-45;2;Mobile App;1312.90;5;2;4.97;f
+210;2023-07-29;2023;3;7;30;29;46;46;Product 46;Clothing;Subcat B;Brand Z;96;96;Customer 96;New York;Male;26-35;2;Mobile App;411.56;4;2;3.86;f
+252;2023-09-09;2023;3;9;36;9;39;39;Product 39;Toys;Subcat A;Brand W;58;58;Customer 58;Texas;Male;46-55;1;Website;592.20;3;3;4.13;f
+221;2023-08-09;2023;3;8;32;9;29;29;Product 29;Toys;Subcat C;Brand Y;47;47;Customer 47;Florida;Female;36-45;1;Website;2466.09;9;4;4.60;f
+284;2023-10-11;2023;4;10;41;11;36;36;Product 36;Clothing;Subcat A;Brand X;67;67;Customer 67;Florida;Female;36-45;1;Website;711.40;5;4;5.00;f
+165;2023-06-14;2023;2;6;24;14;31;31;Product 31;Clothing;Subcat B;Brand W;8;8;Customer 8;New York;Male;46-55;1;Website;4710.97;11;5;3.83;f
+154;2023-06-03;2023;2;6;22;3;28;28;Product 28;Books;Subcat B;Brand X;80;80;Customer 80;New York;Male;18-25;2;Mobile App;3227.84;11;3;4.64;f
+154;2023-06-03;2023;2;6;22;3;49;49;Product 49;Toys;Subcat B;Brand Y;75;75;Customer 75;Florida;Female;18-25;2;Mobile App;121.65;1;3;3.21;t
+16;2023-01-16;2023;1;1;3;16;24;24;Product 24;Toys;Subcat A;Brand X;67;67;Customer 67;Florida;Female;36-45;1;Website;1169.49;3;4;4.08;f
+255;2023-09-12;2023;3;9;37;12;43;43;Product 43;Books;Subcat B;Brand W;48;48;Customer 48;New York;Male;46-55;1;Website;2929.20;10;3;3.92;f
+67;2023-03-08;2023;1;3;10;8;47;47;Product 47;Home & Garden;Subcat C;Brand W;11;11;Customer 11;Florida;Female;26-35;2;Mobile App;221.28;6;2;4.16;f
+279;2023-10-06;2023;4;10;40;6;17;17;Product 17;Home & Garden;Subcat C;Brand Y;10;10;Customer 10;Texas;Male;18-25;1;Website;1481.46;3;5;4.10;f
+151;2023-05-31;2023;2;5;22;31;11;11;Product 11;Clothing;Subcat C;Brand W;31;31;Customer 31;Florida;Female;26-35;1;Website;686.74;2;5;3.84;f
+281;2023-10-08;2023;4;10;40;8;49;49;Product 49;Toys;Subcat B;Brand Y;78;78;Customer 78;Texas;Male;46-55;2;Mobile App;3347.47;7;3;3.99;f
+324;2023-11-20;2023;4;11;47;20;37;37;Product 37;Home & Garden;Subcat B;Brand Y;63;63;Customer 63;Florida;Female;46-55;1;Website;1135.29;3;4;3.56;f
+287;2023-10-14;2023;4;10;41;14;21;21;Product 21;Clothing;Subcat A;Brand Y;98;98;Customer 98;Texas;Male;46-55;1;Website;651.95;5;2;4.27;f
+44;2023-02-13;2023;1;2;7;13;18;18;Product 18;Books;Subcat A;Brand Z;8;8;Customer 8;New York;Male;46-55;2;Mobile App;439.17;3;4;4.88;f
+316;2023-11-12;2023;4;11;45;12;4;4;Product 4;Toys;Subcat B;Brand X;20;20;Customer 20;New York;Male;18-25;2;Mobile App;1577.44;8;4;3.60;t
+209;2023-07-28;2023;3;7;30;28;28;28;Product 28;Books;Subcat B;Brand X;92;92;Customer 92;New York;Male;36-45;1;Website;2114.73;9;1;4.75;f
+77;2023-03-18;2023;1;3;11;18;13;13;Product 13;Books;Subcat B;Brand Y;10;10;Customer 10;Texas;Male;18-25;2;Mobile App;2141.10;9;3;3.46;f
+96;2023-04-06;2023;2;4;14;6;9;9;Product 9;Toys;Subcat A;Brand Y;56;56;Customer 56;New York;Male;26-35;2;Mobile App;161.95;5;5;3.46;f
+311;2023-11-07;2023;4;11;45;7;27;27;Product 27;Home & Garden;Subcat A;Brand W;40;40;Customer 40;New York;Male;18-25;1;Website;2988.23;7;2;3.53;f
+230;2023-08-18;2023;3;8;33;18;43;43;Product 43;Books;Subcat B;Brand W;36;36;Customer 36;New York;Male;26-35;1;Website;1102.60;5;3;3.30;f
+220;2023-08-08;2023;3;8;32;8;39;39;Product 39;Toys;Subcat A;Brand W;32;32;Customer 32;New York;Male;36-45;1;Website;288.30;6;3;3.85;f
+230;2023-08-18;2023;3;8;33;18;33;33;Product 33;Books;Subcat A;Brand Y;43;43;Customer 43;Florida;Female;46-55;1;Website;2034.67;11;3;4.46;f
+118;2023-04-28;2023;2;4;17;28;12;12;Product 12;Home & Garden;Subcat A;Brand X;2;2;Customer 2;Texas;Male;36-45;2;Mobile App;169.89;3;4;3.25;f
+15;2023-01-15;2023;1;1;2;15;23;23;Product 23;Books;Subcat C;Brand W;90;90;Customer 90;Texas;Male;18-25;2;Mobile App;1122.66;3;2;3.80;t
+239;2023-08-27;2023;3;8;34;27;7;7;Product 7;Home & Garden;Subcat B;Brand W;20;20;Customer 20;New York;Male;18-25;2;Mobile App;2854.35;9;3;4.36;f
+149;2023-05-29;2023;2;5;22;29;2;2;Product 2;Home & Garden;Subcat C;Brand Z;35;35;Customer 35;Florida;Female;18-25;2;Mobile App;217.50;3;5;4.25;f
+277;2023-10-04;2023;4;10;40;4;8;8;Product 8;Books;Subcat C;Brand X;28;28;Customer 28;New York;Male;46-55;1;Website;4270.86;9;4;3.33;f
+153;2023-06-02;2023;2;6;22;2;7;7;Product 7;Home & Garden;Subcat B;Brand W;8;8;Customer 8;New York;Male;46-55;2;Mobile App;4724.40;10;1;3.62;f
+71;2023-03-12;2023;1;3;10;12;4;4;Product 4;Toys;Subcat B;Brand X;11;11;Customer 11;Florida;Female;26-35;2;Mobile App;264.90;3;4;4.96;f
+155;2023-06-04;2023;2;6;22;4;21;21;Product 21;Clothing;Subcat A;Brand Y;71;71;Customer 71;Florida;Female;26-35;2;Mobile App;808.92;2;5;3.64;t
+152;2023-06-01;2023;2;6;22;1;49;49;Product 49;Toys;Subcat B;Brand Y;88;88;Customer 88;New York;Male;46-55;1;Website;1190.84;7;2;3.28;f
+88;2023-03-29;2023;1;3;13;29;36;36;Product 36;Clothing;Subcat A;Brand X;43;43;Customer 43;Florida;Female;46-55;1;Website;293.68;1;3;4.10;f
+310;2023-11-06;2023;4;11;45;6;24;24;Product 24;Toys;Subcat A;Brand X;63;63;Customer 63;Florida;Female;46-55;2;Mobile App;1197.35;7;1;4.28;f
+81;2023-03-22;2023;1;3;12;22;12;12;Product 12;Home & Garden;Subcat A;Brand X;90;90;Customer 90;Texas;Male;18-25;2;Mobile App;2452.10;7;3;3.52;f
+330;2023-11-26;2023;4;11;47;26;14;14;Product 14;Toys;Subcat C;Brand Z;32;32;Customer 32;New York;Male;36-45;2;Mobile App;3139.99;7;2;3.21;f
+297;2023-10-24;2023;4;10;43;24;13;13;Product 13;Books;Subcat B;Brand Y;82;82;Customer 82;Texas;Male;36-45;2;Mobile App;1175.76;3;2;3.97;f
+100;2023-04-10;2023;2;4;15;10;34;34;Product 34;Toys;Subcat B;Brand Z;83;83;Customer 83;Florida;Female;46-55;2;Mobile App;2778.24;6;4;4.16;f
+157;2023-06-06;2023;2;6;23;6;42;42;Product 42;Home & Garden;Subcat A;Brand Z;92;92;Customer 92;New York;Male;36-45;1;Website;3954.72;8;2;4.59;f
+198;2023-07-17;2023;3;7;29;17;13;13;Product 13;Books;Subcat B;Brand Y;40;40;Customer 40;New York;Male;18-25;2;Mobile App;2291.28;8;2;3.23;f
+150;2023-05-30;2023;2;5;22;30;17;17;Product 17;Home & Garden;Subcat C;Brand Y;3;3;Customer 3;Florida;Female;46-55;1;Website;901.80;6;2;4.17;f
+200;2023-07-19;2023;3;7;29;19;31;31;Product 31;Clothing;Subcat B;Brand W;71;71;Customer 71;Florida;Female;26-35;1;Website;3356.15;7;4;3.17;f
+262;2023-09-19;2023;3;9;38;19;29;29;Product 29;Toys;Subcat C;Brand Y;28;28;Customer 28;New York;Male;46-55;1;Website;1515.84;6;3;3.84;f
+56;2023-02-25;2023;1;2;8;25;46;46;Product 46;Clothing;Subcat B;Brand Z;63;63;Customer 63;Florida;Female;46-55;1;Website;2006.90;7;3;3.63;f
+104;2023-04-14;2023;2;4;15;14;14;14;Product 14;Toys;Subcat C;Brand Z;66;66;Customer 66;Texas;Male;26-35;2;Mobile App;3387.60;10;3;3.50;f
+37;2023-02-06;2023;1;2;6;6;1;1;Product 1;Clothing;Subcat B;Brand Y;86;86;Customer 86;Texas;Male;26-35;2;Mobile App;3366.32;8;3;3.41;f
+69;2023-03-10;2023;1;3;10;10;34;34;Product 34;Toys;Subcat B;Brand Z;47;47;Customer 47;Florida;Female;36-45;1;Website;3104.64;8;2;4.34;f
+33;2023-02-02;2023;1;2;5;2;3;3;Product 3;Books;Subcat A;Brand W;27;27;Customer 27;Florida;Female;36-45;2;Mobile App;2338.47;9;4;3.66;t
+289;2023-10-16;2023;4;10;42;16;42;42;Product 42;Home & Garden;Subcat A;Brand Z;11;11;Customer 11;Florida;Female;26-35;1;Website;4834.10;10;3;3.06;f
+202;2023-07-21;2023;3;7;29;21;37;37;Product 37;Home & Garden;Subcat B;Brand Y;52;52;Customer 52;New York;Male;36-45;2;Mobile App;3306.24;7;1;4.03;f
+297;2023-10-24;2023;4;10;43;24;48;48;Product 48;Books;Subcat A;Brand X;96;96;Customer 96;New York;Male;26-35;2;Mobile App;1840.20;5;2;4.21;f
+157;2023-06-06;2023;2;6;23;6;37;37;Product 37;Home & Garden;Subcat B;Brand Y;51;51;Customer 51;Florida;Female;26-35;1;Website;1283.40;3;5;3.33;f
+238;2023-08-26;2023;3;8;34;26;23;23;Product 23;Books;Subcat C;Brand W;70;70;Customer 70;Texas;Male;18-25;1;Website;4158.30;10;4;4.76;f
+42;2023-02-11;2023;1;2;6;11;39;39;Product 39;Toys;Subcat A;Brand W;31;31;Customer 31;Florida;Female;26-35;1;Website;1463.34;6;5;4.52;f
+184;2023-07-03;2023;3;7;27;3;9;9;Product 9;Toys;Subcat A;Brand Y;30;30;Customer 30;Texas;Male;18-25;2;Mobile App;340.16;8;3;4.51;f
+11;2023-01-11;2023;1;1;2;11;24;24;Product 24;Toys;Subcat A;Brand X;8;8;Customer 8;New York;Male;46-55;1;Website;868.34;11;3;4.51;f
+263;2023-09-20;2023;3;9;38;20;16;16;Product 16;Clothing;Subcat B;Brand X;8;8;Customer 8;New York;Male;46-55;2;Mobile App;2337.60;5;2;3.47;f
+123;2023-05-03;2023;2;5;18;3;49;49;Product 49;Toys;Subcat B;Brand Y;51;51;Customer 51;Florida;Female;26-35;2;Mobile App;484.72;8;5;3.45;t
+22;2023-01-22;2023;1;1;3;22;14;14;Product 14;Toys;Subcat C;Brand Z;60;60;Customer 60;New York;Male;18-25;2;Mobile App;3801.06;9;2;3.06;f
+317;2023-11-13;2023;4;11;46;13;39;39;Product 39;Toys;Subcat A;Brand W;46;46;Customer 46;Texas;Male;26-35;1;Website;4432.90;10;2;4.32;f
+287;2023-10-14;2023;4;10;41;14;17;17;Product 17;Home & Garden;Subcat C;Brand Y;58;58;Customer 58;Texas;Male;46-55;1;Website;445.33;1;3;3.84;f
+70;2023-03-11;2023;1;3;10;11;11;11;Product 11;Clothing;Subcat C;Brand W;47;47;Customer 47;Florida;Female;36-45;1;Website;1154.65;7;4;3.19;f
+288;2023-10-15;2023;4;10;41;15;21;21;Product 21;Clothing;Subcat A;Brand Y;18;18;Customer 18;Texas;Male;46-55;2;Mobile App;248.73;3;4;4.06;f
+42;2023-02-11;2023;1;2;6;11;3;3;Product 3;Books;Subcat A;Brand W;10;10;Customer 10;Texas;Male;18-25;2;Mobile App;214.35;5;5;4.81;f
+51;2023-02-20;2023;1;2;8;20;17;17;Product 17;Home & Garden;Subcat C;Brand Y;95;95;Customer 95;Florida;Female;18-25;1;Website;879.68;2;2;4.91;f
+175;2023-06-24;2023;2;6;25;24;36;36;Product 36;Clothing;Subcat A;Brand X;52;52;Customer 52;New York;Male;36-45;2;Mobile App;3557.97;9;3;4.66;f
+304;2023-10-31;2023;4;10;44;31;48;48;Product 48;Books;Subcat A;Brand X;47;47;Customer 47;Florida;Female;36-45;2;Mobile App;1515.45;3;5;3.54;f
+250;2023-09-07;2023;3;9;36;7;4;4;Product 4;Toys;Subcat B;Brand X;58;58;Customer 58;Texas;Male;46-55;2;Mobile App;2198.20;10;3;4.02;t
+46;2023-02-15;2023;1;2;7;15;38;38;Product 38;Books;Subcat C;Brand Z;60;60;Customer 60;New York;Male;18-25;2;Mobile App;617.96;7;1;4.81;f
+217;2023-08-05;2023;3;8;31;5;37;37;Product 37;Home & Garden;Subcat B;Brand Y;35;35;Customer 35;Florida;Female;18-25;1;Website;297.44;8;1;3.74;t
+135;2023-05-15;2023;2;5;20;15;11;11;Product 11;Clothing;Subcat C;Brand W;67;67;Customer 67;Florida;Female;36-45;2;Mobile App;1139.24;4;4;4.13;f
+272;2023-09-29;2023;3;9;39;29;2;2;Product 2;Home & Garden;Subcat C;Brand Z;90;90;Customer 90;Texas;Male;18-25;1;Website;1418.84;4;3;4.84;f
+105;2023-04-15;2023;2;4;15;15;34;34;Product 34;Toys;Subcat B;Brand Z;42;42;Customer 42;Texas;Male;36-45;1;Website;198.40;4;4;4.18;t
+311;2023-11-07;2023;4;11;45;7;17;17;Product 17;Home & Garden;Subcat C;Brand Y;10;10;Customer 10;Texas;Male;18-25;2;Mobile App;2268.35;5;2;4.50;f
+145;2023-05-25;2023;2;5;21;25;24;24;Product 24;Toys;Subcat A;Brand X;38;38;Customer 38;Texas;Male;46-55;1;Website;3711.24;9;3;4.77;f
+173;2023-06-22;2023;2;6;25;22;7;7;Product 7;Home & Garden;Subcat B;Brand W;38;38;Customer 38;Texas;Male;46-55;1;Website;554.28;4;2;4.83;f
+131;2023-05-11;2023;2;5;19;11;4;4;Product 4;Toys;Subcat B;Brand X;62;62;Customer 62;Texas;Male;36-45;2;Mobile App;2816.80;8;4;3.03;f
+176;2023-06-25;2023;2;6;25;25;14;14;Product 14;Toys;Subcat C;Brand Z;18;18;Customer 18;Texas;Male;46-55;2;Mobile App;1112.10;6;4;4.27;f
+53;2023-02-22;2023;1;2;8;22;23;23;Product 23;Books;Subcat C;Brand W;82;82;Customer 82;Texas;Male;36-45;2;Mobile App;365.20;10;3;4.63;f
+14;2023-01-14;2023;1;1;2;14;8;8;Product 8;Books;Subcat C;Brand X;8;8;Customer 8;New York;Male;46-55;1;Website;1472.64;3;5;3.31;f
+172;2023-06-21;2023;2;6;25;21;36;36;Product 36;Clothing;Subcat A;Brand X;43;43;Customer 43;Florida;Female;46-55;2;Mobile App;1099.70;10;5;4.89;f
+129;2023-05-09;2023;2;5;19;9;42;42;Product 42;Home & Garden;Subcat A;Brand Z;46;46;Customer 46;Texas;Male;26-35;1;Website;1161.00;6;1;4.85;f
+311;2023-11-07;2023;4;11;45;7;42;42;Product 42;Home & Garden;Subcat A;Brand Z;92;92;Customer 92;New York;Male;36-45;1;Website;123.13;1;4;4.30;f
+70;2023-03-11;2023;1;3;10;11;7;7;Product 7;Home & Garden;Subcat B;Brand W;51;51;Customer 51;Florida;Female;26-35;1;Website;542.10;5;2;3.75;f
+158;2023-06-07;2023;2;6;23;7;38;38;Product 38;Books;Subcat C;Brand Z;50;50;Customer 50;Texas;Male;18-25;1;Website;768.20;5;5;4.68;f
+268;2023-09-25;2023;3;9;39;25;3;3;Product 3;Books;Subcat A;Brand W;58;58;Customer 58;Texas;Male;46-55;1;Website;2391.66;6;3;4.38;f
+240;2023-08-28;2023;3;8;35;28;22;22;Product 22;Home & Garden;Subcat B;Brand Z;83;83;Customer 83;Florida;Female;46-55;1;Website;472.92;2;1;3.23;f
+34;2023-02-03;2023;1;2;5;3;47;47;Product 47;Home & Garden;Subcat C;Brand W;6;6;Customer 6;Texas;Male;26-35;1;Website;3942.40;10;5;3.72;f
+83;2023-03-24;2023;1;3;12;24;48;48;Product 48;Books;Subcat A;Brand X;27;27;Customer 27;Florida;Female;36-45;2;Mobile App;867.96;9;2;4.23;f
+103;2023-04-13;2023;2;4;15;13;21;21;Product 21;Clothing;Subcat A;Brand Y;91;91;Customer 91;Florida;Female;26-35;1;Website;1909.20;5;3;4.01;f
+261;2023-09-18;2023;3;9;38;18;12;12;Product 12;Home & Garden;Subcat A;Brand X;40;40;Customer 40;New York;Male;18-25;2;Mobile App;1163.97;9;4;3.57;f
+157;2023-06-06;2023;2;6;23;6;3;3;Product 3;Books;Subcat A;Brand W;56;56;Customer 56;New York;Male;26-35;1;Website;4854.50;10;5;4.97;t
+185;2023-07-04;2023;3;7;27;4;33;33;Product 33;Books;Subcat A;Brand Y;30;30;Customer 30;Texas;Male;18-25;2;Mobile App;1787.40;9;5;4.78;f
+77;2023-03-18;2023;1;3;11;18;12;12;Product 12;Home & Garden;Subcat A;Brand X;32;32;Customer 32;New York;Male;36-45;2;Mobile App;2567.70;9;4;4.13;f
+31;2023-01-31;2023;1;1;5;31;42;42;Product 42;Home & Garden;Subcat A;Brand Z;52;52;Customer 52;New York;Male;36-45;2;Mobile App;1901.60;10;1;3.94;f
+12;2023-01-12;2023;1;1;2;12;29;29;Product 29;Toys;Subcat C;Brand Y;66;66;Customer 66;Texas;Male;26-35;2;Mobile App;250.90;1;3;4.56;f
+208;2023-07-27;2023;3;7;30;27;8;8;Product 8;Books;Subcat C;Brand X;42;42;Customer 42;Texas;Male;36-45;2;Mobile App;1201.88;4;4;3.93;f
+138;2023-05-18;2023;2;5;20;18;31;31;Product 31;Clothing;Subcat B;Brand W;46;46;Customer 46;Texas;Male;26-35;1;Website;3397.94;7;3;3.48;f
+159;2023-06-08;2023;2;6;23;8;11;11;Product 11;Clothing;Subcat C;Brand W;86;86;Customer 86;Texas;Male;26-35;2;Mobile App;1146.93;3;2;3.28;f
+246;2023-09-03;2023;3;9;35;3;7;7;Product 7;Home & Garden;Subcat B;Brand W;52;52;Customer 52;New York;Male;36-45;1;Website;969.66;9;1;4.73;f
+331;2023-11-27;2023;4;11;48;27;21;21;Product 21;Clothing;Subcat A;Brand Y;92;92;Customer 92;New York;Male;36-45;1;Website;3599.53;11;1;4.15;t
+251;2023-09-08;2023;3;9;36;8;22;22;Product 22;Home & Garden;Subcat B;Brand Z;18;18;Customer 18;Texas;Male;46-55;2;Mobile App;323.83;1;1;4.82;f
+6;2023-01-06;2023;1;1;1;6;12;12;Product 12;Home & Garden;Subcat A;Brand X;56;56;Customer 56;New York;Male;26-35;2;Mobile App;510.15;1;2;4.33;f
+114;2023-04-24;2023;2;4;17;24;43;43;Product 43;Books;Subcat B;Brand W;10;10;Customer 10;Texas;Male;18-25;2;Mobile App;3079.20;6;4;3.21;t
+208;2023-07-27;2023;3;7;30;27;7;7;Product 7;Home & Garden;Subcat B;Brand W;66;66;Customer 66;Texas;Male;26-35;1;Website;3939.84;9;2;4.10;f
+325;2023-11-21;2023;4;11;47;21;9;9;Product 9;Toys;Subcat A;Brand Y;3;3;Customer 3;Florida;Female;46-55;2;Mobile App;556.75;5;4;4.15;f
+258;2023-09-15;2023;3;9;37;15;29;29;Product 29;Toys;Subcat C;Brand Y;71;71;Customer 71;Florida;Female;26-35;2;Mobile App;1285.41;3;2;4.21;f
+108;2023-04-18;2023;2;4;16;18;41;41;Product 41;Clothing;Subcat C;Brand Y;96;96;Customer 96;New York;Male;26-35;1;Website;1001.36;2;2;3.27;f
+141;2023-05-21;2023;2;5;20;21;1;1;Product 1;Clothing;Subcat B;Brand Y;3;3;Customer 3;Florida;Female;46-55;2;Mobile App;2072.96;4;2;4.46;f
+327;2023-11-23;2023;4;11;47;23;8;8;Product 8;Books;Subcat C;Brand X;2;2;Customer 2;Texas;Male;36-45;1;Website;407.16;1;4;3.26;f
+291;2023-10-18;2023;4;10;42;18;8;8;Product 8;Books;Subcat C;Brand X;95;95;Customer 95;Florida;Female;18-25;1;Website;1720.07;11;5;4.75;f
+269;2023-09-26;2023;3;9;39;26;48;48;Product 48;Books;Subcat A;Brand X;46;46;Customer 46;Texas;Male;26-35;2;Mobile App;5196.70;10;3;3.64;f
+277;2023-10-04;2023;4;10;40;4;27;27;Product 27;Home & Garden;Subcat A;Brand W;35;35;Customer 35;Florida;Female;18-25;1;Website;3024.42;6;4;4.32;f
+151;2023-05-31;2023;2;5;22;31;28;28;Product 28;Books;Subcat B;Brand X;11;11;Customer 11;Florida;Female;26-35;2;Mobile App;2209.00;5;2;4.35;f
+62;2023-03-03;2023;1;3;9;3;2;2;Product 2;Home & Garden;Subcat C;Brand Z;16;16;Customer 16;New York;Male;26-35;2;Mobile App;93.05;1;4;3.16;f
+316;2023-11-12;2023;4;11;45;12;23;23;Product 23;Books;Subcat C;Brand W;51;51;Customer 51;Florida;Female;26-35;2;Mobile App;2139.80;10;2;3.67;f
+122;2023-05-02;2023;2;5;18;2;44;44;Product 44;Toys;Subcat C;Brand X;43;43;Customer 43;Florida;Female;46-55;1;Website;2097.40;10;3;3.86;t
+203;2023-07-22;2023;3;7;29;22;43;43;Product 43;Books;Subcat B;Brand W;12;12;Customer 12;New York;Male;36-45;1;Website;367.14;6;3;4.38;f
+60;2023-03-01;2023;1;3;9;1;27;27;Product 27;Home & Garden;Subcat A;Brand W;56;56;Customer 56;New York;Male;26-35;2;Mobile App;898.28;4;3;4.93;f
+53;2023-02-22;2023;1;2;8;22;37;37;Product 37;Home & Garden;Subcat B;Brand Y;52;52;Customer 52;New York;Male;36-45;1;Website;1521.45;5;5;3.41;f
+156;2023-06-05;2023;2;6;23;5;34;34;Product 34;Toys;Subcat B;Brand Z;30;30;Customer 30;Texas;Male;18-25;1;Website;216.78;1;2;3.69;f
+327;2023-11-23;2023;4;11;47;23;42;42;Product 42;Home & Garden;Subcat A;Brand Z;26;26;Customer 26;Texas;Male;26-35;2;Mobile App;1902.08;8;2;4.03;f
+184;2023-07-03;2023;3;7;27;3;43;43;Product 43;Books;Subcat B;Brand W;96;96;Customer 96;New York;Male;26-35;2;Mobile App;575.05;5;1;4.82;f
+273;2023-09-30;2023;3;9;39;30;34;34;Product 34;Toys;Subcat B;Brand Z;87;87;Customer 87;Florida;Female;36-45;1;Website;90.27;1;2;3.95;f
+14;2023-01-14;2023;1;1;2;14;12;12;Product 12;Home & Garden;Subcat A;Brand X;28;28;Customer 28;New York;Male;46-55;2;Mobile App;481.13;1;5;3.19;f
+294;2023-10-21;2023;4;10;42;21;36;36;Product 36;Clothing;Subcat A;Brand X;28;28;Customer 28;New York;Male;46-55;1;Website;3682.36;11;4;3.11;f
+329;2023-11-25;2023;4;11;47;25;2;2;Product 2;Home & Garden;Subcat C;Brand Z;71;71;Customer 71;Florida;Female;26-35;2;Mobile App;3977.64;9;4;4.53;f
+50;2023-02-19;2023;1;2;7;19;28;28;Product 28;Books;Subcat B;Brand X;12;12;Customer 12;New York;Male;36-45;2;Mobile App;426.24;6;5;3.46;f
+46;2023-02-15;2023;1;2;7;15;2;2;Product 2;Home & Garden;Subcat C;Brand Z;71;71;Customer 71;Florida;Female;26-35;1;Website;725.31;9;3;4.88;f
+303;2023-10-30;2023;4;10;44;30;27;27;Product 27;Home & Garden;Subcat A;Brand W;42;42;Customer 42;Texas;Male;36-45;1;Website;208.12;1;2;4.89;f
+284;2023-10-11;2023;4;10;41;11;31;31;Product 31;Clothing;Subcat B;Brand W;48;48;Customer 48;New York;Male;46-55;1;Website;1360.70;10;5;3.64;f
+197;2023-07-16;2023;3;7;28;16;34;34;Product 34;Toys;Subcat B;Brand Z;90;90;Customer 90;Texas;Male;18-25;1;Website;4793.30;10;4;4.93;f
+55;2023-02-24;2023;1;2;8;24;44;44;Product 44;Toys;Subcat C;Brand X;32;32;Customer 32;New York;Male;36-45;1;Website;1341.60;4;1;4.75;f
+166;2023-06-15;2023;2;6;24;15;4;4;Product 4;Toys;Subcat B;Brand X;8;8;Customer 8;New York;Male;46-55;1;Website;1627.12;4;1;4.23;f
+107;2023-04-17;2023;2;4;16;17;32;32;Product 32;Home & Garden;Subcat C;Brand X;88;88;Customer 88;New York;Male;46-55;1;Website;637.08;3;5;3.36;t
+329;2023-11-25;2023;4;11;47;25;8;8;Product 8;Books;Subcat C;Brand X;32;32;Customer 32;New York;Male;36-45;2;Mobile App;273.34;2;4;3.86;f
+171;2023-06-20;2023;2;6;25;20;27;27;Product 27;Home & Garden;Subcat A;Brand W;15;15;Customer 15;Florida;Female;18-25;2;Mobile App;1498.70;5;1;3.46;f
+284;2023-10-11;2023;4;10;41;11;29;29;Product 29;Toys;Subcat C;Brand Y;31;31;Customer 31;Florida;Female;26-35;2;Mobile App;2685.97;7;3;3.27;t
+10;2023-01-10;2023;1;1;2;10;19;19;Product 19;Toys;Subcat B;Brand W;62;62;Customer 62;Texas;Male;36-45;1;Website;1370.25;7;3;4.81;f
+330;2023-11-26;2023;4;11;47;26;29;29;Product 29;Toys;Subcat C;Brand Y;43;43;Customer 43;Florida;Female;46-55;2;Mobile App;839.64;6;3;4.36;f
+74;2023-03-15;2023;1;3;11;15;49;49;Product 49;Toys;Subcat B;Brand Y;36;36;Customer 36;New York;Male;26-35;2;Mobile App;405.64;4;4;3.99;f
+114;2023-04-24;2023;2;4;17;24;49;49;Product 49;Toys;Subcat B;Brand Y;68;68;Customer 68;New York;Male;46-55;2;Mobile App;1642.24;8;3;3.31;f
+316;2023-11-12;2023;4;11;45;12;12;12;Product 12;Home & Garden;Subcat A;Brand X;3;3;Customer 3;Florida;Female;46-55;2;Mobile App;2737.04;8;2;4.55;f
+209;2023-07-28;2023;3;7;30;28;33;33;Product 33;Books;Subcat A;Brand Y;71;71;Customer 71;Florida;Female;26-35;2;Mobile App;1109.07;9;3;3.97;f
+211;2023-07-30;2023;3;7;30;30;9;9;Product 9;Toys;Subcat A;Brand Y;72;72;Customer 72;New York;Male;36-45;1;Website;316.19;1;2;4.82;f
+192;2023-07-11;2023;3;7;28;11;43;43;Product 43;Books;Subcat B;Brand W;40;40;Customer 40;New York;Male;18-25;1;Website;1575.21;7;2;4.59;f
+180;2023-06-29;2023;2;6;26;29;27;27;Product 27;Home & Garden;Subcat A;Brand W;47;47;Customer 47;Florida;Female;36-45;1;Website;433.95;3;5;3.22;f
+9;2023-01-09;2023;1;1;2;9;13;13;Product 13;Books;Subcat B;Brand Y;51;51;Customer 51;Florida;Female;26-35;1;Website;2212.65;9;2;4.50;t
+264;2023-09-21;2023;3;9;38;21;7;7;Product 7;Home & Garden;Subcat B;Brand W;42;42;Customer 42;Texas;Male;36-45;2;Mobile App;3478.65;7;3;3.88;f
+279;2023-10-06;2023;4;10;40;6;12;12;Product 12;Home & Garden;Subcat A;Brand X;38;38;Customer 38;Texas;Male;46-55;2;Mobile App;1062.28;4;3;4.96;f
+31;2023-01-31;2023;1;1;5;31;16;16;Product 16;Clothing;Subcat B;Brand X;32;32;Customer 32;New York;Male;36-45;1;Website;808.68;3;1;4.84;f
+292;2023-10-19;2023;4;10;42;19;36;36;Product 36;Clothing;Subcat A;Brand X;96;96;Customer 96;New York;Male;26-35;2;Mobile App;177.98;1;3;4.49;f
+49;2023-02-18;2023;1;2;7;18;23;23;Product 23;Books;Subcat C;Brand W;32;32;Customer 32;New York;Male;36-45;2;Mobile App;280.76;4;3;4.02;f
+45;2023-02-14;2023;1;2;7;14;34;34;Product 34;Toys;Subcat B;Brand Z;75;75;Customer 75;Florida;Female;18-25;1;Website;1500.40;10;4;3.51;f
+185;2023-07-04;2023;3;7;27;4;31;31;Product 31;Clothing;Subcat B;Brand W;100;100;Customer 100;New York;Male;18-25;2;Mobile App;1662.00;4;4;4.77;f
+85;2023-03-26;2023;1;3;12;26;42;42;Product 42;Home & Garden;Subcat A;Brand Z;10;10;Customer 10;Texas;Male;18-25;2;Mobile App;472.77;3;4;4.34;f
+226;2023-08-14;2023;3;8;33;14;28;28;Product 28;Books;Subcat B;Brand X;95;95;Customer 95;Florida;Female;18-25;1;Website;4169.70;9;1;3.05;f
+212;2023-07-31;2023;3;7;31;31;29;29;Product 29;Toys;Subcat C;Brand Y;27;27;Customer 27;Florida;Female;36-45;1;Website;381.48;3;4;3.84;f
+201;2023-07-20;2023;3;7;29;20;36;36;Product 36;Clothing;Subcat A;Brand X;10;10;Customer 10;Texas;Male;18-25;1;Website;2131.28;8;4;4.36;f
+2;2023-01-02;2023;1;1;1;2;17;17;Product 17;Home & Garden;Subcat C;Brand Y;90;90;Customer 90;Texas;Male;18-25;2;Mobile App;3456.54;9;2;3.32;t
+61;2023-03-02;2023;1;3;9;2;4;4;Product 4;Toys;Subcat B;Brand X;46;46;Customer 46;Texas;Male;26-35;2;Mobile App;522.70;5;4;3.28;t
+208;2023-07-27;2023;3;7;30;27;17;17;Product 17;Home & Garden;Subcat C;Brand Y;70;70;Customer 70;Texas;Male;18-25;1;Website;1486.96;4;2;4.99;f
+91;2023-04-01;2023;2;4;13;1;27;27;Product 27;Home & Garden;Subcat A;Brand W;23;23;Customer 23;Florida;Female;46-55;2;Mobile App;144.72;2;4;3.14;f
+1;2023-01-01;2023;1;1;52;1;37;37;Product 37;Home & Garden;Subcat B;Brand Y;56;56;Customer 56;New York;Male;26-35;2;Mobile App;4984.00;10;3;3.31;f
+7;2023-01-07;2023;1;1;1;7;7;7;Product 7;Home & Garden;Subcat B;Brand W;90;90;Customer 90;Texas;Male;18-25;1;Website;1478.64;6;2;3.76;f
+128;2023-05-08;2023;2;5;19;8;9;9;Product 9;Toys;Subcat A;Brand Y;3;3;Customer 3;Florida;Female;46-55;1;Website;3910.88;8;2;4.05;f
+176;2023-06-25;2023;2;6;25;25;38;38;Product 38;Books;Subcat C;Brand Z;96;96;Customer 96;New York;Male;26-35;2;Mobile App;120.50;1;5;4.65;t
+128;2023-05-08;2023;2;5;19;8;34;34;Product 34;Toys;Subcat B;Brand Z;100;100;Customer 100;New York;Male;18-25;1;Website;3470.48;8;4;4.87;f
+248;2023-09-05;2023;3;9;36;5;33;33;Product 33;Books;Subcat A;Brand Y;63;63;Customer 63;Florida;Female;46-55;2;Mobile App;1834.15;5;5;4.38;t
+326;2023-11-22;2023;4;11;47;22;19;19;Product 19;Toys;Subcat B;Brand W;75;75;Customer 75;Florida;Female;18-25;1;Website;1607.95;5;2;4.03;t
+282;2023-10-09;2023;4;10;41;9;48;48;Product 48;Books;Subcat A;Brand X;92;92;Customer 92;New York;Male;36-45;1;Website;395.90;2;4;4.08;f
+97;2023-04-07;2023;2;4;14;7;43;43;Product 43;Books;Subcat B;Brand W;11;11;Customer 11;Florida;Female;26-35;1;Website;3256.26;7;5;3.92;f
+214;2023-08-02;2023;3;8;31;2;2;2;Product 2;Home & Garden;Subcat C;Brand Z;71;71;Customer 71;Florida;Female;26-35;2;Mobile App;404.40;5;5;3.55;f
+14;2023-01-14;2023;1;1;2;14;13;13;Product 13;Books;Subcat B;Brand Y;62;62;Customer 62;Texas;Male;36-45;1;Website;405.32;4;3;3.15;f
+263;2023-09-20;2023;3;9;38;20;32;32;Product 32;Home & Garden;Subcat C;Brand X;15;15;Customer 15;Florida;Female;18-25;2;Mobile App;330.84;6;5;4.42;f
+57;2023-02-26;2023;1;2;8;26;21;21;Product 21;Clothing;Subcat A;Brand Y;62;62;Customer 62;Texas;Male;36-45;1;Website;316.32;3;3;4.58;f
+233;2023-08-21;2023;3;8;34;21;14;14;Product 14;Toys;Subcat C;Brand Z;67;67;Customer 67;Florida;Female;36-45;1;Website;656.26;2;1;3.38;f
+18;2023-01-18;2023;1;1;3;18;19;19;Product 19;Toys;Subcat B;Brand W;36;36;Customer 36;New York;Male;26-35;2;Mobile App;500.56;8;3;3.96;f
+197;2023-07-16;2023;3;7;28;16;7;7;Product 7;Home & Garden;Subcat B;Brand W;58;58;Customer 58;Texas;Male;46-55;2;Mobile App;1857.24;6;5;3.04;f
+84;2023-03-25;2023;1;3;12;25;2;2;Product 2;Home & Garden;Subcat C;Brand Z;68;68;Customer 68;New York;Male;46-55;2;Mobile App;1783.67;7;2;4.70;f
+261;2023-09-18;2023;3;9;38;18;29;29;Product 29;Toys;Subcat C;Brand Y;46;46;Customer 46;Texas;Male;26-35;1;Website;2950.00;8;4;4.11;f
+137;2023-05-17;2023;2;5;20;17;3;3;Product 3;Books;Subcat A;Brand W;63;63;Customer 63;Florida;Female;46-55;2;Mobile App;3439.71;9;5;4.69;t
+138;2023-05-18;2023;2;5;20;18;28;28;Product 28;Books;Subcat B;Brand X;36;36;Customer 36;New York;Male;26-35;1;Website;426.96;3;3;4.95;f
+231;2023-08-19;2023;3;8;33;19;3;3;Product 3;Books;Subcat A;Brand W;58;58;Customer 58;Texas;Male;46-55;1;Website;951.58;2;4;4.72;f
+27;2023-01-27;2023;1;1;4;27;34;34;Product 34;Toys;Subcat B;Brand Z;76;76;Customer 76;New York;Male;26-35;2;Mobile App;512.32;2;3;4.45;t
+95;2023-04-05;2023;2;4;14;5;44;44;Product 44;Toys;Subcat C;Brand X;15;15;Customer 15;Florida;Female;18-25;1;Website;2057.40;10;5;3.60;t
+104;2023-04-14;2023;2;4;15;14;3;3;Product 3;Books;Subcat A;Brand W;78;78;Customer 78;Texas;Male;46-55;1;Website;2210.10;5;3;4.96;t
+175;2023-06-24;2023;2;6;25;24;48;48;Product 48;Books;Subcat A;Brand X;10;10;Customer 10;Texas;Male;18-25;2;Mobile App;1613.92;8;4;3.06;t
+224;2023-08-12;2023;3;8;32;12;26;26;Product 26;Clothing;Subcat C;Brand Z;82;82;Customer 82;Texas;Male;36-45;1;Website;2812.59;9;5;4.96;f
+246;2023-09-03;2023;3;9;35;3;46;46;Product 46;Clothing;Subcat B;Brand Z;52;52;Customer 52;New York;Male;36-45;1;Website;1130.10;10;3;3.42;f
+15;2023-01-15;2023;1;1;2;15;42;42;Product 42;Home & Garden;Subcat A;Brand Z;96;96;Customer 96;New York;Male;26-35;1;Website;3170.30;10;3;3.33;f
+116;2023-04-26;2023;2;4;17;26;14;14;Product 14;Toys;Subcat C;Brand Z;86;86;Customer 86;Texas;Male;26-35;1;Website;1668.70;10;4;3.06;f
+37;2023-02-06;2023;1;2;6;6;46;46;Product 46;Clothing;Subcat B;Brand Z;30;30;Customer 30;Texas;Male;18-25;1;Website;474.34;1;3;3.45;f
+61;2023-03-02;2023;1;3;9;2;37;37;Product 37;Home & Garden;Subcat B;Brand Y;75;75;Customer 75;Florida;Female;18-25;2;Mobile App;105.95;1;1;4.59;f
+332;2023-11-28;2023;4;11;48;28;36;36;Product 36;Clothing;Subcat A;Brand X;20;20;Customer 20;New York;Male;18-25;1;Website;650.20;4;4;3.52;f
+234;2023-08-22;2023;3;8;34;22;7;7;Product 7;Home & Garden;Subcat B;Brand W;90;90;Customer 90;Texas;Male;18-25;1;Website;1184.96;8;2;3.22;f
+58;2023-02-27;2023;1;2;9;27;12;12;Product 12;Home & Garden;Subcat A;Brand X;26;26;Customer 26;Texas;Male;26-35;2;Mobile App;329.82;6;5;4.58;f
+251;2023-09-08;2023;3;9;36;8;32;32;Product 32;Home & Garden;Subcat C;Brand X;6;6;Customer 6;Texas;Male;26-35;2;Mobile App;2049.39;7;1;3.48;f
+30;2023-01-30;2023;1;1;5;30;48;48;Product 48;Books;Subcat A;Brand X;98;98;Customer 98;Texas;Male;46-55;2;Mobile App;3137.44;8;4;3.31;f
+76;2023-03-17;2023;1;3;11;17;6;6;Product 6;Clothing;Subcat A;Brand Z;92;92;Customer 92;New York;Male;36-45;2;Mobile App;1974.28;4;4;3.03;f
+334;2023-11-30;2023;4;11;48;30;38;38;Product 38;Books;Subcat C;Brand Z;6;6;Customer 6;Texas;Male;26-35;2;Mobile App;2686.14;9;5;3.19;f
+125;2023-05-05;2023;2;5;18;5;26;26;Product 26;Clothing;Subcat C;Brand Z;32;32;Customer 32;New York;Male;36-45;1;Website;1321.05;5;2;3.35;t
+294;2023-10-21;2023;4;10;42;21;46;46;Product 46;Clothing;Subcat B;Brand Z;47;47;Customer 47;Florida;Female;36-45;2;Mobile App;1047.40;10;2;3.91;f
+311;2023-11-07;2023;4;11;45;7;4;4;Product 4;Toys;Subcat B;Brand X;35;35;Customer 35;Florida;Female;18-25;1;Website;2600.80;8;1;3.85;f
+326;2023-11-22;2023;4;11;47;22;23;23;Product 23;Books;Subcat C;Brand W;35;35;Customer 35;Florida;Female;18-25;1;Website;40.95;1;4;4.56;f
+32;2023-02-01;2023;1;2;5;1;43;43;Product 43;Books;Subcat B;Brand W;58;58;Customer 58;Texas;Male;46-55;1;Website;3592.40;8;5;3.96;f
+48;2023-02-17;2023;1;2;7;17;17;17;Product 17;Home & Garden;Subcat C;Brand Y;31;31;Customer 31;Florida;Female;26-35;2;Mobile App;2142.72;8;5;3.11;f
+6;2023-01-06;2023;1;1;1;6;29;29;Product 29;Toys;Subcat C;Brand Y;75;75;Customer 75;Florida;Female;18-25;1;Website;3900.00;10;2;3.38;f
+190;2023-07-09;2023;3;7;27;9;4;4;Product 4;Toys;Subcat B;Brand X;43;43;Customer 43;Florida;Female;46-55;1;Website;2760.73;7;2;4.37;f
+310;2023-11-06;2023;4;11;45;6;13;13;Product 13;Books;Subcat B;Brand Y;96;96;Customer 96;New York;Male;26-35;2;Mobile App;1193.05;5;4;3.07;f
+294;2023-10-21;2023;4;10;42;21;4;4;Product 4;Toys;Subcat B;Brand X;2;2;Customer 2;Texas;Male;36-45;1;Website;3800.90;10;4;3.68;f
+251;2023-09-08;2023;3;9;36;8;34;34;Product 34;Toys;Subcat B;Brand Z;52;52;Customer 52;New York;Male;36-45;2;Mobile App;2377.44;8;3;4.58;f
+252;2023-09-09;2023;3;9;36;9;8;8;Product 8;Books;Subcat C;Brand X;36;36;Customer 36;New York;Male;26-35;1;Website;3003.00;10;1;3.77;f
+93;2023-04-03;2023;2;4;14;3;1;1;Product 1;Clothing;Subcat B;Brand Y;83;83;Customer 83;Florida;Female;46-55;2;Mobile App;1066.40;10;1;4.91;f
+228;2023-08-16;2023;3;8;33;16;46;46;Product 46;Clothing;Subcat B;Brand Z;40;40;Customer 40;New York;Male;18-25;2;Mobile App;2740.68;9;2;3.19;f
+131;2023-05-11;2023;2;5;19;11;27;27;Product 27;Home & Garden;Subcat A;Brand W;87;87;Customer 87;Florida;Female;36-45;1;Website;405.84;4;4;4.77;f
+59;2023-02-28;2023;1;2;9;28;43;43;Product 43;Books;Subcat B;Brand W;62;62;Customer 62;Texas;Male;36-45;2;Mobile App;277.04;2;3;4.86;f
+63;2023-03-04;2023;1;3;9;4;4;4;Product 4;Toys;Subcat B;Brand X;26;26;Customer 26;Texas;Male;26-35;2;Mobile App;988.45;5;3;4.36;f
+227;2023-08-15;2023;3;8;33;15;1;1;Product 1;Clothing;Subcat B;Brand Y;7;7;Customer 7;Florida;Female;36-45;2;Mobile App;672.21;9;1;4.11;t
+222;2023-08-10;2023;3;8;32;10;22;22;Product 22;Home & Garden;Subcat B;Brand Z;46;46;Customer 46;Texas;Male;26-35;2;Mobile App;912.30;5;2;3.85;f
+312;2023-11-08;2023;4;11;45;8;11;11;Product 11;Clothing;Subcat C;Brand W;31;31;Customer 31;Florida;Female;26-35;2;Mobile App;153.82;2;4;3.50;f
+165;2023-06-14;2023;2;6;24;14;28;28;Product 28;Books;Subcat B;Brand X;32;32;Customer 32;New York;Male;36-45;2;Mobile App;961.20;3;1;4.97;f
+101;2023-04-11;2023;2;4;15;11;26;26;Product 26;Clothing;Subcat C;Brand Z;31;31;Customer 31;Florida;Female;26-35;1;Website;3603.28;8;2;3.12;f
+124;2023-05-04;2023;2;5;18;4;46;46;Product 46;Clothing;Subcat B;Brand Z;51;51;Customer 51;Florida;Female;26-35;2;Mobile App;1924.01;11;5;4.76;f
+313;2023-11-09;2023;4;11;45;9;36;36;Product 36;Clothing;Subcat A;Brand X;91;91;Customer 91;Florida;Female;26-35;1;Website;2660.84;7;3;3.03;f
+118;2023-04-28;2023;2;4;17;28;39;39;Product 39;Toys;Subcat A;Brand W;42;42;Customer 42;Texas;Male;36-45;1;Website;660.34;2;3;4.79;f
+205;2023-07-24;2023;3;7;30;24;12;12;Product 12;Home & Garden;Subcat A;Brand X;51;51;Customer 51;Florida;Female;26-35;1;Website;1071.84;3;5;4.00;f
+32;2023-02-01;2023;1;2;5;1;49;49;Product 49;Toys;Subcat B;Brand Y;36;36;Customer 36;New York;Male;26-35;1;Website;434.94;2;1;3.18;f
+86;2023-03-27;2023;1;3;13;27;42;42;Product 42;Home & Garden;Subcat A;Brand Z;30;30;Customer 30;Texas;Male;18-25;1;Website;4298.00;10;1;4.30;f
+26;2023-01-26;2023;1;1;4;26;14;14;Product 14;Toys;Subcat C;Brand Z;87;87;Customer 87;Florida;Female;36-45;1;Website;368.52;4;4;4.83;t
+106;2023-04-16;2023;2;4;15;16;16;16;Product 16;Clothing;Subcat B;Brand X;58;58;Customer 58;Texas;Male;46-55;2;Mobile App;1554.00;5;5;3.54;f
+5;2023-01-05;2023;1;1;1;5;48;48;Product 48;Books;Subcat A;Brand X;32;32;Customer 32;New York;Male;36-45;2;Mobile App;536.19;3;3;3.55;f
+98;2023-04-08;2023;2;4;14;8;47;47;Product 47;Home & Garden;Subcat C;Brand W;70;70;Customer 70;Texas;Male;18-25;2;Mobile App;750.80;4;2;4.52;f
+285;2023-10-12;2023;4;10;41;12;33;33;Product 33;Books;Subcat A;Brand Y;56;56;Customer 56;New York;Male;26-35;1;Website;901.77;3;2;4.68;f
+10;2023-01-10;2023;1;1;2;10;32;32;Product 32;Home & Garden;Subcat C;Brand X;3;3;Customer 3;Florida;Female;46-55;1;Website;1542.30;3;5;3.46;f
+147;2023-05-27;2023;2;5;21;27;3;3;Product 3;Books;Subcat A;Brand W;26;26;Customer 26;Texas;Male;26-35;1;Website;3693.60;9;2;4.45;f
+114;2023-04-24;2023;2;4;17;24;9;9;Product 9;Toys;Subcat A;Brand Y;43;43;Customer 43;Florida;Female;46-55;1;Website;3407.20;10;4;4.95;f
+118;2023-04-28;2023;2;4;17;28;11;11;Product 11;Clothing;Subcat C;Brand W;28;28;Customer 28;New York;Male;46-55;2;Mobile App;129.48;1;3;3.58;f
+216;2023-08-04;2023;3;8;31;4;33;33;Product 33;Books;Subcat A;Brand Y;90;90;Customer 90;Texas;Male;18-25;1;Website;293.15;5;1;3.66;f
+288;2023-10-15;2023;4;10;41;15;37;37;Product 37;Home & Garden;Subcat B;Brand Y;98;98;Customer 98;Texas;Male;46-55;2;Mobile App;1186.20;6;1;4.76;f
+120;2023-04-30;2023;2;4;17;30;41;41;Product 41;Clothing;Subcat C;Brand Y;76;76;Customer 76;New York;Male;26-35;1;Website;2767.73;7;2;3.80;f
+282;2023-10-09;2023;4;10;41;9;42;42;Product 42;Home & Garden;Subcat A;Brand Z;75;75;Customer 75;Florida;Female;18-25;2;Mobile App;785.34;9;4;4.40;f
+14;2023-01-14;2023;1;1;2;14;43;43;Product 43;Books;Subcat B;Brand W;71;71;Customer 71;Florida;Female;26-35;1;Website;1065.18;3;2;4.67;f
+271;2023-09-28;2023;3;9;39;28;14;14;Product 14;Toys;Subcat C;Brand Z;67;67;Customer 67;Florida;Female;36-45;2;Mobile App;3261.50;10;4;3.32;f
+27;2023-01-27;2023;1;1;4;27;12;12;Product 12;Home & Garden;Subcat A;Brand X;56;56;Customer 56;New York;Male;26-35;2;Mobile App;1508.30;10;1;3.54;f
+97;2023-04-07;2023;2;4;14;7;36;36;Product 36;Clothing;Subcat A;Brand X;36;36;Customer 36;New York;Male;26-35;1;Website;3586.03;7;3;4.88;f
+265;2023-09-22;2023;3;9;38;22;42;42;Product 42;Home & Garden;Subcat A;Brand Z;22;22;Customer 22;Texas;Male;36-45;1;Website;2162.16;6;5;4.01;f
+109;2023-04-19;2023;2;4;16;19;48;48;Product 48;Books;Subcat A;Brand X;38;38;Customer 38;Texas;Male;46-55;2;Mobile App;1340.37;3;4;4.73;f
+143;2023-05-23;2023;2;5;21;23;7;7;Product 7;Home & Garden;Subcat B;Brand W;36;36;Customer 36;New York;Male;26-35;1;Website;866.05;5;5;3.52;f
+281;2023-10-08;2023;4;10;40;8;39;39;Product 39;Toys;Subcat A;Brand W;70;70;Customer 70;Texas;Male;18-25;1;Website;1624.75;5;3;3.63;f
+74;2023-03-15;2023;1;3;11;15;6;6;Product 6;Clothing;Subcat A;Brand Z;48;48;Customer 48;New York;Male;46-55;1;Website;1657.70;5;4;4.66;f
+145;2023-05-25;2023;2;5;21;25;3;3;Product 3;Books;Subcat A;Brand W;51;51;Customer 51;Florida;Female;26-35;2;Mobile App;259.72;4;3;3.02;f
+185;2023-07-04;2023;3;7;27;4;16;16;Product 16;Clothing;Subcat B;Brand X;72;72;Customer 72;New York;Male;36-45;2;Mobile App;2327.36;8;4;3.55;f
+136;2023-05-16;2023;2;5;20;16;31;31;Product 31;Clothing;Subcat B;Brand W;30;30;Customer 30;Texas;Male;18-25;1;Website;816.82;2;1;3.35;f
+70;2023-03-11;2023;1;3;10;11;9;9;Product 9;Toys;Subcat A;Brand Y;35;35;Customer 35;Florida;Female;18-25;1;Website;271.70;2;3;4.81;f
+155;2023-06-04;2023;2;6;22;4;8;8;Product 8;Books;Subcat C;Brand X;96;96;Customer 96;New York;Male;26-35;1;Website;2709.72;6;3;3.97;f
+119;2023-04-29;2023;2;4;17;29;3;3;Product 3;Books;Subcat A;Brand W;46;46;Customer 46;Texas;Male;26-35;2;Mobile App;3411.12;8;3;3.12;f
+196;2023-07-15;2023;3;7;28;15;18;18;Product 18;Books;Subcat A;Brand Z;95;95;Customer 95;Florida;Female;18-25;2;Mobile App;255.90;1;3;3.28;f
+121;2023-05-01;2023;2;5;18;1;26;26;Product 26;Clothing;Subcat C;Brand Z;51;51;Customer 51;Florida;Female;26-35;1;Website;859.05;3;1;3.25;f
+161;2023-06-10;2023;2;6;23;10;8;8;Product 8;Books;Subcat C;Brand X;71;71;Customer 71;Florida;Female;26-35;1;Website;219.78;9;4;4.15;f
+194;2023-07-13;2023;3;7;28;13;41;41;Product 41;Clothing;Subcat C;Brand Y;68;68;Customer 68;New York;Male;46-55;2;Mobile App;225.36;8;3;3.05;f
+233;2023-08-21;2023;3;8;34;21;36;36;Product 36;Clothing;Subcat A;Brand X;16;16;Customer 16;New York;Male;26-35;2;Mobile App;3804.84;9;1;3.80;f
+306;2023-11-02;2023;4;11;44;2;47;47;Product 47;Home & Garden;Subcat C;Brand W;90;90;Customer 90;Texas;Male;18-25;2;Mobile App;712.64;2;2;3.11;f
+278;2023-10-05;2023;4;10;40;5;8;8;Product 8;Books;Subcat C;Brand X;30;30;Customer 30;Texas;Male;18-25;1;Website;279.17;1;4;3.59;f
+104;2023-04-14;2023;2;4;15;14;3;3;Product 3;Books;Subcat A;Brand W;10;10;Customer 10;Texas;Male;18-25;1;Website;132.12;4;3;3.57;f
+262;2023-09-19;2023;3;9;38;19;23;23;Product 23;Books;Subcat C;Brand W;16;16;Customer 16;New York;Male;26-35;2;Mobile App;271.91;1;3;3.13;f
+144;2023-05-24;2023;2;5;21;24;2;2;Product 2;Home & Garden;Subcat C;Brand Z;27;27;Customer 27;Florida;Female;36-45;1;Website;1438.62;3;2;3.94;f
+104;2023-04-14;2023;2;4;15;14;23;23;Product 23;Books;Subcat C;Brand W;46;46;Customer 46;Texas;Male;26-35;2;Mobile App;1166.69;7;5;4.14;f
+289;2023-10-16;2023;4;10;42;16;2;2;Product 2;Home & Garden;Subcat C;Brand Z;30;30;Customer 30;Texas;Male;18-25;1;Website;2521.68;8;5;3.74;f
+43;2023-02-12;2023;1;2;6;12;44;44;Product 44;Toys;Subcat C;Brand X;82;82;Customer 82;Texas;Male;36-45;2;Mobile App;431.97;1;3;4.72;f
+277;2023-10-04;2023;4;10;40;4;2;2;Product 2;Home & Garden;Subcat C;Brand Z;96;96;Customer 96;New York;Male;26-35;1;Website;2659.32;6;4;3.66;f
+218;2023-08-06;2023;3;8;31;6;24;24;Product 24;Toys;Subcat A;Brand X;75;75;Customer 75;Florida;Female;18-25;1;Website;2009.79;9;2;4.72;f
+267;2023-09-24;2023;3;9;38;24;49;49;Product 49;Toys;Subcat B;Brand Y;51;51;Customer 51;Florida;Female;26-35;1;Website;4868.60;10;3;3.59;f
+9;2023-01-09;2023;1;1;2;9;9;9;Product 9;Toys;Subcat A;Brand Y;60;60;Customer 60;New York;Male;18-25;2;Mobile App;4332.33;9;2;4.75;f
+179;2023-06-28;2023;2;6;26;28;12;12;Product 12;Home & Garden;Subcat A;Brand X;58;58;Customer 58;Texas;Male;46-55;2;Mobile App;3024.42;7;2;4.30;f
+120;2023-04-30;2023;2;4;17;30;39;39;Product 39;Toys;Subcat A;Brand W;46;46;Customer 46;Texas;Male;26-35;2;Mobile App;3231.20;7;5;3.14;f
+205;2023-07-24;2023;3;7;30;24;22;22;Product 22;Home & Garden;Subcat B;Brand Z;86;86;Customer 86;Texas;Male;26-35;1;Website;4529.25;9;2;3.14;f
+162;2023-06-11;2023;2;6;23;11;36;36;Product 36;Clothing;Subcat A;Brand X;48;48;Customer 48;New York;Male;46-55;2;Mobile App;3104.00;8;2;3.09;f
+6;2023-01-06;2023;1;1;1;6;47;47;Product 47;Home & Garden;Subcat C;Brand W;51;51;Customer 51;Florida;Female;26-35;2;Mobile App;1724.40;10;3;4.10;f
+64;2023-03-05;2023;1;3;9;5;2;2;Product 2;Home & Garden;Subcat C;Brand Z;18;18;Customer 18;Texas;Male;46-55;2;Mobile App;222.95;5;4;4.90;f
+318;2023-11-14;2023;4;11;46;14;26;26;Product 26;Clothing;Subcat C;Brand Z;31;31;Customer 31;Florida;Female;26-35;2;Mobile App;72.15;3;2;4.07;f
+21;2023-01-21;2023;1;1;3;21;22;22;Product 22;Home & Garden;Subcat B;Brand Z;42;42;Customer 42;Texas;Male;36-45;1;Website;1377.00;5;3;3.73;f
+71;2023-03-12;2023;1;3;10;12;49;49;Product 49;Toys;Subcat B;Brand Y;55;55;Customer 55;Florida;Female;18-25;1;Website;1277.36;4;1;4.24;f
+41;2023-02-10;2023;1;2;6;10;12;12;Product 12;Home & Garden;Subcat A;Brand X;6;6;Customer 6;Texas;Male;26-35;1;Website;571.34;11;2;4.31;f
+248;2023-09-05;2023;3;9;36;5;26;26;Product 26;Clothing;Subcat C;Brand Z;18;18;Customer 18;Texas;Male;46-55;2;Mobile App;1023.66;2;5;3.21;f
+22;2023-01-22;2023;1;1;3;22;33;33;Product 33;Books;Subcat A;Brand Y;82;82;Customer 82;Texas;Male;36-45;2;Mobile App;1296.00;4;4;4.85;f
+281;2023-10-08;2023;4;10;40;8;42;42;Product 42;Home & Garden;Subcat A;Brand Z;28;28;Customer 28;New York;Male;46-55;2;Mobile App;4237.11;9;3;3.59;t
+19;2023-01-19;2023;1;1;3;19;3;3;Product 3;Books;Subcat A;Brand W;3;3;Customer 3;Florida;Female;46-55;1;Website;192.65;5;2;3.58;f
+206;2023-07-25;2023;3;7;30;25;2;2;Product 2;Home & Garden;Subcat C;Brand Z;70;70;Customer 70;Texas;Male;18-25;1;Website;3180.72;8;1;4.08;f
+67;2023-03-08;2023;1;3;10;8;18;18;Product 18;Books;Subcat A;Brand Z;40;40;Customer 40;New York;Male;18-25;2;Mobile App;201.60;4;2;4.78;f
+16;2023-01-16;2023;1;1;3;16;38;38;Product 38;Books;Subcat C;Brand Z;66;66;Customer 66;Texas;Male;26-35;2;Mobile App;1361.50;10;3;3.75;f
+254;2023-09-11;2023;3;9;37;11;18;18;Product 18;Books;Subcat A;Brand Z;58;58;Customer 58;Texas;Male;46-55;1;Website;2461.20;6;3;3.32;f
+202;2023-07-21;2023;3;7;29;21;24;24;Product 24;Toys;Subcat A;Brand X;92;92;Customer 92;New York;Male;36-45;2;Mobile App;4096.08;9;5;3.84;f
+195;2023-07-14;2023;3;7;28;14;24;24;Product 24;Toys;Subcat A;Brand X;66;66;Customer 66;Texas;Male;26-35;2;Mobile App;1583.28;4;4;4.99;f
+292;2023-10-19;2023;4;10;42;19;16;16;Product 16;Clothing;Subcat B;Brand X;6;6;Customer 6;Texas;Male;26-35;2;Mobile App;324.70;1;1;4.44;f
+265;2023-09-22;2023;3;9;38;22;34;34;Product 34;Toys;Subcat B;Brand Z;72;72;Customer 72;New York;Male;36-45;1;Website;3035.12;11;3;4.23;f
+66;2023-03-07;2023;1;3;10;7;38;38;Product 38;Books;Subcat C;Brand Z;86;86;Customer 86;Texas;Male;26-35;1;Website;1243.69;7;3;4.47;f
+308;2023-11-04;2023;4;11;44;4;48;48;Product 48;Books;Subcat A;Brand X;28;28;Customer 28;New York;Male;46-55;1;Website;2464.74;9;4;4.01;f
+276;2023-10-03;2023;4;10;40;3;31;31;Product 31;Clothing;Subcat B;Brand W;88;88;Customer 88;New York;Male;46-55;2;Mobile App;1880.15;5;3;3.69;f
+215;2023-08-03;2023;3;8;31;3;28;28;Product 28;Books;Subcat B;Brand X;48;48;Customer 48;New York;Male;46-55;2;Mobile App;1740.60;5;4;4.87;t
+307;2023-11-03;2023;4;11;44;3;38;38;Product 38;Books;Subcat C;Brand Z;31;31;Customer 31;Florida;Female;26-35;1;Website;951.94;2;2;3.22;f
+285;2023-10-12;2023;4;10;41;12;49;49;Product 49;Toys;Subcat B;Brand Y;2;2;Customer 2;Texas;Male;36-45;1;Website;2201.60;10;1;4.03;f
+190;2023-07-09;2023;3;7;27;9;2;2;Product 2;Home & Garden;Subcat C;Brand Z;100;100;Customer 100;New York;Male;18-25;1;Website;501.93;9;1;3.72;f
+254;2023-09-11;2023;3;9;37;11;36;36;Product 36;Clothing;Subcat A;Brand X;22;22;Customer 22;Texas;Male;36-45;2;Mobile App;879.30;5;1;3.69;f
+26;2023-01-26;2023;1;1;4;26;42;42;Product 42;Home & Garden;Subcat A;Brand Z;86;86;Customer 86;Texas;Male;26-35;2;Mobile App;1392.60;4;2;3.46;t
+75;2023-03-16;2023;1;3;11;16;24;24;Product 24;Toys;Subcat A;Brand X;47;47;Customer 47;Florida;Female;36-45;2;Mobile App;268.54;1;4;4.99;f
+75;2023-03-16;2023;1;3;11;16;16;16;Product 16;Clothing;Subcat B;Brand X;100;100;Customer 100;New York;Male;18-25;1;Website;2218.86;7;2;4.72;f
+166;2023-06-15;2023;2;6;24;15;39;39;Product 39;Toys;Subcat A;Brand W;91;91;Customer 91;Florida;Female;26-35;2;Mobile App;540.20;4;3;4.66;f
+333;2023-11-29;2023;4;11;48;29;36;36;Product 36;Clothing;Subcat A;Brand X;68;68;Customer 68;New York;Male;46-55;2;Mobile App;2443.80;10;2;4.39;f
+17;2023-01-17;2023;1;1;3;17;2;2;Product 2;Home & Garden;Subcat C;Brand Z;100;100;Customer 100;New York;Male;18-25;2;Mobile App;3886.96;8;1;4.96;f
+154;2023-06-03;2023;2;6;22;3;8;8;Product 8;Books;Subcat C;Brand X;12;12;Customer 12;New York;Male;36-45;2;Mobile App;57.38;2;5;3.24;f
+133;2023-05-13;2023;2;5;19;13;47;47;Product 47;Home & Garden;Subcat C;Brand W;32;32;Customer 32;New York;Male;36-45;1;Website;2146.14;9;1;3.94;f
+268;2023-09-25;2023;3;9;39;25;49;49;Product 49;Toys;Subcat B;Brand Y;50;50;Customer 50;Texas;Male;18-25;1;Website;350.40;6;3;4.93;f
+288;2023-10-15;2023;4;10;41;15;24;24;Product 24;Toys;Subcat A;Brand X;2;2;Customer 2;Texas;Male;36-45;2;Mobile App;3650.16;8;3;4.24;f
+305;2023-11-01;2023;4;11;44;1;42;42;Product 42;Home & Garden;Subcat A;Brand Z;63;63;Customer 63;Florida;Female;46-55;2;Mobile App;184.78;1;3;3.21;f
+87;2023-03-28;2023;1;3;13;28;3;3;Product 3;Books;Subcat A;Brand W;91;91;Customer 91;Florida;Female;26-35;2;Mobile App;744.03;9;1;3.28;f
+26;2023-01-26;2023;1;1;4;26;44;44;Product 44;Toys;Subcat C;Brand X;30;30;Customer 30;Texas;Male;18-25;1;Website;1218.78;3;2;3.81;f
+144;2023-05-24;2023;2;5;21;24;49;49;Product 49;Toys;Subcat B;Brand Y;62;62;Customer 62;Texas;Male;36-45;2;Mobile App;3233.88;9;4;3.50;t
+131;2023-05-11;2023;2;5;19;11;43;43;Product 43;Books;Subcat B;Brand W;80;80;Customer 80;New York;Male;18-25;1;Website;2914.24;8;2;3.32;f
+152;2023-06-01;2023;2;6;22;1;44;44;Product 44;Toys;Subcat C;Brand X;26;26;Customer 26;Texas;Male;26-35;2;Mobile App;2617.52;8;4;3.81;f
+67;2023-03-08;2023;1;3;10;8;29;29;Product 29;Toys;Subcat C;Brand Y;87;87;Customer 87;Florida;Female;36-45;1;Website;858.40;5;1;4.20;f
+111;2023-04-21;2023;2;4;16;21;24;24;Product 24;Toys;Subcat A;Brand X;8;8;Customer 8;New York;Male;46-55;2;Mobile App;1413.80;5;2;3.93;f
+292;2023-10-19;2023;4;10;42;19;9;9;Product 9;Toys;Subcat A;Brand Y;50;50;Customer 50;Texas;Male;18-25;1;Website;1104.93;3;4;3.82;f
+9;2023-01-09;2023;1;1;2;9;2;2;Product 2;Home & Garden;Subcat C;Brand Z;86;86;Customer 86;Texas;Male;26-35;1;Website;673.20;11;4;3.12;f
+213;2023-08-01;2023;3;8;31;1;19;19;Product 19;Toys;Subcat B;Brand W;78;78;Customer 78;Texas;Male;46-55;1;Website;3902.48;8;2;4.42;f
+256;2023-09-13;2023;3;9;37;13;17;17;Product 17;Home & Garden;Subcat C;Brand Y;86;86;Customer 86;Texas;Male;26-35;2;Mobile App;2657.34;6;4;4.20;f
+178;2023-06-27;2023;2;6;26;27;8;8;Product 8;Books;Subcat C;Brand X;98;98;Customer 98;Texas;Male;46-55;1;Website;800.10;2;3;3.03;f
+35;2023-02-04;2023;1;2;5;4;36;36;Product 36;Clothing;Subcat A;Brand X;63;63;Customer 63;Florida;Female;46-55;2;Mobile App;4653.36;9;4;4.55;f
+75;2023-03-16;2023;1;3;11;16;17;17;Product 17;Home & Garden;Subcat C;Brand Y;20;20;Customer 20;New York;Male;18-25;1;Website;439.68;1;3;3.78;f
+8;2023-01-08;2023;1;1;1;8;1;1;Product 1;Clothing;Subcat B;Brand Y;98;98;Customer 98;Texas;Male;46-55;1;Website;314.95;1;3;4.00;f
+316;2023-11-12;2023;4;11;45;12;46;46;Product 46;Clothing;Subcat B;Brand Z;68;68;Customer 68;New York;Male;46-55;1;Website;2122.26;6;3;3.46;f
+276;2023-10-03;2023;4;10;40;3;19;19;Product 19;Toys;Subcat B;Brand W;47;47;Customer 47;Florida;Female;36-45;1;Website;660.60;2;4;3.85;f
+177;2023-06-26;2023;2;6;26;26;37;37;Product 37;Home & Garden;Subcat B;Brand Y;58;58;Customer 58;Texas;Male;46-55;1;Website;501.93;9;2;4.87;f
+208;2023-07-27;2023;3;7;30;27;1;1;Product 1;Clothing;Subcat B;Brand Y;75;75;Customer 75;Florida;Female;18-25;1;Website;2616.21;9;4;4.56;f
+180;2023-06-29;2023;2;6;26;29;9;9;Product 9;Toys;Subcat A;Brand Y;56;56;Customer 56;New York;Male;26-35;2;Mobile App;407.24;1;1;4.63;t
+198;2023-07-17;2023;3;7;29;17;37;37;Product 37;Home & Garden;Subcat B;Brand Y;52;52;Customer 52;New York;Male;36-45;2;Mobile App;422.83;1;3;3.87;f
+291;2023-10-18;2023;4;10;42;18;11;11;Product 11;Clothing;Subcat C;Brand W;51;51;Customer 51;Florida;Female;26-35;1;Website;3093.60;10;2;3.02;f
+10;2023-01-10;2023;1;1;2;10;14;14;Product 14;Toys;Subcat C;Brand Z;46;46;Customer 46;Texas;Male;26-35;1;Website;717.04;2;3;3.79;f
+315;2023-11-11;2023;4;11;45;11;33;33;Product 33;Books;Subcat A;Brand Y;88;88;Customer 88;New York;Male;46-55;1;Website;1548.96;8;3;4.14;f
+13;2023-01-13;2023;1;1;2;13;12;12;Product 12;Home & Garden;Subcat A;Brand X;3;3;Customer 3;Florida;Female;46-55;1;Website;314.36;4;3;4.08;f
+136;2023-05-16;2023;2;5;20;16;33;33;Product 33;Books;Subcat A;Brand Y;38;38;Customer 38;Texas;Male;46-55;1;Website;1273.80;6;2;3.12;f
+143;2023-05-23;2023;2;5;21;23;33;33;Product 33;Books;Subcat A;Brand Y;90;90;Customer 90;Texas;Male;18-25;1;Website;1587.44;8;1;4.95;t
+163;2023-06-12;2023;2;6;24;12;41;41;Product 41;Clothing;Subcat C;Brand Y;52;52;Customer 52;New York;Male;36-45;2;Mobile App;748.06;2;4;3.42;f
+122;2023-05-02;2023;2;5;18;2;33;33;Product 33;Books;Subcat A;Brand Y;95;95;Customer 95;Florida;Female;18-25;1;Website;724.92;3;4;3.63;f
+329;2023-11-25;2023;4;11;47;25;9;9;Product 9;Toys;Subcat A;Brand Y;8;8;Customer 8;New York;Male;46-55;1;Website;2785.86;9;3;4.99;t
+73;2023-03-14;2023;1;3;11;14;16;16;Product 16;Clothing;Subcat B;Brand X;15;15;Customer 15;Florida;Female;18-25;1;Website;320.18;7;2;3.21;t
+221;2023-08-09;2023;3;8;32;9;23;23;Product 23;Books;Subcat C;Brand W;22;22;Customer 22;Texas;Male;36-45;1;Website;605.97;9;5;3.76;f
+274;2023-10-01;2023;4;10;39;1;24;24;Product 24;Toys;Subcat A;Brand X;46;46;Customer 46;Texas;Male;26-35;2;Mobile App;1750.41;9;4;3.68;f
+189;2023-07-08;2023;3;7;27;8;29;29;Product 29;Toys;Subcat C;Brand Y;47;47;Customer 47;Florida;Female;36-45;1;Website;1549.75;5;3;3.12;f
+83;2023-03-24;2023;1;3;12;24;13;13;Product 13;Books;Subcat B;Brand Y;28;28;Customer 28;New York;Male;46-55;2;Mobile App;3259.30;11;2;3.24;f
+39;2023-02-08;2023;1;2;6;8;26;26;Product 26;Clothing;Subcat C;Brand Z;12;12;Customer 12;New York;Male;36-45;2;Mobile App;1159.90;10;4;3.60;f
+271;2023-09-28;2023;3;9;39;28;21;21;Product 21;Clothing;Subcat A;Brand Y;48;48;Customer 48;New York;Male;46-55;1;Website;1711.62;6;2;3.83;f
+58;2023-02-27;2023;1;2;9;27;6;6;Product 6;Clothing;Subcat A;Brand Z;18;18;Customer 18;Texas;Male;46-55;2;Mobile App;1977.71;7;4;3.71;t
+220;2023-08-08;2023;3;8;32;8;12;12;Product 12;Home & Garden;Subcat A;Brand X;60;60;Customer 60;New York;Male;18-25;2;Mobile App;3121.86;7;3;3.59;f
+298;2023-10-25;2023;4;10;43;25;39;39;Product 39;Toys;Subcat A;Brand W;48;48;Customer 48;New York;Male;46-55;2;Mobile App;945.00;4;4;3.49;f
+127;2023-05-07;2023;2;5;18;7;18;18;Product 18;Books;Subcat A;Brand Z;8;8;Customer 8;New York;Male;46-55;1;Website;1071.45;9;4;3.17;f
+290;2023-10-17;2023;4;10;42;17;46;46;Product 46;Clothing;Subcat B;Brand Z;7;7;Customer 7;Florida;Female;36-45;2;Mobile App;966.48;4;1;4.31;f
+74;2023-03-15;2023;1;3;11;15;32;32;Product 32;Home & Garden;Subcat C;Brand X;2;2;Customer 2;Texas;Male;36-45;1;Website;3584.25;9;4;4.81;f
+222;2023-08-10;2023;3;8;32;10;24;24;Product 24;Toys;Subcat A;Brand X;83;83;Customer 83;Florida;Female;46-55;1;Website;1393.40;4;4;3.57;f
+8;2023-01-08;2023;1;1;1;8;22;22;Product 22;Home & Garden;Subcat B;Brand Z;26;26;Customer 26;Texas;Male;26-35;1;Website;1512.07;7;1;4.31;f
+77;2023-03-18;2023;1;3;11;18;47;47;Product 47;Home & Garden;Subcat C;Brand W;86;86;Customer 86;Texas;Male;26-35;2;Mobile App;887.36;4;3;3.96;f
+153;2023-06-02;2023;2;6;22;2;38;38;Product 38;Books;Subcat C;Brand Z;26;26;Customer 26;Texas;Male;26-35;1;Website;3384.81;9;5;4.07;f
+84;2023-03-25;2023;1;3;12;25;19;19;Product 19;Toys;Subcat B;Brand W;10;10;Customer 10;Texas;Male;18-25;2;Mobile App;2860.72;8;2;4.50;f
+113;2023-04-23;2023;2;4;16;23;12;12;Product 12;Home & Garden;Subcat A;Brand X;8;8;Customer 8;New York;Male;46-55;2;Mobile App;344.54;7;4;4.36;f
+237;2023-08-25;2023;3;8;34;25;36;36;Product 36;Clothing;Subcat A;Brand X;26;26;Customer 26;Texas;Male;26-35;1;Website;1360.35;9;4;4.88;f
+116;2023-04-26;2023;2;4;17;26;49;49;Product 49;Toys;Subcat B;Brand Y;82;82;Customer 82;Texas;Male;36-45;2;Mobile App;4827.20;10;4;3.35;f
+105;2023-04-15;2023;2;4;15;15;12;12;Product 12;Home & Garden;Subcat A;Brand X;67;67;Customer 67;Florida;Female;36-45;2;Mobile App;3490.88;8;2;4.98;t
+60;2023-03-01;2023;1;3;9;1;49;49;Product 49;Toys;Subcat B;Brand Y;11;11;Customer 11;Florida;Female;26-35;2;Mobile App;594.28;2;4;4.02;f
+90;2023-03-31;2023;1;3;13;31;11;11;Product 11;Clothing;Subcat C;Brand W;36;36;Customer 36;New York;Male;26-35;1;Website;2070.48;6;2;4.70;f
+43;2023-02-12;2023;1;2;6;12;38;38;Product 38;Books;Subcat C;Brand Z;40;40;Customer 40;New York;Male;18-25;2;Mobile App;3872.79;9;1;4.72;f
+125;2023-05-05;2023;2;5;18;5;2;2;Product 2;Home & Garden;Subcat C;Brand Z;72;72;Customer 72;New York;Male;36-45;1;Website;247.32;9;2;3.96;t
+122;2023-05-02;2023;2;5;18;2;41;41;Product 41;Clothing;Subcat C;Brand Y;38;38;Customer 38;Texas;Male;46-55;2;Mobile App;3250.00;10;4;3.80;f
+51;2023-02-20;2023;1;2;8;20;27;27;Product 27;Home & Garden;Subcat A;Brand W;90;90;Customer 90;Texas;Male;18-25;2;Mobile App;752.14;2;2;3.29;f
+63;2023-03-04;2023;1;3;9;4;44;44;Product 44;Toys;Subcat C;Brand X;6;6;Customer 6;Texas;Male;26-35;2;Mobile App;131.56;2;3;4.49;f
+311;2023-11-07;2023;4;11;45;7;49;49;Product 49;Toys;Subcat B;Brand Y;3;3;Customer 3;Florida;Female;46-55;2;Mobile App;2580.27;7;3;3.49;f
+201;2023-07-20;2023;3;7;29;20;44;44;Product 44;Toys;Subcat C;Brand X;91;91;Customer 91;Florida;Female;26-35;1;Website;123.00;5;2;4.12;f
+92;2023-04-02;2023;2;4;13;2;49;49;Product 49;Toys;Subcat B;Brand Y;56;56;Customer 56;New York;Male;26-35;1;Website;321.80;5;3;3.36;f
+174;2023-06-23;2023;2;6;25;23;24;24;Product 24;Toys;Subcat A;Brand X;27;27;Customer 27;Florida;Female;36-45;1;Website;1319.52;6;3;4.97;f
+243;2023-08-31;2023;3;8;35;31;4;4;Product 4;Toys;Subcat B;Brand X;18;18;Customer 18;Texas;Male;46-55;2;Mobile App;4430.90;10;4;4.08;t
+207;2023-07-26;2023;3;7;30;26;39;39;Product 39;Toys;Subcat A;Brand W;63;63;Customer 63;Florida;Female;46-55;1;Website;615.84;8;2;4.62;f
+232;2023-08-20;2023;3;8;33;20;27;27;Product 27;Home & Garden;Subcat A;Brand W;70;70;Customer 70;Texas;Male;18-25;1;Website;2158.88;8;2;3.96;t
+301;2023-10-28;2023;4;10;43;28;18;18;Product 18;Books;Subcat A;Brand Z;92;92;Customer 92;New York;Male;36-45;2;Mobile App;746.26;2;5;3.71;f
+218;2023-08-06;2023;3;8;31;6;27;27;Product 27;Home & Garden;Subcat A;Brand W;46;46;Customer 46;Texas;Male;26-35;1;Website;2564.40;6;1;4.21;f
+127;2023-05-07;2023;2;5;18;7;33;33;Product 33;Books;Subcat A;Brand Y;36;36;Customer 36;New York;Male;26-35;1;Website;169.05;1;3;3.21;f
+3;2023-01-03;2023;1;1;1;3;43;43;Product 43;Books;Subcat B;Brand W;62;62;Customer 62;Texas;Male;36-45;1;Website;2532.60;9;3;4.88;f
+67;2023-03-08;2023;1;3;10;8;16;16;Product 16;Clothing;Subcat B;Brand X;2;2;Customer 2;Texas;Male;36-45;1;Website;302.70;2;5;3.35;f
+156;2023-06-05;2023;2;6;23;5;42;42;Product 42;Home & Garden;Subcat A;Brand Z;70;70;Customer 70;Texas;Male;18-25;2;Mobile App;4231.53;9;2;4.58;f
+331;2023-11-27;2023;4;11;48;27;22;22;Product 22;Home & Garden;Subcat B;Brand Z;66;66;Customer 66;Texas;Male;26-35;1;Website;3100.51;7;4;3.06;t
+244;2023-09-01;2023;3;9;35;1;43;43;Product 43;Books;Subcat B;Brand W;67;67;Customer 67;Florida;Female;36-45;2;Mobile App;166.38;3;2;3.20;f
+39;2023-02-08;2023;1;2;6;8;37;37;Product 37;Home & Garden;Subcat B;Brand Y;75;75;Customer 75;Florida;Female;18-25;2;Mobile App;2460.10;10;3;4.11;f
+120;2023-04-30;2023;2;4;17;30;13;13;Product 13;Books;Subcat B;Brand Y;40;40;Customer 40;New York;Male;18-25;2;Mobile App;2946.24;6;3;4.33;f
+79;2023-03-20;2023;1;3;12;20;8;8;Product 8;Books;Subcat C;Brand X;8;8;Customer 8;New York;Male;46-55;2;Mobile App;4664.50;10;2;4.99;f
+59;2023-02-28;2023;1;2;9;28;46;46;Product 46;Clothing;Subcat B;Brand Z;70;70;Customer 70;Texas;Male;18-25;1;Website;2285.00;10;1;4.18;f
+220;2023-08-08;2023;3;8;32;8;23;23;Product 23;Books;Subcat C;Brand W;63;63;Customer 63;Florida;Female;46-55;1;Website;2820.87;9;3;4.29;f
+326;2023-11-22;2023;4;11;47;22;44;44;Product 44;Toys;Subcat C;Brand X;82;82;Customer 82;Texas;Male;36-45;2;Mobile App;3254.96;8;2;3.87;f
+166;2023-06-15;2023;2;6;24;15;49;49;Product 49;Toys;Subcat B;Brand Y;47;47;Customer 47;Florida;Female;36-45;1;Website;369.30;3;2;4.97;f
+311;2023-11-07;2023;4;11;45;7;6;6;Product 6;Clothing;Subcat A;Brand Z;87;87;Customer 87;Florida;Female;36-45;1;Website;536.76;9;2;4.51;t
+59;2023-02-28;2023;1;2;9;28;38;38;Product 38;Books;Subcat C;Brand Z;27;27;Customer 27;Florida;Female;36-45;2;Mobile App;511.12;2;1;4.99;f
+30;2023-01-30;2023;1;1;5;30;49;49;Product 49;Toys;Subcat B;Brand Y;31;31;Customer 31;Florida;Female;26-35;1;Website;402.04;1;4;4.07;f
+42;2023-02-11;2023;1;2;6;11;28;28;Product 28;Books;Subcat B;Brand X;30;30;Customer 30;Texas;Male;18-25;2;Mobile App;851.60;4;1;3.69;f
+152;2023-06-01;2023;2;6;22;1;36;36;Product 36;Clothing;Subcat A;Brand X;62;62;Customer 62;Texas;Male;36-45;1;Website;1257.50;5;3;4.94;f
+122;2023-05-02;2023;2;5;18;2;9;9;Product 9;Toys;Subcat A;Brand Y;38;38;Customer 38;Texas;Male;46-55;2;Mobile App;671.86;7;5;3.79;f
+36;2023-02-05;2023;1;2;5;5;48;48;Product 48;Books;Subcat A;Brand X;80;80;Customer 80;New York;Male;18-25;1;Website;276.45;5;4;4.03;f
+286;2023-10-13;2023;4;10;41;13;33;33;Product 33;Books;Subcat A;Brand Y;87;87;Customer 87;Florida;Female;36-45;1;Website;1936.30;10;2;4.49;f
+258;2023-09-15;2023;3;9;37;15;18;18;Product 18;Books;Subcat A;Brand Z;12;12;Customer 12;New York;Male;36-45;1;Website;4236.84;9;4;3.25;f
+132;2023-05-12;2023;2;5;19;12;33;33;Product 33;Books;Subcat A;Brand Y;32;32;Customer 32;New York;Male;36-45;1;Website;964.11;3;2;4.03;f
+32;2023-02-01;2023;1;2;5;1;9;9;Product 9;Toys;Subcat A;Brand Y;20;20;Customer 20;New York;Male;18-25;1;Website;411.35;5;5;4.26;t
+53;2023-02-22;2023;1;2;8;22;48;48;Product 48;Books;Subcat A;Brand X;55;55;Customer 55;Florida;Female;18-25;2;Mobile App;995.22;6;4;4.22;f
+351;2023-12-17;2023;4;12;50;17;32;32;Product 32;Home & Garden;Subcat C;Brand X;43;43;Customer 43;Florida;Female;46-55;2;Mobile App;1182.52;2;4;3.75;f
+342;2023-12-08;2023;4;12;49;8;1;1;Product 1;Clothing;Subcat B;Brand Y;82;82;Customer 82;Texas;Male;36-45;1;Website;5462.16;11;3;3.89;f
+337;2023-12-03;2023;4;12;48;3;14;14;Product 14;Toys;Subcat C;Brand Z;26;26;Customer 26;Texas;Male;26-35;2;Mobile App;4242.21;7;4;4.47;f
+361;2023-12-27;2023;4;12;52;27;8;8;Product 8;Books;Subcat C;Brand X;88;88;Customer 88;New York;Male;46-55;2;Mobile App;1321.18;2;3;4.69;f
+363;2023-12-29;2023;4;12;52;29;7;7;Product 7;Home & Garden;Subcat B;Brand W;87;87;Customer 87;Florida;Female;36-45;1;Website;5400.00;9;2;4.96;f
+351;2023-12-17;2023;4;12;50;17;37;37;Product 37;Home & Garden;Subcat B;Brand Y;68;68;Customer 68;New York;Male;46-55;1;Website;1426.44;2;3;4.00;f
+337;2023-12-03;2023;4;12;48;3;11;11;Product 11;Clothing;Subcat C;Brand W;63;63;Customer 63;Florida;Female;46-55;2;Mobile App;238.65;5;4;3.01;f
+340;2023-12-06;2023;4;12;49;6;8;8;Product 8;Books;Subcat C;Brand X;26;26;Customer 26;Texas;Male;26-35;2;Mobile App;754.54;2;4;3.33;f
+340;2023-12-06;2023;4;12;49;6;32;32;Product 32;Home & Garden;Subcat C;Brand X;60;60;Customer 60;New York;Male;18-25;2;Mobile App;96.76;2;1;3.40;f
+348;2023-12-14;2023;4;12;50;14;34;34;Product 34;Toys;Subcat B;Brand Z;68;68;Customer 68;New York;Male;46-55;2;Mobile App;409.30;2;5;3.99;f
+364;2023-12-30;2023;4;12;52;30;44;44;Product 44;Toys;Subcat C;Brand X;18;18;Customer 18;Texas;Male;46-55;2;Mobile App;1025.07;3;4;4.97;f
+338;2023-12-04;2023;4;12;49;4;26;26;Product 26;Clothing;Subcat C;Brand Z;62;62;Customer 62;Texas;Male;36-45;2;Mobile App;1778.16;6;4;3.27;f
+365;2023-12-31;2023;4;12;52;31;2;2;Product 2;Home & Garden;Subcat C;Brand Z;38;38;Customer 38;Texas;Male;46-55;2;Mobile App;3387.85;5;3;4.52;f
+351;2023-12-17;2023;4;12;50;17;7;7;Product 7;Home & Garden;Subcat B;Brand W;18;18;Customer 18;Texas;Male;46-55;2;Mobile App;1559.22;2;1;4.31;t
+347;2023-12-13;2023;4;12;50;13;23;23;Product 23;Books;Subcat C;Brand W;67;67;Customer 67;Florida;Female;36-45;1;Website;3641.76;6;1;4.79;t
+342;2023-12-08;2023;4;12;49;8;7;7;Product 7;Home & Garden;Subcat B;Brand W;28;28;Customer 28;New York;Male;46-55;1;Website;1158.90;3;3;4.68;f
+362;2023-12-28;2023;4;12;52;28;39;39;Product 39;Toys;Subcat A;Brand W;30;30;Customer 30;Texas;Male;18-25;2;Mobile App;4655.34;9;2;3.55;f
+351;2023-12-17;2023;4;12;50;17;11;11;Product 11;Clothing;Subcat C;Brand W;80;80;Customer 80;New York;Male;18-25;2;Mobile App;5019.00;7;5;4.86;f
+357;2023-12-23;2023;4;12;51;23;37;37;Product 37;Home & Garden;Subcat B;Brand Y;60;60;Customer 60;New York;Male;18-25;2;Mobile App;4296.53;7;3;4.12;t
+353;2023-12-19;2023;4;12;51;19;12;12;Product 12;Home & Garden;Subcat A;Brand X;63;63;Customer 63;Florida;Female;46-55;2;Mobile App;229.71;1;5;3.12;f
+336;2023-12-02;2023;4;12;48;2;41;41;Product 41;Clothing;Subcat C;Brand Y;86;86;Customer 86;Texas;Male;26-35;1;Website;202.75;5;3;4.18;f
+345;2023-12-11;2023;4;12;50;11;27;27;Product 27;Home & Garden;Subcat A;Brand W;51;51;Customer 51;Florida;Female;26-35;2;Mobile App;3749.40;9;5;4.23;f
+335;2023-12-01;2023;4;12;48;1;12;12;Product 12;Home & Garden;Subcat A;Brand X;98;98;Customer 98;Texas;Male;46-55;2;Mobile App;1832.40;6;2;3.02;f
+335;2023-12-01;2023;4;12;48;1;33;33;Product 33;Books;Subcat A;Brand Y;26;26;Customer 26;Texas;Male;26-35;2;Mobile App;4382.29;11;3;4.21;f
+347;2023-12-13;2023;4;12;50;13;38;38;Product 38;Books;Subcat C;Brand Z;87;87;Customer 87;Florida;Female;36-45;2;Mobile App;785.80;2;5;4.51;f
+337;2023-12-03;2023;4;12;48;3;37;37;Product 37;Home & Garden;Subcat B;Brand Y;48;48;Customer 48;New York;Male;46-55;2;Mobile App;1209.24;4;1;3.58;f
+336;2023-12-02;2023;4;12;48;2;16;16;Product 16;Clothing;Subcat B;Brand X;72;72;Customer 72;New York;Male;36-45;1;Website;336.70;2;4;3.44;f
+357;2023-12-23;2023;4;12;51;23;21;21;Product 21;Clothing;Subcat A;Brand Y;66;66;Customer 66;Texas;Male;26-35;2;Mobile App;527.68;8;2;3.78;f
+359;2023-12-25;2023;4;12;52;25;11;11;Product 11;Clothing;Subcat C;Brand W;88;88;Customer 88;New York;Male;46-55;2;Mobile App;4301.22;7;3;4.49;t
+336;2023-12-02;2023;4;12;48;2;8;8;Product 8;Books;Subcat C;Brand X;86;86;Customer 86;Texas;Male;26-35;1;Website;146.43;3;4;4.46;f
+363;2023-12-29;2023;4;12;52;29;23;23;Product 23;Books;Subcat C;Brand W;90;90;Customer 90;Texas;Male;18-25;1;Website;2146.41;7;1;3.00;f
+359;2023-12-25;2023;4;12;52;25;42;42;Product 42;Home & Garden;Subcat A;Brand Z;40;40;Customer 40;New York;Male;18-25;2;Mobile App;710.85;5;5;4.70;f
+354;2023-12-20;2023;4;12;51;20;29;29;Product 29;Toys;Subcat C;Brand Y;96;96;Customer 96;New York;Male;26-35;1;Website;2356.20;11;1;4.37;f
+355;2023-12-21;2023;4;12;51;21;26;26;Product 26;Clothing;Subcat C;Brand Z;16;16;Customer 16;New York;Male;26-35;1;Website;725.04;8;4;4.96;f
+342;2023-12-08;2023;4;12;49;8;46;46;Product 46;Clothing;Subcat B;Brand Z;15;15;Customer 15;Florida;Female;18-25;1;Website;3194.30;10;2;4.45;f
+338;2023-12-04;2023;4;12;49;4;9;9;Product 9;Toys;Subcat A;Brand Y;47;47;Customer 47;Florida;Female;36-45;2;Mobile App;166.29;3;5;3.14;f
+356;2023-12-22;2023;4;12;51;22;29;29;Product 29;Toys;Subcat C;Brand Y;90;90;Customer 90;Texas;Male;18-25;2;Mobile App;375.36;2;1;3.94;f
+356;2023-12-22;2023;4;12;51;22;12;12;Product 12;Home & Garden;Subcat A;Brand X;100;100;Customer 100;New York;Male;18-25;2;Mobile App;735.83;1;2;4.40;f
+338;2023-12-04;2023;4;12;49;4;24;24;Product 24;Toys;Subcat A;Brand X;18;18;Customer 18;Texas;Male;46-55;1;Website;762.75;3;1;3.96;f
+341;2023-12-07;2023;4;12;49;7;44;44;Product 44;Toys;Subcat C;Brand X;92;92;Customer 92;New York;Male;36-45;2;Mobile App;5193.80;10;5;3.88;f
+339;2023-12-05;2023;4;12;49;5;31;31;Product 31;Clothing;Subcat B;Brand W;12;12;Customer 12;New York;Male;36-45;2;Mobile App;5383.53;9;2;4.97;f
+363;2023-12-29;2023;4;12;52;29;22;22;Product 22;Home & Garden;Subcat B;Brand Z;20;20;Customer 20;New York;Male;18-25;1;Website;775.02;6;3;4.65;f
+345;2023-12-11;2023;4;12;50;11;32;32;Product 32;Home & Garden;Subcat C;Brand X;42;42;Customer 42;Texas;Male;36-45;1;Website;3900.47;7;2;4.14;f
+349;2023-12-15;2023;4;12;50;15;19;19;Product 19;Toys;Subcat B;Brand W;2;2;Customer 2;Texas;Male;36-45;1;Website;7044.73;11;1;4.47;f
+340;2023-12-06;2023;4;12;49;6;37;37;Product 37;Home & Garden;Subcat B;Brand Y;40;40;Customer 40;New York;Male;18-25;2;Mobile App;990.25;5;2;4.85;f
+342;2023-12-08;2023;4;12;49;8;19;19;Product 19;Toys;Subcat B;Brand W;83;83;Customer 83;Florida;Female;46-55;2;Mobile App;1439.32;2;2;4.61;f
+336;2023-12-02;2023;4;12;48;2;18;18;Product 18;Books;Subcat A;Brand Z;62;62;Customer 62;Texas;Male;36-45;2;Mobile App;526.72;8;3;4.79;f
+341;2023-12-07;2023;4;12;49;7;11;11;Product 11;Clothing;Subcat C;Brand W;23;23;Customer 23;Florida;Female;46-55;2;Mobile App;4981.55;7;2;3.82;f
+339;2023-12-05;2023;4;12;49;5;8;8;Product 8;Books;Subcat C;Brand X;6;6;Customer 6;Texas;Male;26-35;1;Website;5425.28;7;3;3.04;f
+365;2023-12-31;2023;4;12;52;31;48;48;Product 48;Books;Subcat A;Brand X;58;58;Customer 58;Texas;Male;46-55;1;Website;5647.68;8;3;3.95;f
+364;2023-12-30;2023;4;12;52;30;44;44;Product 44;Toys;Subcat C;Brand X;27;27;Customer 27;Florida;Female;36-45;1;Website;3369.50;10;3;4.49;t
+359;2023-12-25;2023;4;12;52;25;21;21;Product 21;Clothing;Subcat A;Brand Y;47;47;Customer 47;Florida;Female;36-45;1;Website;2605.50;5;2;4.21;t
+341;2023-12-07;2023;4;12;49;7;19;19;Product 19;Toys;Subcat B;Brand W;8;8;Customer 8;New York;Male;46-55;1;Website;1388.80;8;4;4.51;f
+359;2023-12-25;2023;4;12;52;25;48;48;Product 48;Books;Subcat A;Brand X;48;48;Customer 48;New York;Male;46-55;1;Website;1596.20;10;2;3.42;t
+351;2023-12-17;2023;4;12;50;17;4;4;Product 4;Toys;Subcat B;Brand X;98;98;Customer 98;Texas;Male;46-55;1;Website;2172.20;10;2;4.09;f
+337;2023-12-03;2023;4;12;48;3;49;49;Product 49;Toys;Subcat B;Brand Y;38;38;Customer 38;Texas;Male;46-55;2;Mobile App;2055.24;3;3;3.15;f
+210;2023-07-29;2023;3;7;30;29;35;35;Product 35;Electronics;Subcat C;Brand W;35;35;Customer 35;Florida;Female;18-25;1;Website;275.92;2;5;5.00;f
+19;2023-01-19;2023;1;1;3;19;50;50;Product 50;Electronics;Subcat C;Brand Z;86;86;Customer 86;Texas;Male;26-35;1;Website;2946.64;8;5;5.00;f
+41;2023-02-10;2023;1;2;6;10;45;45;Product 45;Electronics;Subcat A;Brand Y;42;42;Customer 42;Texas;Male;36-45;2;Mobile App;887.36;2;5;5.00;f
+6;2023-01-06;2023;1;1;1;6;25;25;Product 25;Electronics;Subcat B;Brand Y;36;36;Customer 36;New York;Male;26-35;1;Website;1677.60;8;5;5.00;f
+224;2023-08-12;2023;3;8;32;12;50;50;Product 50;Electronics;Subcat C;Brand Z;95;95;Customer 95;Florida;Female;18-25;1;Website;4077.52;8;5;5.00;f
+243;2023-08-31;2023;3;8;35;31;50;50;Product 50;Electronics;Subcat C;Brand Z;62;62;Customer 62;Texas;Male;36-45;1;Website;963.84;6;5;5.00;f
+249;2023-09-06;2023;3;9;36;6;30;30;Product 30;Electronics;Subcat A;Brand Z;80;80;Customer 80;New York;Male;18-25;1;Website;691.68;4;5;5.00;f
+236;2023-08-24;2023;3;8;34;24;45;45;Product 45;Electronics;Subcat A;Brand Y;23;23;Customer 23;Florida;Female;46-55;2;Mobile App;1219.76;8;5;5.00;f
+262;2023-09-19;2023;3;9;38;19;45;45;Product 45;Electronics;Subcat A;Brand Y;28;28;Customer 28;New York;Male;46-55;2;Mobile App;2974.86;6;5;5.00;f
+139;2023-05-19;2023;2;5;20;19;20;20;Product 20;Electronics;Subcat C;Brand X;31;31;Customer 31;Florida;Female;26-35;2;Mobile App;294.64;1;5;5.00;f
+281;2023-10-08;2023;4;10;40;8;30;30;Product 30;Electronics;Subcat A;Brand Z;51;51;Customer 51;Florida;Female;26-35;2;Mobile App;2197.28;8;5;5.00;f
+280;2023-10-07;2023;4;10;40;7;40;40;Product 40;Electronics;Subcat B;Brand X;66;66;Customer 66;Texas;Male;26-35;2;Mobile App;727.74;6;5;5.00;f
+263;2023-09-20;2023;3;9;38;20;35;35;Product 35;Electronics;Subcat C;Brand W;31;31;Customer 31;Florida;Female;26-35;2;Mobile App;1032.03;9;5;5.00;f
+191;2023-07-10;2023;3;7;28;10;10;10;Product 10;Electronics;Subcat B;Brand Z;51;51;Customer 51;Florida;Female;26-35;1;Website;2009.64;6;5;5.00;f
+289;2023-10-16;2023;4;10;42;16;5;5;Product 5;Electronics;Subcat C;Brand Y;51;51;Customer 51;Florida;Female;26-35;1;Website;1428.16;8;5;5.00;f
+193;2023-07-12;2023;3;7;28;12;45;45;Product 45;Electronics;Subcat A;Brand Y;82;82;Customer 82;Texas;Male;36-45;1;Website;122.98;2;5;5.00;f
+225;2023-08-13;2023;3;8;32;13;50;50;Product 50;Electronics;Subcat C;Brand Z;6;6;Customer 6;Texas;Male;26-35;2;Mobile App;694.44;2;5;5.00;f
+4;2023-01-04;2023;1;1;1;4;15;15;Product 15;Electronics;Subcat A;Brand W;100;100;Customer 100;New York;Male;18-25;1;Website;4248.81;9;5;5.00;f
+47;2023-02-16;2023;1;2;7;16;15;15;Product 15;Electronics;Subcat A;Brand W;63;63;Customer 63;Florida;Female;46-55;1;Website;3268.72;7;5;5.00;f
+76;2023-03-17;2023;1;3;11;17;25;25;Product 25;Electronics;Subcat B;Brand Y;67;67;Customer 67;Florida;Female;36-45;1;Website;1387.65;11;5;5.00;f
+72;2023-03-13;2023;1;3;11;13;40;40;Product 40;Electronics;Subcat B;Brand X;31;31;Customer 31;Florida;Female;26-35;2;Mobile App;2166.85;5;5;5.00;f
+59;2023-02-28;2023;1;2;9;28;40;40;Product 40;Electronics;Subcat B;Brand X;7;7;Customer 7;Florida;Female;36-45;1;Website;239.72;4;5;5.00;f
+314;2023-11-10;2023;4;11;45;10;35;35;Product 35;Electronics;Subcat C;Brand W;52;52;Customer 52;New York;Male;36-45;1;Website;894.30;5;5;5.00;f
+121;2023-05-01;2023;2;5;18;1;5;5;Product 5;Electronics;Subcat C;Brand Y;78;78;Customer 78;Texas;Male;46-55;1;Website;5651.47;11;5;5.00;f
+266;2023-09-23;2023;3;9;38;23;50;50;Product 50;Electronics;Subcat C;Brand Z;23;23;Customer 23;Florida;Female;46-55;2;Mobile App;336.36;6;5;5.00;f
+20;2023-01-20;2023;1;1;3;20;40;40;Product 40;Electronics;Subcat B;Brand X;6;6;Customer 6;Texas;Male;26-35;1;Website;894.66;3;5;5.00;f
+122;2023-05-02;2023;2;5;18;2;20;20;Product 20;Electronics;Subcat C;Brand X;63;63;Customer 63;Florida;Female;46-55;2;Mobile App;1741.40;5;5;5.00;f
+286;2023-10-13;2023;4;10;41;13;20;20;Product 20;Electronics;Subcat C;Brand X;23;23;Customer 23;Florida;Female;46-55;2;Mobile App;1052.22;3;5;5.00;t
+117;2023-04-27;2023;2;4;17;27;50;50;Product 50;Electronics;Subcat C;Brand Z;75;75;Customer 75;Florida;Female;18-25;1;Website;1792.05;5;5;5.00;f
+168;2023-06-17;2023;2;6;24;17;50;50;Product 50;Electronics;Subcat C;Brand Z;95;95;Customer 95;Florida;Female;18-25;2;Mobile App;1848.06;9;5;5.00;f
+107;2023-04-17;2023;2;4;16;17;45;45;Product 45;Electronics;Subcat A;Brand Y;71;71;Customer 71;Florida;Female;26-35;1;Website;2897.20;8;5;5.00;f
+222;2023-08-10;2023;3;8;32;10;35;35;Product 35;Electronics;Subcat C;Brand W;83;83;Customer 83;Florida;Female;46-55;1;Website;4218.66;9;5;5.00;f
+126;2023-05-06;2023;2;5;18;6;15;15;Product 15;Electronics;Subcat A;Brand W;56;56;Customer 56;New York;Male;26-35;2;Mobile App;615.42;9;5;5.00;f
+263;2023-09-20;2023;3;9;38;20;50;50;Product 50;Electronics;Subcat C;Brand Z;22;22;Customer 22;Texas;Male;36-45;2;Mobile App;3312.80;10;5;5.00;f
+153;2023-06-02;2023;2;6;22;2;20;20;Product 20;Electronics;Subcat C;Brand X;32;32;Customer 32;New York;Male;36-45;1;Website;2668.64;8;5;5.00;f
+188;2023-07-07;2023;3;7;27;7;10;10;Product 10;Electronics;Subcat B;Brand Z;22;22;Customer 22;Texas;Male;36-45;2;Mobile App;927.56;2;5;5.00;f
+78;2023-03-19;2023;1;3;11;19;35;35;Product 35;Electronics;Subcat C;Brand W;87;87;Customer 87;Florida;Female;36-45;2;Mobile App;284.76;9;5;5.00;f
+147;2023-05-27;2023;2;5;21;27;25;25;Product 25;Electronics;Subcat B;Brand Y;23;23;Customer 23;Florida;Female;46-55;2;Mobile App;1865.70;5;5;5.00;f
+90;2023-03-31;2023;1;3;13;31;10;10;Product 10;Electronics;Subcat B;Brand Z;75;75;Customer 75;Florida;Female;18-25;1;Website;1597.96;7;5;5.00;f
+246;2023-09-03;2023;3;9;35;3;25;25;Product 25;Electronics;Subcat B;Brand Y;91;91;Customer 91;Florida;Female;26-35;1;Website;831.64;4;5;5.00;f
+286;2023-10-13;2023;4;10;41;13;50;50;Product 50;Electronics;Subcat C;Brand Z;12;12;Customer 12;New York;Male;36-45;2;Mobile App;4314.15;9;5;5.00;f
+277;2023-10-04;2023;4;10;40;4;10;10;Product 10;Electronics;Subcat B;Brand Z;12;12;Customer 12;New York;Male;36-45;1;Website;3465.92;8;5;5.00;f
+213;2023-08-01;2023;3;8;31;1;25;25;Product 25;Electronics;Subcat B;Brand Y;76;76;Customer 76;New York;Male;26-35;2;Mobile App;3019.98;6;5;5.00;f
+231;2023-08-19;2023;3;8;33;19;5;5;Product 5;Electronics;Subcat C;Brand Y;12;12;Customer 12;New York;Male;36-45;2;Mobile App;245.85;5;5;5.00;f
+110;2023-04-20;2023;2;4;16;20;10;10;Product 10;Electronics;Subcat B;Brand Z;100;100;Customer 100;New York;Male;18-25;1;Website;2234.19;7;5;5.00;f
+31;2023-01-31;2023;1;1;5;31;25;25;Product 25;Electronics;Subcat B;Brand Y;23;23;Customer 23;Florida;Female;46-55;2;Mobile App;423.52;8;5;5.00;f
+159;2023-06-08;2023;2;6;23;8;50;50;Product 50;Electronics;Subcat C;Brand Z;28;28;Customer 28;New York;Male;46-55;1;Website;393.54;2;5;5.00;f
+29;2023-01-29;2023;1;1;4;29;35;35;Product 35;Electronics;Subcat C;Brand W;50;50;Customer 50;Texas;Male;18-25;1;Website;2989.40;10;5;5.00;f
+155;2023-06-04;2023;2;6;22;4;30;30;Product 30;Electronics;Subcat A;Brand Z;78;78;Customer 78;Texas;Male;46-55;2;Mobile App;2924.60;7;5;5.00;f
+4;2023-01-04;2023;1;1;1;4;30;30;Product 30;Electronics;Subcat A;Brand Z;43;43;Customer 43;Florida;Female;46-55;2;Mobile App;1161.51;3;5;5.00;t
+83;2023-03-24;2023;1;3;12;24;25;25;Product 25;Electronics;Subcat B;Brand Y;75;75;Customer 75;Florida;Female;18-25;2;Mobile App;1761.92;8;5;5.00;f
+168;2023-06-17;2023;2;6;24;17;30;30;Product 30;Electronics;Subcat A;Brand Z;47;47;Customer 47;Florida;Female;36-45;2;Mobile App;3249.30;10;5;5.00;f
+65;2023-03-06;2023;1;3;10;6;50;50;Product 50;Electronics;Subcat C;Brand Z;100;100;Customer 100;New York;Male;18-25;2;Mobile App;864.22;2;5;5.00;f
+30;2023-01-30;2023;1;1;5;30;35;35;Product 35;Electronics;Subcat C;Brand W;51;51;Customer 51;Florida;Female;26-35;1;Website;3286.48;8;5;5.00;t
+312;2023-11-08;2023;4;11;45;8;50;50;Product 50;Electronics;Subcat C;Brand Z;66;66;Customer 66;Texas;Male;26-35;2;Mobile App;1296.54;3;5;5.00;f
+104;2023-04-14;2023;2;4;15;14;40;40;Product 40;Electronics;Subcat B;Brand X;48;48;Customer 48;New York;Male;46-55;2;Mobile App;1800.24;8;5;5.00;f
+315;2023-11-11;2023;4;11;45;11;25;25;Product 25;Electronics;Subcat B;Brand Y;63;63;Customer 63;Florida;Female;46-55;1;Website;2086.00;8;5;5.00;f
+149;2023-05-29;2023;2;5;22;29;10;10;Product 10;Electronics;Subcat B;Brand Z;22;22;Customer 22;Texas;Male;36-45;2;Mobile App;494.36;1;5;5.00;f
+39;2023-02-08;2023;1;2;6;8;45;45;Product 45;Electronics;Subcat A;Brand Y;70;70;Customer 70;Texas;Male;18-25;1;Website;1774.85;5;5;5.00;f
+191;2023-07-10;2023;3;7;28;10;40;40;Product 40;Electronics;Subcat B;Brand X;83;83;Customer 83;Florida;Female;46-55;2;Mobile App;1529.55;11;5;5.00;f
+159;2023-06-08;2023;2;6;23;8;45;45;Product 45;Electronics;Subcat A;Brand Y;68;68;Customer 68;New York;Male;46-55;2;Mobile App;4707.50;10;5;5.00;t
+3;2023-01-03;2023;1;1;1;3;15;15;Product 15;Electronics;Subcat A;Brand W;6;6;Customer 6;Texas;Male;26-35;2;Mobile App;515.76;4;5;5.00;f
+40;2023-02-09;2023;1;2;6;9;20;20;Product 20;Electronics;Subcat C;Brand X;83;83;Customer 83;Florida;Female;46-55;1;Website;1669.68;9;5;5.00;f
+322;2023-11-18;2023;4;11;46;18;5;5;Product 5;Electronics;Subcat C;Brand Y;51;51;Customer 51;Florida;Female;26-35;1;Website;219.04;2;5;5.00;f
+131;2023-05-11;2023;2;5;19;11;5;5;Product 5;Electronics;Subcat C;Brand Y;40;40;Customer 40;New York;Male;18-25;2;Mobile App;3332.70;9;5;5.00;f
+270;2023-09-27;2023;3;9;39;27;35;35;Product 35;Electronics;Subcat C;Brand W;62;62;Customer 62;Texas;Male;36-45;2;Mobile App;1696.52;7;5;5.00;f
+266;2023-09-23;2023;3;9;38;23;40;40;Product 40;Electronics;Subcat B;Brand X;95;95;Customer 95;Florida;Female;18-25;2;Mobile App;5097.00;10;5;5.00;f
+129;2023-05-09;2023;2;5;19;9;50;50;Product 50;Electronics;Subcat C;Brand Z;70;70;Customer 70;Texas;Male;18-25;2;Mobile App;589.15;5;5;5.00;f
+264;2023-09-21;2023;3;9;38;21;30;30;Product 30;Electronics;Subcat A;Brand Z;40;40;Customer 40;New York;Male;18-25;1;Website;260.70;10;5;5.00;f
+251;2023-09-08;2023;3;9;36;8;30;30;Product 30;Electronics;Subcat A;Brand Z;42;42;Customer 42;Texas;Male;36-45;1;Website;4504.72;11;5;5.00;t
+333;2023-11-29;2023;4;11;48;29;5;5;Product 5;Electronics;Subcat C;Brand Y;11;11;Customer 11;Florida;Female;26-35;1;Website;556.40;2;5;5.00;f
+31;2023-01-31;2023;1;1;5;31;10;10;Product 10;Electronics;Subcat B;Brand Z;71;71;Customer 71;Florida;Female;26-35;2;Mobile App;963.51;3;5;5.00;f
+77;2023-03-18;2023;1;3;11;18;50;50;Product 50;Electronics;Subcat C;Brand Z;36;36;Customer 36;New York;Male;26-35;2;Mobile App;189.72;3;5;5.00;f
+287;2023-10-14;2023;4;10;41;14;25;25;Product 25;Electronics;Subcat B;Brand Y;95;95;Customer 95;Florida;Female;18-25;2;Mobile App;387.40;10;5;5.00;f
+324;2023-11-20;2023;4;11;47;20;10;10;Product 10;Electronics;Subcat B;Brand Z;11;11;Customer 11;Florida;Female;26-35;2;Mobile App;442.96;8;5;5.00;f
+40;2023-02-09;2023;1;2;6;9;30;30;Product 30;Electronics;Subcat A;Brand Z;100;100;Customer 100;New York;Male;18-25;1;Website;297.24;6;5;5.00;f
+267;2023-09-24;2023;3;9;38;24;25;25;Product 25;Electronics;Subcat B;Brand Y;11;11;Customer 11;Florida;Female;26-35;2;Mobile App;2841.84;9;5;5.00;f
+39;2023-02-08;2023;1;2;6;8;25;25;Product 25;Electronics;Subcat B;Brand Y;52;52;Customer 52;New York;Male;36-45;2;Mobile App;2149.50;6;5;5.00;f
+207;2023-07-26;2023;3;7;30;26;45;45;Product 45;Electronics;Subcat A;Brand Y;3;3;Customer 3;Florida;Female;46-55;1;Website;972.87;3;5;5.00;f
+241;2023-08-29;2023;3;8;35;29;45;45;Product 45;Electronics;Subcat A;Brand Y;20;20;Customer 20;New York;Male;18-25;1;Website;1895.39;7;5;5.00;f
+308;2023-11-04;2023;4;11;44;4;20;20;Product 20;Electronics;Subcat C;Brand X;32;32;Customer 32;New York;Male;36-45;1;Website;651.54;3;5;5.00;f
+141;2023-05-21;2023;2;5;20;21;20;20;Product 20;Electronics;Subcat C;Brand X;43;43;Customer 43;Florida;Female;46-55;2;Mobile App;2332.61;7;5;5.00;f
+327;2023-11-23;2023;4;11;47;23;45;45;Product 45;Electronics;Subcat A;Brand Y;43;43;Customer 43;Florida;Female;46-55;1;Website;379.72;2;5;5.00;f
+318;2023-11-14;2023;4;11;46;14;10;10;Product 10;Electronics;Subcat B;Brand Z;58;58;Customer 58;Texas;Male;46-55;2;Mobile App;747.51;3;5;5.00;f
+65;2023-03-06;2023;1;3;10;6;15;15;Product 15;Electronics;Subcat A;Brand W;75;75;Customer 75;Florida;Female;18-25;1;Website;3377.90;10;5;5.00;f
+211;2023-07-30;2023;3;7;30;30;35;35;Product 35;Electronics;Subcat C;Brand W;47;47;Customer 47;Florida;Female;36-45;1;Website;366.30;6;5;5.00;f
+140;2023-05-20;2023;2;5;20;20;5;5;Product 5;Electronics;Subcat C;Brand Y;40;40;Customer 40;New York;Male;18-25;1;Website;4111.04;8;5;5.00;f
+126;2023-05-06;2023;2;5;18;6;50;50;Product 50;Electronics;Subcat C;Brand Z;71;71;Customer 71;Florida;Female;26-35;2;Mobile App;783.92;8;5;5.00;f
+23;2023-01-23;2023;1;1;4;23;45;45;Product 45;Electronics;Subcat A;Brand Y;10;10;Customer 10;Texas;Male;18-25;2;Mobile App;556.85;7;5;5.00;f
+311;2023-11-07;2023;4;11;45;7;10;10;Product 10;Electronics;Subcat B;Brand Z;26;26;Customer 26;Texas;Male;26-35;2;Mobile App;4525.00;10;5;5.00;f
+269;2023-09-26;2023;3;9;39;26;20;20;Product 20;Electronics;Subcat C;Brand X;86;86;Customer 86;Texas;Male;26-35;1;Website;1729.56;4;5;5.00;f
+258;2023-09-15;2023;3;9;37;15;45;45;Product 45;Electronics;Subcat A;Brand Y;86;86;Customer 86;Texas;Male;26-35;1;Website;2598.96;7;5;5.00;t
+317;2023-11-13;2023;4;11;46;13;45;45;Product 45;Electronics;Subcat A;Brand Y;67;67;Customer 67;Florida;Female;36-45;1;Website;549.04;8;5;5.00;f
+96;2023-04-06;2023;2;4;14;6;15;15;Product 15;Electronics;Subcat A;Brand W;95;95;Customer 95;Florida;Female;18-25;1;Website;975.17;7;5;5.00;f
+91;2023-04-01;2023;2;4;13;1;5;5;Product 5;Electronics;Subcat C;Brand Y;63;63;Customer 63;Florida;Female;46-55;2;Mobile App;1544.40;11;5;5.00;f
+321;2023-11-17;2023;4;11;46;17;25;25;Product 25;Electronics;Subcat B;Brand Y;52;52;Customer 52;New York;Male;36-45;2;Mobile App;862.04;2;5;5.00;f
+306;2023-11-02;2023;4;11;44;2;5;5;Product 5;Electronics;Subcat C;Brand Y;38;38;Customer 38;Texas;Male;46-55;1;Website;821.88;4;5;5.00;f
+135;2023-05-15;2023;2;5;20;15;5;5;Product 5;Electronics;Subcat C;Brand Y;6;6;Customer 6;Texas;Male;26-35;2;Mobile App;985.00;5;5;5.00;f
+31;2023-01-31;2023;1;1;5;31;50;50;Product 50;Electronics;Subcat C;Brand Z;98;98;Customer 98;Texas;Male;46-55;2;Mobile App;1426.76;4;5;5.00;f
+109;2023-04-19;2023;2;4;16;19;35;35;Product 35;Electronics;Subcat C;Brand W;11;11;Customer 11;Florida;Female;26-35;2;Mobile App;2512.60;10;5;5.00;f
+40;2023-02-09;2023;1;2;6;9;5;5;Product 5;Electronics;Subcat C;Brand Y;98;98;Customer 98;Texas;Male;46-55;1;Website;3040.29;11;5;5.00;f
+101;2023-04-11;2023;2;4;15;11;15;15;Product 15;Electronics;Subcat A;Brand W;12;12;Customer 12;New York;Male;36-45;1;Website;908.44;2;5;5.00;f
+260;2023-09-17;2023;3;9;37;17;25;25;Product 25;Electronics;Subcat B;Brand Y;12;12;Customer 12;New York;Male;36-45;2;Mobile App;1384.32;8;5;5.00;f
+150;2023-05-30;2023;2;5;22;30;25;25;Product 25;Electronics;Subcat B;Brand Y;27;27;Customer 27;Florida;Female;36-45;2;Mobile App;2699.58;6;5;5.00;f
+23;2023-01-23;2023;1;1;4;23;5;5;Product 5;Electronics;Subcat C;Brand Y;72;72;Customer 72;New York;Male;36-45;1;Website;1202.24;8;5;5.00;f
+135;2023-05-15;2023;2;5;20;15;35;35;Product 35;Electronics;Subcat C;Brand W;63;63;Customer 63;Florida;Female;46-55;2;Mobile App;4835.40;10;5;5.00;f
+98;2023-04-08;2023;2;4;14;8;45;45;Product 45;Electronics;Subcat A;Brand Y;15;15;Customer 15;Florida;Female;18-25;2;Mobile App;1069.44;4;5;5.00;f
+327;2023-11-23;2023;4;11;47;23;10;10;Product 10;Electronics;Subcat B;Brand Z;38;38;Customer 38;Texas;Male;46-55;1;Website;795.51;3;5;5.00;t
+23;2023-01-23;2023;1;1;4;23;45;45;Product 45;Electronics;Subcat A;Brand Y;76;76;Customer 76;New York;Male;26-35;2;Mobile App;571.30;10;5;5.00;f
+358;2023-12-24;2023;4;12;51;24;45;45;Product 45;Electronics;Subcat A;Brand Y;90;90;Customer 90;Texas;Male;18-25;2;Mobile App;664.48;8;5;5.00;t
+350;2023-12-16;2023;4;12;50;16;15;15;Product 15;Electronics;Subcat A;Brand W;6;6;Customer 6;Texas;Male;26-35;1;Website;3933.36;6;5;5.00;f
+344;2023-12-10;2023;4;12;49;10;20;20;Product 20;Electronics;Subcat C;Brand X;28;28;Customer 28;New York;Male;46-55;2;Mobile App;3485.10;10;5;5.00;f
+341;2023-12-07;2023;4;12;49;7;20;20;Product 20;Electronics;Subcat C;Brand X;10;10;Customer 10;Texas;Male;18-25;2;Mobile App;6698.43;9;5;5.00;f
+360;2023-12-26;2023;4;12;52;26;20;20;Product 20;Electronics;Subcat C;Brand X;31;31;Customer 31;Florida;Female;26-35;1;Website;3412.71;7;5;5.00;f
+360;2023-12-26;2023;4;12;52;26;40;40;Product 40;Electronics;Subcat B;Brand X;27;27;Customer 27;Florida;Female;36-45;2;Mobile App;542.75;1;5;5.00;t
+358;2023-12-24;2023;4;12;51;24;45;45;Product 45;Electronics;Subcat A;Brand Y;36;36;Customer 36;New York;Male;26-35;1;Website;514.36;11;5;5.00;f
+350;2023-12-16;2023;4;12;50;16;10;10;Product 10;Electronics;Subcat B;Brand Z;3;3;Customer 3;Florida;Female;46-55;1;Website;655.96;2;5;5.00;f
+113;2023-04-23;2023;2;4;16;23;16;16;Product 16;Clothing;Subcat B;Brand X;82;82;Customer 82;Texas;Male;36-45;2;Mobile App;4227.10;10;4;4.26;t
+137;2023-05-17;2023;2;5;20;17;31;31;Product 31;Clothing;Subcat B;Brand W;70;70;Customer 70;Texas;Male;18-25;1;Website;751.36;4;5;3.17;t
+10;2023-01-10;2023;1;1;2;10;31;31;Product 31;Clothing;Subcat B;Brand W;60;60;Customer 60;New York;Male;18-25;2;Mobile App;624.32;4;3;4.96;t
+322;2023-11-18;2023;4;11;46;18;41;41;Product 41;Clothing;Subcat C;Brand Y;68;68;Customer 68;New York;Male;46-55;1;Website;1739.84;8;3;3.36;t
+300;2023-10-27;2023;4;10;43;27;46;46;Product 46;Clothing;Subcat B;Brand Z;67;67;Customer 67;Florida;Female;36-45;1;Website;762.40;8;2;3.09;t
+330;2023-11-26;2023;4;11;47;26;21;21;Product 21;Clothing;Subcat A;Brand Y;91;91;Customer 91;Florida;Female;26-35;2;Mobile App;1686.64;4;4;4.46;t
+271;2023-09-28;2023;3;9;39;28;26;26;Product 26;Clothing;Subcat C;Brand Z;100;100;Customer 100;New York;Male;18-25;2;Mobile App;539.28;2;5;3.43;t
+132;2023-05-12;2023;2;5;19;12;16;16;Product 16;Clothing;Subcat B;Brand X;91;91;Customer 91;Florida;Female;26-35;2;Mobile App;658.32;3;3;3.19;t
+211;2023-07-30;2023;3;7;30;30;6;6;Product 6;Clothing;Subcat A;Brand Z;75;75;Customer 75;Florida;Female;18-25;2;Mobile App;136.86;3;2;4.62;t
+266;2023-09-23;2023;3;9;38;23;11;11;Product 11;Clothing;Subcat C;Brand W;51;51;Customer 51;Florida;Female;26-35;1;Website;2558.32;8;3;3.07;t
+42;2023-02-11;2023;1;2;6;11;46;46;Product 46;Clothing;Subcat B;Brand Z;98;98;Customer 98;Texas;Male;46-55;2;Mobile App;2575.90;10;2;3.02;t
+228;2023-08-16;2023;3;8;33;16;26;26;Product 26;Clothing;Subcat C;Brand Z;78;78;Customer 78;Texas;Male;46-55;2;Mobile App;1547.01;9;2;3.68;t
+218;2023-08-06;2023;3;8;31;6;16;16;Product 16;Clothing;Subcat B;Brand X;47;47;Customer 47;Florida;Female;36-45;1;Website;319.38;2;4;4.84;t
+130;2023-05-10;2023;2;5;19;10;46;46;Product 46;Clothing;Subcat B;Brand Z;55;55;Customer 55;Florida;Female;18-25;2;Mobile App;1228.74;3;5;3.45;t
+237;2023-08-25;2023;3;8;34;25;26;26;Product 26;Clothing;Subcat C;Brand Z;32;32;Customer 32;New York;Male;36-45;1;Website;683.82;9;1;4.34;t
+128;2023-05-08;2023;2;5;19;8;41;41;Product 41;Clothing;Subcat C;Brand Y;18;18;Customer 18;Texas;Male;46-55;1;Website;127.12;4;2;3.52;t
+210;2023-07-29;2023;3;7;30;29;31;31;Product 31;Clothing;Subcat B;Brand W;18;18;Customer 18;Texas;Male;46-55;1;Website;1277.40;6;2;3.88;t
+22;2023-01-22;2023;1;1;3;22;21;21;Product 21;Clothing;Subcat A;Brand Y;56;56;Customer 56;New York;Male;26-35;2;Mobile App;111.00;5;3;3.70;t
+238;2023-08-26;2023;3;8;34;26;16;16;Product 16;Clothing;Subcat B;Brand X;68;68;Customer 68;New York;Male;46-55;1;Website;1871.40;4;1;4.37;t
+132;2023-05-12;2023;2;5;19;12;41;41;Product 41;Clothing;Subcat C;Brand Y;22;22;Customer 22;Texas;Male;36-45;2;Mobile App;4014.80;10;2;3.77;t
+97;2023-04-07;2023;2;4;14;7;31;31;Product 31;Clothing;Subcat B;Brand W;46;46;Customer 46;Texas;Male;26-35;1;Website;194.11;7;1;4.68;t
+15;2023-01-15;2023;1;1;2;15;16;16;Product 16;Clothing;Subcat B;Brand X;10;10;Customer 10;Texas;Male;18-25;2;Mobile App;274.26;3;2;4.96;t
+324;2023-11-20;2023;4;11;47;20;26;26;Product 26;Clothing;Subcat C;Brand Z;30;30;Customer 30;Texas;Male;18-25;1;Website;1508.50;5;3;3.66;t
+108;2023-04-18;2023;2;4;16;18;26;26;Product 26;Clothing;Subcat C;Brand Z;62;62;Customer 62;Texas;Male;36-45;1;Website;354.42;1;5;4.04;t
+139;2023-05-19;2023;2;5;20;19;6;6;Product 6;Clothing;Subcat A;Brand Z;28;28;Customer 28;New York;Male;46-55;2;Mobile App;779.64;3;1;4.38;t
+215;2023-08-03;2023;3;8;31;3;36;36;Product 36;Clothing;Subcat A;Brand X;55;55;Customer 55;Florida;Female;18-25;2;Mobile App;1387.76;4;5;4.90;t
+360;2023-12-26;2023;4;12;52;26;26;26;Product 26;Clothing;Subcat C;Brand Z;78;78;Customer 78;Texas;Male;46-55;1;Website;549.48;1;5;4.78;t
+341;2023-12-07;2023;4;12;49;7;46;46;Product 46;Clothing;Subcat B;Brand Z;48;48;Customer 48;New York;Male;46-55;2;Mobile App;3299.94;7;5;4.61;t
+343;2023-12-09;2023;4;12;49;9;6;6;Product 6;Clothing;Subcat A;Brand Z;6;6;Customer 6;Texas;Male;26-35;2;Mobile App;3505.59;9;4;3.18;t
+310;2023-11-06;2023;4;11;45;6;38;38;Product 38;Books;Subcat C;Brand Z;73;73;Customer 73;California;Female;46-55;1;Website;1634.80;10;3;3.39;f
+307;2023-11-03;2023;4;11;44;3;11;11;Product 11;Clothing;Subcat C;Brand W;41;41;Customer 41;California;Female;26-35;1;Website;1799.88;3;4;3.06;f
+16;2023-01-16;2023;1;1;3;16;27;27;Product 27;Home & Garden;Subcat A;Brand W;77;77;Customer 77;California;Female;36-45;2;Mobile App;1694.07;9;3;4.08;f
+184;2023-07-03;2023;3;7;27;3;1;1;Product 1;Clothing;Subcat B;Brand Y;37;37;Customer 37;California;Female;36-45;2;Mobile App;3611.22;6;4;4.44;f
+297;2023-10-24;2023;4;10;43;24;26;26;Product 26;Clothing;Subcat C;Brand Z;65;65;Customer 65;California;Female;18-25;2;Mobile App;767.18;2;4;3.13;f
+118;2023-04-28;2023;2;4;17;28;16;16;Product 16;Clothing;Subcat B;Brand X;61;61;Customer 61;California;Female;26-35;2;Mobile App;544.00;4;3;3.77;f
+215;2023-08-03;2023;3;8;31;3;23;23;Product 23;Books;Subcat C;Brand W;13;13;Customer 13;California;Female;46-55;1;Website;527.40;5;3;3.78;f
+143;2023-05-23;2023;2;5;21;23;16;16;Product 16;Clothing;Subcat B;Brand X;77;77;Customer 77;California;Female;36-45;2;Mobile App;932.26;2;3;3.06;f
+279;2023-10-06;2023;4;10;40;6;26;26;Product 26;Clothing;Subcat C;Brand Z;93;93;Customer 93;California;Female;46-55;2;Mobile App;855.92;4;5;4.97;f
+269;2023-09-26;2023;3;9;39;26;8;8;Product 8;Books;Subcat C;Brand X;37;37;Customer 37;California;Female;36-45;1;Website;1374.84;9;2;4.30;f
+234;2023-08-22;2023;3;8;34;22;23;23;Product 23;Books;Subcat C;Brand W;17;17;Customer 17;California;Female;36-45;1;Website;1704.12;3;4;3.72;f
+315;2023-11-11;2023;4;11;45;11;33;33;Product 33;Books;Subcat A;Brand Y;77;77;Customer 77;California;Female;36-45;2;Mobile App;609.60;8;1;3.82;f
+81;2023-03-22;2023;1;3;12;22;29;29;Product 29;Toys;Subcat C;Brand Y;65;65;Customer 65;California;Female;18-25;2;Mobile App;2428.47;9;1;4.61;f
+315;2023-11-11;2023;4;11;45;11;6;6;Product 6;Clothing;Subcat A;Brand Z;33;33;Customer 33;California;Female;46-55;1;Website;2992.40;5;3;3.37;f
+34;2023-02-03;2023;1;2;5;3;46;46;Product 46;Clothing;Subcat B;Brand Z;93;93;Customer 93;California;Female;46-55;2;Mobile App;432.09;9;3;3.97;f
+222;2023-08-10;2023;3;8;32;10;37;37;Product 37;Home & Garden;Subcat B;Brand Y;25;25;Customer 25;California;Female;18-25;1;Website;3317.22;9;3;3.94;f
+257;2023-09-14;2023;3;9;37;14;43;43;Product 43;Books;Subcat B;Brand W;41;41;Customer 41;California;Female;26-35;1;Website;462.84;3;3;3.99;f
+255;2023-09-12;2023;3;9;37;12;21;21;Product 21;Clothing;Subcat A;Brand Y;13;13;Customer 13;California;Female;46-55;2;Mobile App;3886.90;10;5;3.16;f
+98;2023-04-08;2023;2;4;14;8;44;44;Product 44;Toys;Subcat C;Brand X;93;93;Customer 93;California;Female;46-55;2;Mobile App;2539.55;5;5;3.72;f
+209;2023-07-28;2023;3;7;30;28;43;43;Product 43;Books;Subcat B;Brand W;77;77;Customer 77;California;Female;36-45;1;Website;1153.74;7;2;3.06;f
+30;2023-01-30;2023;1;1;5;30;21;21;Product 21;Clothing;Subcat A;Brand Y;81;81;Customer 81;California;Female;26-35;2;Mobile App;130.26;1;2;4.36;f
+211;2023-07-30;2023;3;7;30;30;49;49;Product 49;Toys;Subcat B;Brand Y;81;81;Customer 81;California;Female;26-35;1;Website;914.76;2;2;4.64;f
+72;2023-03-13;2023;1;3;11;13;42;42;Product 42;Home & Garden;Subcat A;Brand Z;85;85;Customer 85;California;Female;18-25;1;Website;2445.96;11;4;3.19;f
+221;2023-08-09;2023;3;8;32;9;27;27;Product 27;Home & Garden;Subcat A;Brand W;33;33;Customer 33;California;Female;46-55;1;Website;3864.00;7;2;4.36;f
+155;2023-06-04;2023;2;6;22;4;46;46;Product 46;Clothing;Subcat B;Brand Z;53;53;Customer 53;California;Female;46-55;1;Website;2431.52;7;3;4.08;f
+310;2023-11-06;2023;4;11;45;6;44;44;Product 44;Toys;Subcat C;Brand X;53;53;Customer 53;California;Female;46-55;1;Website;861.40;10;3;3.77;t
+306;2023-11-02;2023;4;11;44;2;1;1;Product 1;Clothing;Subcat B;Brand Y;77;77;Customer 77;California;Female;36-45;2;Mobile App;3504.83;7;5;4.57;f
+62;2023-03-03;2023;1;3;9;3;12;12;Product 12;Home & Garden;Subcat A;Brand X;77;77;Customer 77;California;Female;36-45;1;Website;4304.43;9;2;3.29;t
+99;2023-04-09;2023;2;4;14;9;12;12;Product 12;Home & Garden;Subcat A;Brand X;77;77;Customer 77;California;Female;36-45;2;Mobile App;1422.72;6;2;4.79;f
+55;2023-02-24;2023;1;2;8;24;23;23;Product 23;Books;Subcat C;Brand W;25;25;Customer 25;California;Female;18-25;1;Website;649.85;5;2;3.56;f
+6;2023-01-06;2023;1;1;1;6;21;21;Product 21;Clothing;Subcat A;Brand Y;37;37;Customer 37;California;Female;36-45;1;Website;838.46;7;4;3.37;f
+330;2023-11-26;2023;4;11;47;26;11;11;Product 11;Clothing;Subcat C;Brand W;13;13;Customer 13;California;Female;46-55;2;Mobile App;757.36;4;4;3.84;f
+194;2023-07-13;2023;3;7;28;13;31;31;Product 31;Clothing;Subcat B;Brand W;85;85;Customer 85;California;Female;18-25;2;Mobile App;2737.28;7;4;3.20;f
+149;2023-05-29;2023;2;5;22;29;2;2;Product 2;Home & Garden;Subcat C;Brand Z;81;81;Customer 81;California;Female;26-35;2;Mobile App;1939.92;6;1;3.66;f
+293;2023-10-20;2023;4;10;42;20;23;23;Product 23;Books;Subcat C;Brand W;53;53;Customer 53;California;Female;46-55;1;Website;3638.20;10;4;3.67;f
+69;2023-03-10;2023;1;3;10;10;49;49;Product 49;Toys;Subcat B;Brand Y;81;81;Customer 81;California;Female;26-35;1;Website;888.30;3;2;3.68;f
+308;2023-11-04;2023;4;11;44;4;3;3;Product 3;Books;Subcat A;Brand W;73;73;Customer 73;California;Female;46-55;1;Website;77.04;2;3;4.15;f
+242;2023-08-30;2023;3;8;35;30;44;44;Product 44;Toys;Subcat C;Brand X;21;21;Customer 21;California;Female;26-35;1;Website;3966.48;9;1;4.48;f
+303;2023-10-30;2023;4;10;44;30;1;1;Product 1;Clothing;Subcat B;Brand Y;97;97;Customer 97;California;Female;36-45;2;Mobile App;5301.63;9;1;3.70;f
+275;2023-10-02;2023;4;10;40;2;41;41;Product 41;Clothing;Subcat C;Brand Y;97;97;Customer 97;California;Female;36-45;1;Website;686.20;2;3;4.73;f
+249;2023-09-06;2023;3;9;36;6;43;43;Product 43;Books;Subcat B;Brand W;77;77;Customer 77;California;Female;36-45;1;Website;906.80;5;1;4.71;f
+310;2023-11-06;2023;4;11;45;6;38;38;Product 38;Books;Subcat C;Brand Z;61;61;Customer 61;California;Female;26-35;1;Website;204.73;1;3;4.40;f
+46;2023-02-15;2023;1;2;7;15;36;36;Product 36;Clothing;Subcat A;Brand X;21;21;Customer 21;California;Female;26-35;1;Website;362.16;4;2;3.84;f
+218;2023-08-06;2023;3;8;31;6;17;17;Product 17;Home & Garden;Subcat C;Brand Y;5;5;Customer 5;California;Female;18-25;1;Website;298.08;8;4;4.34;f
+316;2023-11-12;2023;4;11;45;12;31;31;Product 31;Clothing;Subcat B;Brand W;53;53;Customer 53;California;Female;46-55;1;Website;1574.64;9;4;3.53;f
+126;2023-05-06;2023;2;5;18;6;44;44;Product 44;Toys;Subcat C;Brand X;61;61;Customer 61;California;Female;26-35;2;Mobile App;1800.40;4;2;3.52;f
+16;2023-01-16;2023;1;1;3;16;42;42;Product 42;Home & Garden;Subcat A;Brand Z;65;65;Customer 65;California;Female;18-25;2;Mobile App;3024.14;7;3;4.25;f
+27;2023-01-27;2023;1;1;4;27;17;17;Product 17;Home & Garden;Subcat C;Brand Y;37;37;Customer 37;California;Female;36-45;2;Mobile App;2713.92;8;4;3.98;f
+85;2023-03-26;2023;1;3;12;26;16;16;Product 16;Clothing;Subcat B;Brand X;37;37;Customer 37;California;Female;36-45;1;Website;1740.88;8;5;4.74;f
+275;2023-10-02;2023;4;10;40;2;19;19;Product 19;Toys;Subcat B;Brand W;81;81;Customer 81;California;Female;26-35;2;Mobile App;1300.00;10;4;4.12;f
+266;2023-09-23;2023;3;9;38;23;8;8;Product 8;Books;Subcat C;Brand X;25;25;Customer 25;California;Female;18-25;2;Mobile App;2901.36;11;4;4.15;f
+173;2023-06-22;2023;2;6;25;22;12;12;Product 12;Home & Garden;Subcat A;Brand X;53;53;Customer 53;California;Female;46-55;1;Website;1084.08;6;4;3.33;t
+246;2023-09-03;2023;3;9;35;3;34;34;Product 34;Toys;Subcat B;Brand Z;41;41;Customer 41;California;Female;26-35;2;Mobile App;3702.18;6;2;3.04;f
+186;2023-07-05;2023;3;7;27;5;9;9;Product 9;Toys;Subcat A;Brand Y;45;45;Customer 45;California;Female;18-25;2;Mobile App;5166.40;10;3;4.29;f
+91;2023-04-01;2023;2;4;13;1;31;31;Product 31;Clothing;Subcat B;Brand W;53;53;Customer 53;California;Female;46-55;1;Website;3717.60;10;4;3.11;f
+238;2023-08-26;2023;3;8;34;26;32;32;Product 32;Home & Garden;Subcat C;Brand X;81;81;Customer 81;California;Female;26-35;2;Mobile App;422.32;4;2;3.94;f
+103;2023-04-13;2023;2;4;15;13;16;16;Product 16;Clothing;Subcat B;Brand X;41;41;Customer 41;California;Female;26-35;1;Website;1826.48;8;2;4.06;f
+321;2023-11-17;2023;4;11;46;17;18;18;Product 18;Books;Subcat A;Brand Z;33;33;Customer 33;California;Female;46-55;2;Mobile App;2382.10;5;4;4.31;f
+318;2023-11-14;2023;4;11;46;14;24;24;Product 24;Toys;Subcat A;Brand X;33;33;Customer 33;California;Female;46-55;2;Mobile App;1675.11;3;5;3.24;f
+98;2023-04-08;2023;2;4;14;8;43;43;Product 43;Books;Subcat B;Brand W;1;1;Customer 1;California;Female;26-35;1;Website;586.48;2;2;3.68;f
+65;2023-03-06;2023;1;3;10;6;8;8;Product 8;Books;Subcat C;Brand X;61;61;Customer 61;California;Female;26-35;1;Website;2476.20;10;2;3.25;t
+147;2023-05-27;2023;2;5;21;27;24;24;Product 24;Toys;Subcat A;Brand X;53;53;Customer 53;California;Female;46-55;2;Mobile App;502.85;1;2;3.89;f
+300;2023-10-27;2023;4;10;43;27;32;32;Product 32;Home & Garden;Subcat C;Brand X;93;93;Customer 93;California;Female;46-55;2;Mobile App;3775.05;9;1;4.03;t
+49;2023-02-18;2023;1;2;7;18;14;14;Product 14;Toys;Subcat C;Brand Z;61;61;Customer 61;California;Female;26-35;1;Website;1715.60;4;3;4.05;f
+260;2023-09-17;2023;3;9;37;17;29;29;Product 29;Toys;Subcat C;Brand Y;41;41;Customer 41;California;Female;26-35;1;Website;2909.12;8;2;4.43;f
+240;2023-08-28;2023;3;8;35;28;29;29;Product 29;Toys;Subcat C;Brand Y;73;73;Customer 73;California;Female;46-55;1;Website;3228.48;9;2;4.93;t
+279;2023-10-06;2023;4;10;40;6;41;41;Product 41;Clothing;Subcat C;Brand Y;77;77;Customer 77;California;Female;36-45;2;Mobile App;1819.50;3;3;4.77;t
+136;2023-05-16;2023;2;5;20;16;34;34;Product 34;Toys;Subcat B;Brand Z;53;53;Customer 53;California;Female;46-55;2;Mobile App;1259.94;3;5;4.70;f
+324;2023-11-20;2023;4;11;47;20;31;31;Product 31;Clothing;Subcat B;Brand W;61;61;Customer 61;California;Female;26-35;1;Website;1374.42;6;4;4.74;f
+53;2023-02-22;2023;1;2;8;22;8;8;Product 8;Books;Subcat C;Brand X;5;5;Customer 5;California;Female;18-25;1;Website;2121.44;8;4;3.10;f
+225;2023-08-13;2023;3;8;32;13;39;39;Product 39;Toys;Subcat A;Brand W;1;1;Customer 1;California;Female;26-35;1;Website;1145.76;6;4;4.50;t
+117;2023-04-27;2023;2;4;17;27;2;2;Product 2;Home & Garden;Subcat C;Brand Z;17;17;Customer 17;California;Female;36-45;2;Mobile App;4102.96;8;1;4.43;f
+159;2023-06-08;2023;2;6;23;8;39;39;Product 39;Toys;Subcat A;Brand W;41;41;Customer 41;California;Female;26-35;1;Website;1256.64;7;4;3.88;f
+317;2023-11-13;2023;4;11;46;13;29;29;Product 29;Toys;Subcat C;Brand Y;65;65;Customer 65;California;Female;18-25;2;Mobile App;3037.37;7;3;4.67;f
+258;2023-09-15;2023;3;9;37;15;39;39;Product 39;Toys;Subcat A;Brand W;1;1;Customer 1;California;Female;26-35;2;Mobile App;1950.04;4;4;3.10;f
+245;2023-09-02;2023;3;9;35;2;2;2;Product 2;Home & Garden;Subcat C;Brand Z;17;17;Customer 17;California;Female;36-45;2;Mobile App;4800.20;10;2;3.61;f
+248;2023-09-05;2023;3;9;36;5;49;49;Product 49;Toys;Subcat B;Brand Y;77;77;Customer 77;California;Female;36-45;1;Website;2622.00;6;5;4.18;f
+59;2023-02-28;2023;1;2;9;28;17;17;Product 17;Home & Garden;Subcat C;Brand Y;41;41;Customer 41;California;Female;26-35;1;Website;1622.67;3;4;3.20;f
+146;2023-05-26;2023;2;5;21;26;41;41;Product 41;Clothing;Subcat C;Brand Y;97;97;Customer 97;California;Female;36-45;1;Website;2410.02;9;3;4.26;f
+114;2023-04-24;2023;2;4;17;24;39;39;Product 39;Toys;Subcat A;Brand W;65;65;Customer 65;California;Female;18-25;2;Mobile App;253.81;1;3;4.37;f
+293;2023-10-20;2023;4;10;42;20;38;38;Product 38;Books;Subcat C;Brand Z;45;45;Customer 45;California;Female;18-25;1;Website;1020.88;2;2;4.16;f
+142;2023-05-22;2023;2;5;21;22;46;46;Product 46;Clothing;Subcat B;Brand Z;85;85;Customer 85;California;Female;18-25;2;Mobile App;5415.75;9;5;3.07;f
+81;2023-03-22;2023;1;3;12;22;49;49;Product 49;Toys;Subcat B;Brand Y;1;1;Customer 1;California;Female;26-35;1;Website;465.60;2;1;4.45;f
+2;2023-01-02;2023;1;1;1;2;47;47;Product 47;Home & Garden;Subcat C;Brand W;65;65;Customer 65;California;Female;18-25;1;Website;1168.34;2;3;4.46;f
+134;2023-05-14;2023;2;5;19;14;12;12;Product 12;Home & Garden;Subcat A;Brand X;5;5;Customer 5;California;Female;18-25;1;Website;552.70;5;3;3.30;f
+19;2023-01-19;2023;1;1;3;19;42;42;Product 42;Home & Garden;Subcat A;Brand Z;41;41;Customer 41;California;Female;26-35;2;Mobile App;2401.44;6;1;3.60;f
+186;2023-07-05;2023;3;7;27;5;18;18;Product 18;Books;Subcat A;Brand Z;81;81;Customer 81;California;Female;26-35;2;Mobile App;1420.00;10;2;3.93;f
+85;2023-03-26;2023;1;3;12;26;27;27;Product 27;Home & Garden;Subcat A;Brand W;85;85;Customer 85;California;Female;18-25;2;Mobile App;1744.08;4;3;3.99;f
+231;2023-08-19;2023;3;8;33;19;31;31;Product 31;Clothing;Subcat B;Brand W;1;1;Customer 1;California;Female;26-35;1;Website;560.08;8;4;3.62;f
+228;2023-08-16;2023;3;8;33;16;34;34;Product 34;Toys;Subcat B;Brand Z;97;97;Customer 97;California;Female;36-45;1;Website;3038.08;8;2;4.69;f
+229;2023-08-17;2023;3;8;33;17;32;32;Product 32;Home & Garden;Subcat C;Brand X;25;25;Customer 25;California;Female;18-25;1;Website;884.52;6;1;3.97;f
+37;2023-02-06;2023;1;2;6;6;37;37;Product 37;Home & Garden;Subcat B;Brand Y;61;61;Customer 61;California;Female;26-35;2;Mobile App;1032.10;2;4;4.38;f
+229;2023-08-17;2023;3;8;33;17;3;3;Product 3;Books;Subcat A;Brand W;85;85;Customer 85;California;Female;18-25;1;Website;2656.50;6;4;4.17;f
+165;2023-06-14;2023;2;6;24;14;6;6;Product 6;Clothing;Subcat A;Brand Z;85;85;Customer 85;California;Female;18-25;1;Website;595.36;4;3;3.90;f
+236;2023-08-24;2023;3;8;34;24;9;9;Product 9;Toys;Subcat A;Brand Y;73;73;Customer 73;California;Female;46-55;1;Website;1171.44;4;5;3.27;f
+327;2023-11-23;2023;4;11;47;23;13;13;Product 13;Books;Subcat B;Brand Y;13;13;Customer 13;California;Female;46-55;2;Mobile App;2034.56;8;3;3.03;f
+195;2023-07-14;2023;3;7;28;14;44;44;Product 44;Toys;Subcat C;Brand X;45;45;Customer 45;California;Female;18-25;1;Website;1091.52;8;3;4.67;f
+116;2023-04-26;2023;2;4;17;26;47;47;Product 47;Home & Garden;Subcat C;Brand W;33;33;Customer 33;California;Female;46-55;2;Mobile App;565.51;11;3;4.74;f
+150;2023-05-30;2023;2;5;22;30;41;41;Product 41;Clothing;Subcat C;Brand Y;61;61;Customer 61;California;Female;26-35;1;Website;425.94;3;2;4.02;f
+40;2023-02-09;2023;1;2;6;9;9;9;Product 9;Toys;Subcat A;Brand Y;5;5;Customer 5;California;Female;18-25;1;Website;1233.36;4;4;3.40;f
+183;2023-07-02;2023;3;7;26;2;8;8;Product 8;Books;Subcat C;Brand X;93;93;Customer 93;California;Female;46-55;1;Website;268.16;2;3;3.85;f
+241;2023-08-29;2023;3;8;35;29;4;4;Product 4;Toys;Subcat B;Brand X;37;37;Customer 37;California;Female;36-45;2;Mobile App;2190.24;4;4;3.34;f
+128;2023-05-08;2023;2;5;19;8;3;3;Product 3;Books;Subcat A;Brand W;45;45;Customer 45;California;Female;18-25;2;Mobile App;1021.80;10;3;4.54;f
+150;2023-05-30;2023;2;5;22;30;8;8;Product 8;Books;Subcat C;Brand X;17;17;Customer 17;California;Female;36-45;1;Website;2606.87;7;2;4.64;f
+101;2023-04-11;2023;2;4;15;11;19;19;Product 19;Toys;Subcat B;Brand W;73;73;Customer 73;California;Female;46-55;1;Website;3119.88;6;3;3.56;f
+288;2023-10-15;2023;4;10;41;15;19;19;Product 19;Toys;Subcat B;Brand W;1;1;Customer 1;California;Female;26-35;2;Mobile App;1117.06;2;2;4.41;f
+33;2023-02-02;2023;1;2;5;2;48;48;Product 48;Books;Subcat A;Brand X;81;81;Customer 81;California;Female;26-35;1;Website;2151.17;7;3;3.38;f
+111;2023-04-21;2023;2;4;16;21;33;33;Product 33;Books;Subcat A;Brand Y;5;5;Customer 5;California;Female;18-25;1;Website;750.30;6;1;4.03;f
+311;2023-11-07;2023;4;11;45;7;8;8;Product 8;Books;Subcat C;Brand X;45;45;Customer 45;California;Female;18-25;1;Website;973.98;7;4;4.61;f
+323;2023-11-19;2023;4;11;46;19;37;37;Product 37;Home & Garden;Subcat B;Brand Y;33;33;Customer 33;California;Female;46-55;1;Website;3099.50;10;3;4.61;f
+137;2023-05-17;2023;2;5;20;17;1;1;Product 1;Clothing;Subcat B;Brand Y;93;93;Customer 93;California;Female;46-55;2;Mobile App;3935.00;10;3;4.23;f
+166;2023-06-15;2023;2;6;24;15;41;41;Product 41;Clothing;Subcat C;Brand Y;81;81;Customer 81;California;Female;26-35;1;Website;1183.14;3;3;4.33;f
+156;2023-06-05;2023;2;6;23;5;28;28;Product 28;Books;Subcat B;Brand X;73;73;Customer 73;California;Female;46-55;2;Mobile App;1739.04;3;4;4.12;f
+36;2023-02-05;2023;1;2;5;5;18;18;Product 18;Books;Subcat A;Brand Z;73;73;Customer 73;California;Female;46-55;2;Mobile App;1496.40;6;4;3.72;f
+272;2023-09-29;2023;3;9;39;29;2;2;Product 2;Home & Garden;Subcat C;Brand Z;61;61;Customer 61;California;Female;26-35;1;Website;2211.18;6;4;3.03;f
+15;2023-01-15;2023;1;1;2;15;33;33;Product 33;Books;Subcat A;Brand Y;53;53;Customer 53;California;Female;46-55;1;Website;3848.95;7;4;4.32;f
+245;2023-09-02;2023;3;9;35;2;16;16;Product 16;Clothing;Subcat B;Brand X;41;41;Customer 41;California;Female;26-35;1;Website;1589.08;4;4;3.04;f
+112;2023-04-22;2023;2;4;16;22;26;26;Product 26;Clothing;Subcat C;Brand Z;41;41;Customer 41;California;Female;26-35;1;Website;943.15;5;3;4.57;f
+309;2023-11-05;2023;4;11;44;5;8;8;Product 8;Books;Subcat C;Brand X;57;57;Customer 57;California;Female;36-45;1;Website;2123.28;9;1;3.48;t
+305;2023-11-01;2023;4;11;44;1;43;43;Product 43;Books;Subcat B;Brand W;73;73;Customer 73;California;Female;46-55;1;Website;5658.00;10;4;3.16;f
+30;2023-01-30;2023;1;1;5;30;42;42;Product 42;Home & Garden;Subcat A;Brand Z;41;41;Customer 41;California;Female;26-35;2;Mobile App;2270.60;10;2;4.05;f
+259;2023-09-16;2023;3;9;37;16;9;9;Product 9;Toys;Subcat A;Brand Y;13;13;Customer 13;California;Female;46-55;2;Mobile App;1597.38;6;4;4.46;f
+251;2023-09-08;2023;3;9;36;8;37;37;Product 37;Home & Garden;Subcat B;Brand Y;65;65;Customer 65;California;Female;18-25;2;Mobile App;1265.00;4;2;3.19;f
+346;2023-12-12;2023;4;12;50;12;26;26;Product 26;Clothing;Subcat C;Brand Z;45;45;Customer 45;California;Female;18-25;2;Mobile App;425.20;10;3;4.15;f
+352;2023-12-18;2023;4;12;51;18;18;18;Product 18;Books;Subcat A;Brand Z;25;25;Customer 25;California;Female;18-25;1;Website;5207.76;6;2;3.43;t
+365;2023-12-31;2023;4;12;52;31;32;32;Product 32;Home & Garden;Subcat C;Brand X;73;73;Customer 73;California;Female;46-55;1;Website;3073.73;11;5;3.72;f
+359;2023-12-25;2023;4;12;52;25;47;47;Product 47;Home & Garden;Subcat C;Brand W;37;37;Customer 37;California;Female;36-45;2;Mobile App;3553.20;5;4;4.08;t
+336;2023-12-02;2023;4;12;48;2;34;34;Product 34;Toys;Subcat B;Brand Z;1;1;Customer 1;California;Female;26-35;2;Mobile App;6628.20;10;5;4.30;f
+361;2023-12-27;2023;4;12;52;27;47;47;Product 47;Home & Garden;Subcat C;Brand W;53;53;Customer 53;California;Female;46-55;2;Mobile App;8415.60;10;4;4.64;f
+356;2023-12-22;2023;4;12;51;22;42;42;Product 42;Home & Garden;Subcat A;Brand Z;97;97;Customer 97;California;Female;36-45;2;Mobile App;719.80;4;2;3.30;t
+365;2023-12-31;2023;4;12;52;31;22;22;Product 22;Home & Garden;Subcat B;Brand Z;57;57;Customer 57;California;Female;36-45;1;Website;590.72;1;3;3.87;f
+356;2023-12-22;2023;4;12;51;22;44;44;Product 44;Toys;Subcat C;Brand X;81;81;Customer 81;California;Female;26-35;1;Website;1998.85;5;1;4.48;f
+344;2023-12-10;2023;4;12;49;10;7;7;Product 7;Home & Garden;Subcat B;Brand W;5;5;Customer 5;California;Female;18-25;1;Website;2635.74;9;3;3.88;f
+358;2023-12-24;2023;4;12;51;24;46;46;Product 46;Clothing;Subcat B;Brand Z;93;93;Customer 93;California;Female;46-55;1;Website;4671.85;5;1;4.10;t
+364;2023-12-30;2023;4;12;52;30;24;24;Product 24;Toys;Subcat A;Brand X;85;85;Customer 85;California;Female;18-25;2;Mobile App;4680.56;8;4;4.74;f
+359;2023-12-25;2023;4;12;52;25;2;2;Product 2;Home & Garden;Subcat C;Brand Z;21;21;Customer 21;California;Female;26-35;1;Website;1266.26;2;1;3.34;f
+361;2023-12-27;2023;4;12;52;27;13;13;Product 13;Books;Subcat B;Brand Y;57;57;Customer 57;California;Female;36-45;2;Mobile App;2973.06;9;4;3.85;f
+242;2023-08-30;2023;3;8;35;30;35;35;Product 35;Electronics;Subcat C;Brand W;1;1;Customer 1;California;Female;26-35;2;Mobile App;1508.04;6;5;5.00;f
+238;2023-08-26;2023;3;8;34;26;30;30;Product 30;Electronics;Subcat A;Brand Z;1;1;Customer 1;California;Female;26-35;1;Website;568.20;3;5;5.00;f
+226;2023-08-14;2023;3;8;33;14;45;45;Product 45;Electronics;Subcat A;Brand Y;81;81;Customer 81;California;Female;26-35;2;Mobile App;1724.01;3;5;5.00;f
+293;2023-10-20;2023;4;10;42;20;5;5;Product 5;Electronics;Subcat C;Brand Y;45;45;Customer 45;California;Female;18-25;1;Website;3508.16;8;5;5.00;f
+21;2023-01-21;2023;1;1;3;21;20;20;Product 20;Electronics;Subcat C;Brand X;33;33;Customer 33;California;Female;46-55;2;Mobile App;581.60;5;5;5.00;t
+206;2023-07-25;2023;3;7;30;25;10;10;Product 10;Electronics;Subcat B;Brand Z;13;13;Customer 13;California;Female;46-55;2;Mobile App;424.01;1;5;5.00;f
+54;2023-02-23;2023;1;2;8;23;40;40;Product 40;Electronics;Subcat B;Brand X;25;25;Customer 25;California;Female;18-25;1;Website;1197.66;6;5;5.00;f
+31;2023-01-31;2023;1;1;5;31;50;50;Product 50;Electronics;Subcat C;Brand Z;25;25;Customer 25;California;Female;18-25;2;Mobile App;220.32;2;5;5.00;f
+231;2023-08-19;2023;3;8;33;19;20;20;Product 20;Electronics;Subcat C;Brand X;1;1;Customer 1;California;Female;26-35;2;Mobile App;905.49;9;5;5.00;f
+137;2023-05-17;2023;2;5;20;17;30;30;Product 30;Electronics;Subcat A;Brand Z;81;81;Customer 81;California;Female;26-35;2;Mobile App;2032.72;4;5;5.00;f
+240;2023-08-28;2023;3;8;35;28;35;35;Product 35;Electronics;Subcat C;Brand W;61;61;Customer 61;California;Female;26-35;2;Mobile App;500.56;8;5;5.00;f
+270;2023-09-27;2023;3;9;39;27;40;40;Product 40;Electronics;Subcat B;Brand X;17;17;Customer 17;California;Female;36-45;2;Mobile App;3675.40;10;5;5.00;f
+88;2023-03-29;2023;1;3;13;29;40;40;Product 40;Electronics;Subcat B;Brand X;61;61;Customer 61;California;Female;26-35;2;Mobile App;5005.44;11;5;5.00;f
+125;2023-05-05;2023;2;5;18;5;30;30;Product 30;Electronics;Subcat A;Brand Z;93;93;Customer 93;California;Female;46-55;1;Website;1305.04;4;5;5.00;t
+230;2023-08-18;2023;3;8;33;18;35;35;Product 35;Electronics;Subcat C;Brand W;5;5;Customer 5;California;Female;18-25;1;Website;231.14;2;5;5.00;f
+124;2023-05-04;2023;2;5;18;4;20;20;Product 20;Electronics;Subcat C;Brand X;85;85;Customer 85;California;Female;18-25;2;Mobile App;1249.16;4;5;5.00;f
+36;2023-02-05;2023;1;2;5;5;20;20;Product 20;Electronics;Subcat C;Brand X;81;81;Customer 81;California;Female;26-35;1;Website;1337.46;3;5;5.00;f
+229;2023-08-17;2023;3;8;33;17;45;45;Product 45;Electronics;Subcat A;Brand Y;21;21;Customer 21;California;Female;26-35;1;Website;1249.44;3;5;5.00;f
+141;2023-05-21;2023;2;5;20;21;25;25;Product 25;Electronics;Subcat B;Brand Y;1;1;Customer 1;California;Female;26-35;2;Mobile App;498.92;2;5;5.00;f
+306;2023-11-02;2023;4;11;44;2;30;30;Product 30;Electronics;Subcat A;Brand Z;41;41;Customer 41;California;Female;26-35;1;Website;2260.25;5;5;5.00;f
+247;2023-09-04;2023;3;9;36;4;20;20;Product 20;Electronics;Subcat C;Brand X;81;81;Customer 81;California;Female;26-35;1;Website;2200.60;4;5;5.00;f
+150;2023-05-30;2023;2;5;22;30;40;40;Product 40;Electronics;Subcat B;Brand X;17;17;Customer 17;California;Female;36-45;1;Website;246.06;9;5;5.00;f
+318;2023-11-14;2023;4;11;46;14;15;15;Product 15;Electronics;Subcat A;Brand W;57;57;Customer 57;California;Female;36-45;2;Mobile App;4636.40;10;5;5.00;f
+54;2023-02-23;2023;1;2;8;23;15;15;Product 15;Electronics;Subcat A;Brand W;97;97;Customer 97;California;Female;36-45;2;Mobile App;2974.38;6;5;5.00;f
+252;2023-09-09;2023;3;9;36;9;35;35;Product 35;Electronics;Subcat C;Brand W;61;61;Customer 61;California;Female;26-35;2;Mobile App;2006.68;4;5;5.00;f
+264;2023-09-21;2023;3;9;38;21;35;35;Product 35;Electronics;Subcat C;Brand W;21;21;Customer 21;California;Female;26-35;2;Mobile App;1055.90;5;5;5.00;f
+213;2023-08-01;2023;3;8;31;1;10;10;Product 10;Electronics;Subcat B;Brand Z;61;61;Customer 61;California;Female;26-35;1;Website;5534.21;11;5;5.00;f
+141;2023-05-21;2023;2;5;20;21;30;30;Product 30;Electronics;Subcat A;Brand Z;33;33;Customer 33;California;Female;46-55;2;Mobile App;6227.10;11;5;5.00;f
+283;2023-10-10;2023;4;10;41;10;50;50;Product 50;Electronics;Subcat C;Brand Z;13;13;Customer 13;California;Female;46-55;1;Website;1085.12;4;5;5.00;f
+316;2023-11-12;2023;4;11;45;12;45;45;Product 45;Electronics;Subcat A;Brand Y;17;17;Customer 17;California;Female;36-45;2;Mobile App;2797.92;9;5;5.00;f
+75;2023-03-16;2023;1;3;11;16;15;15;Product 15;Electronics;Subcat A;Brand W;37;37;Customer 37;California;Female;36-45;1;Website;1675.24;7;5;5.00;t
+154;2023-06-03;2023;2;6;22;3;30;30;Product 30;Electronics;Subcat A;Brand Z;85;85;Customer 85;California;Female;18-25;2;Mobile App;596.17;1;5;5.00;f
+241;2023-08-29;2023;3;8;35;29;20;20;Product 20;Electronics;Subcat C;Brand X;53;53;Customer 53;California;Female;46-55;1;Website;1741.65;3;5;5.00;f
+106;2023-04-16;2023;2;4;15;16;30;30;Product 30;Electronics;Subcat A;Brand Z;17;17;Customer 17;California;Female;36-45;1;Website;1706.60;7;5;5.00;f
+23;2023-01-23;2023;1;1;4;23;40;40;Product 40;Electronics;Subcat B;Brand X;1;1;Customer 1;California;Female;26-35;1;Website;412.92;2;5;5.00;f
+249;2023-09-06;2023;3;9;36;6;20;20;Product 20;Electronics;Subcat C;Brand X;57;57;Customer 57;California;Female;36-45;1;Website;2488.50;9;5;5.00;f
+333;2023-11-29;2023;4;11;48;29;15;15;Product 15;Electronics;Subcat A;Brand W;41;41;Customer 41;California;Female;26-35;2;Mobile App;1975.82;7;5;5.00;f
+9;2023-01-09;2023;1;1;2;9;45;45;Product 45;Electronics;Subcat A;Brand Y;41;41;Customer 41;California;Female;26-35;2;Mobile App;1708.64;8;5;5.00;f
+201;2023-07-20;2023;3;7;29;20;15;15;Product 15;Electronics;Subcat A;Brand W;25;25;Customer 25;California;Female;18-25;2;Mobile App;2693.70;5;5;5.00;f
+364;2023-12-30;2023;4;12;52;30;20;20;Product 20;Electronics;Subcat C;Brand X;45;45;Customer 45;California;Female;18-25;1;Website;5165.76;8;5;5.00;f
+346;2023-12-12;2023;4;12;50;12;15;15;Product 15;Electronics;Subcat A;Brand W;33;33;Customer 33;California;Female;46-55;2;Mobile App;6268.68;11;5;5.00;f
+336;2023-12-02;2023;4;12;48;2;20;20;Product 20;Electronics;Subcat C;Brand X;73;73;Customer 73;California;Female;46-55;1;Website;735.66;9;5;5.00;f
+347;2023-12-13;2023;4;12;50;13;25;25;Product 25;Electronics;Subcat B;Brand Y;21;21;Customer 21;California;Female;26-35;2;Mobile App;1544.24;4;5;5.00;f
+336;2023-12-02;2023;4;12;48;2;15;15;Product 15;Electronics;Subcat A;Brand W;33;33;Customer 33;California;Female;46-55;2;Mobile App;8773.80;10;5;5.00;f
+364;2023-12-30;2023;4;12;52;30;30;30;Product 30;Electronics;Subcat A;Brand Z;13;13;Customer 13;California;Female;46-55;1;Website;1123.46;2;5;5.00;f
+300;2023-10-27;2023;4;10;43;27;26;26;Product 26;Clothing;Subcat C;Brand Z;17;17;Customer 17;California;Female;36-45;1;Website;1668.06;3;4;3.79;t
+113;2023-04-23;2023;2;4;16;23;26;26;Product 26;Clothing;Subcat C;Brand Z;77;77;Customer 77;California;Female;36-45;2;Mobile App;2102.80;10;3;3.38;t
+206;2023-07-25;2023;3;7;30;25;26;26;Product 26;Clothing;Subcat C;Brand Z;41;41;Customer 41;California;Female;26-35;2;Mobile App;726.20;5;2;4.30;t
+112;2023-04-22;2023;2;4;16;22;36;36;Product 36;Clothing;Subcat A;Brand X;77;77;Customer 77;California;Female;36-45;2;Mobile App;5993.50;10;3;3.21;t
+182;2023-07-01;2023;3;7;26;1;46;46;Product 46;Clothing;Subcat B;Brand Z;1;1;Customer 1;California;Female;26-35;2;Mobile App;531.04;8;5;4.48;t
+17;2023-01-17;2023;1;1;3;17;11;11;Product 11;Clothing;Subcat C;Brand W;41;41;Customer 41;California;Female;26-35;2;Mobile App;216.06;6;5;3.64;t
+105;2023-04-15;2023;2;4;15;15;1;1;Product 1;Clothing;Subcat B;Brand Y;61;61;Customer 61;California;Female;26-35;1;Website;4040.54;7;4;3.72;t
+207;2023-07-26;2023;3;7;30;26;16;16;Product 16;Clothing;Subcat B;Brand X;97;97;Customer 97;California;Female;36-45;2;Mobile App;2919.18;6;3;4.13;t
+159;2023-06-08;2023;2;6;23;8;21;21;Product 21;Clothing;Subcat A;Brand Y;53;53;Customer 53;California;Female;46-55;1;Website;825.04;2;1;4.93;t
+363;2023-12-29;2023;4;12;52;29;6;6;Product 6;Clothing;Subcat A;Brand Z;41;41;Customer 41;California;Female;26-35;1;Website;1125.32;7;5;3.32;t
+335;2023-12-01;2023;4;12;48;1;11;11;Product 11;Clothing;Subcat C;Brand W;93;93;Customer 93;California;Female;46-55;1;Website;4986.36;9;3;4.94;t
+24;2023-01-24;2023;1;1;4;24;22;22;Product 22;Home & Garden;Subcat B;Brand Z;44;44;Customer 44;New York;Male;56+;1;Website;1210.92;3;3;2.55;f
+112;2023-04-22;2023;2;4;16;22;29;29;Product 29;Toys;Subcat C;Brand Y;94;94;Customer 94;Texas;Male;56+;1;Website;2029.65;7;4;3.70;f
+212;2023-07-31;2023;3;7;31;31;34;34;Product 34;Toys;Subcat B;Brand Z;24;24;Customer 24;New York;Male;56+;2;Mobile App;429.32;1;2;2.78;f
+250;2023-09-07;2023;3;9;36;7;31;31;Product 31;Clothing;Subcat B;Brand W;94;94;Customer 94;Texas;Male;56+;2;Mobile App;1771.92;4;4;3.48;f
+159;2023-06-08;2023;2;6;23;8;22;22;Product 22;Home & Garden;Subcat B;Brand Z;39;39;Customer 39;Florida;Female;56+;2;Mobile App;1009.44;2;1;3.63;f
+297;2023-10-24;2023;4;10;43;24;18;18;Product 18;Books;Subcat A;Brand Z;74;74;Customer 74;Texas;Male;56+;2;Mobile App;3686.96;8;1;3.69;t
+125;2023-05-05;2023;2;5;18;5;22;22;Product 22;Home & Garden;Subcat B;Brand Z;84;84;Customer 84;New York;Male;56+;2;Mobile App;296.88;6;4;2.65;f
+156;2023-06-05;2023;2;6;23;5;44;44;Product 44;Toys;Subcat C;Brand X;84;84;Customer 84;New York;Male;56+;2;Mobile App;194.54;2;3;3.66;f
+140;2023-05-20;2023;2;5;20;20;17;17;Product 17;Home & Garden;Subcat C;Brand Y;19;19;Customer 19;Florida;Female;56+;2;Mobile App;74.46;2;1;2.92;f
+66;2023-03-07;2023;1;3;10;7;39;39;Product 39;Toys;Subcat A;Brand W;34;34;Customer 34;Texas;Male;56+;2;Mobile App;2219.46;6;1;3.70;f
+80;2023-03-21;2023;1;3;12;21;48;48;Product 48;Books;Subcat A;Brand X;19;19;Customer 19;Florida;Female;56+;2;Mobile App;917.52;8;2;3.17;t
+180;2023-06-29;2023;2;6;26;29;18;18;Product 18;Books;Subcat A;Brand Z;84;84;Customer 84;New York;Male;56+;1;Website;1344.97;11;4;2.09;f
+120;2023-04-30;2023;2;4;17;30;48;48;Product 48;Books;Subcat A;Brand X;24;24;Customer 24;New York;Male;56+;1;Website;1947.48;4;2;3.54;f
+9;2023-01-09;2023;1;1;2;9;21;21;Product 21;Clothing;Subcat A;Brand Y;39;39;Customer 39;Florida;Female;56+;1;Website;5046.80;10;2;3.01;f
+296;2023-10-23;2023;4;10;43;23;42;42;Product 42;Home & Garden;Subcat A;Brand Z;84;84;Customer 84;New York;Male;56+;2;Mobile App;3216.72;8;4;3.47;f
+7;2023-01-07;2023;1;1;1;7;26;26;Product 26;Clothing;Subcat C;Brand Z;99;99;Customer 99;Florida;Female;56+;2;Mobile App;565.38;3;3;2.95;f
+230;2023-08-18;2023;3;8;33;18;22;22;Product 22;Home & Garden;Subcat B;Brand Z;14;14;Customer 14;Texas;Male;56+;1;Website;837.85;5;2;2.52;f
+124;2023-05-04;2023;2;5;18;4;43;43;Product 43;Books;Subcat B;Brand W;14;14;Customer 14;Texas;Male;56+;2;Mobile App;3533.94;9;2;3.12;f
+110;2023-04-20;2023;2;4;16;20;17;17;Product 17;Home & Garden;Subcat C;Brand Y;94;94;Customer 94;Texas;Male;56+;1;Website;2355.35;5;2;3.85;f
+315;2023-11-11;2023;4;11;45;11;28;28;Product 28;Books;Subcat B;Brand X;14;14;Customer 14;Texas;Male;56+;2;Mobile App;785.70;3;1;3.69;f
+58;2023-02-27;2023;1;2;9;27;32;32;Product 32;Home & Garden;Subcat C;Brand X;34;34;Customer 34;Texas;Male;56+;1;Website;1366.24;8;1;2.21;f
+5;2023-01-05;2023;1;1;1;5;46;46;Product 46;Clothing;Subcat B;Brand Z;59;59;Customer 59;Florida;Female;56+;1;Website;151.05;3;1;2.95;f
+260;2023-09-17;2023;3;9;37;17;29;29;Product 29;Toys;Subcat C;Brand Y;19;19;Customer 19;Florida;Female;56+;1;Website;5114.20;10;1;3.53;f
+219;2023-08-07;2023;3;8;32;7;47;47;Product 47;Home & Garden;Subcat C;Brand W;44;44;Customer 44;New York;Male;56+;2;Mobile App;1814.30;5;1;3.39;f
+251;2023-09-08;2023;3;9;36;8;11;11;Product 11;Clothing;Subcat C;Brand W;99;99;Customer 99;Florida;Female;56+;1;Website;2369.25;5;2;2.23;f
+324;2023-11-20;2023;4;11;47;20;7;7;Product 7;Home & Garden;Subcat B;Brand W;39;39;Customer 39;Florida;Female;56+;2;Mobile App;1539.36;6;2;2.35;f
+221;2023-08-09;2023;3;8;32;9;19;19;Product 19;Toys;Subcat B;Brand W;94;94;Customer 94;Texas;Male;56+;2;Mobile App;1419.06;6;3;2.76;f
+132;2023-05-12;2023;2;5;19;12;44;44;Product 44;Toys;Subcat C;Brand X;84;84;Customer 84;New York;Male;56+;2;Mobile App;826.80;6;1;3.52;f
+192;2023-07-11;2023;3;7;28;11;13;13;Product 13;Books;Subcat B;Brand Y;39;39;Customer 39;Florida;Female;56+;1;Website;3883.59;9;1;3.84;f
+212;2023-07-31;2023;3;7;31;31;34;34;Product 34;Toys;Subcat B;Brand Z;39;39;Customer 39;Florida;Female;56+;1;Website;3452.60;10;4;3.29;f
+156;2023-06-05;2023;2;6;23;5;7;7;Product 7;Home & Garden;Subcat B;Brand W;54;54;Customer 54;Texas;Male;56+;1;Website;4098.80;10;2;2.08;f
+255;2023-09-12;2023;3;9;37;12;14;14;Product 14;Toys;Subcat C;Brand Z;84;84;Customer 84;New York;Male;56+;1;Website;389.92;2;3;2.85;f
+32;2023-02-01;2023;1;2;5;1;9;9;Product 9;Toys;Subcat A;Brand Y;64;64;Customer 64;New York;Male;56+;2;Mobile App;147.98;7;2;2.29;f
+16;2023-01-16;2023;1;1;3;16;12;12;Product 12;Home & Garden;Subcat A;Brand X;99;99;Customer 99;Florida;Female;56+;2;Mobile App;3377.92;7;4;2.24;f
+220;2023-08-08;2023;3;8;32;8;13;13;Product 13;Books;Subcat B;Brand Y;99;99;Customer 99;Florida;Female;56+;2;Mobile App;2303.75;5;2;3.82;t
+129;2023-05-09;2023;2;5;19;9;42;42;Product 42;Home & Garden;Subcat A;Brand Z;24;24;Customer 24;New York;Male;56+;2;Mobile App;1782.44;4;1;3.46;f
+28;2023-01-28;2023;1;1;4;28;3;3;Product 3;Books;Subcat A;Brand W;34;34;Customer 34;Texas;Male;56+;2;Mobile App;730.30;2;2;3.28;t
+319;2023-11-15;2023;4;11;46;15;32;32;Product 32;Home & Garden;Subcat C;Brand X;79;79;Customer 79;Florida;Female;56+;1;Website;3534.10;10;1;2.07;f
+150;2023-05-30;2023;2;5;22;30;43;43;Product 43;Books;Subcat B;Brand W;14;14;Customer 14;Texas;Male;56+;1;Website;469.74;2;3;3.22;f
+176;2023-06-25;2023;2;6;25;25;13;13;Product 13;Books;Subcat B;Brand Y;44;44;Customer 44;New York;Male;56+;2;Mobile App;549.30;10;1;2.54;f
+167;2023-06-16;2023;2;6;24;16;42;42;Product 42;Home & Garden;Subcat A;Brand Z;44;44;Customer 44;New York;Male;56+;2;Mobile App;3294.27;7;1;3.70;f
+24;2023-01-24;2023;1;1;4;24;6;6;Product 6;Clothing;Subcat A;Brand Z;44;44;Customer 44;New York;Male;56+;2;Mobile App;272.93;7;2;2.65;f
+55;2023-02-24;2023;1;2;8;24;17;17;Product 17;Home & Garden;Subcat C;Brand Y;99;99;Customer 99;Florida;Female;56+;1;Website;364.40;1;1;3.95;f
+85;2023-03-26;2023;1;3;12;26;28;28;Product 28;Books;Subcat B;Brand X;79;79;Customer 79;Florida;Female;56+;1;Website;529.50;5;1;3.40;f
+131;2023-05-11;2023;2;5;19;11;3;3;Product 3;Books;Subcat A;Brand W;59;59;Customer 59;Florida;Female;56+;2;Mobile App;511.60;2;2;2.16;f
+203;2023-07-22;2023;3;7;29;22;43;43;Product 43;Books;Subcat B;Brand W;44;44;Customer 44;New York;Male;56+;1;Website;2552.16;6;2;3.03;f
+13;2023-01-13;2023;1;1;2;13;3;3;Product 3;Books;Subcat A;Brand W;79;79;Customer 79;Florida;Female;56+;2;Mobile App;2267.37;9;1;3.98;f
+307;2023-11-03;2023;4;11;44;3;47;47;Product 47;Home & Garden;Subcat C;Brand W;14;14;Customer 14;Texas;Male;56+;2;Mobile App;3933.92;8;1;3.97;t
+304;2023-10-31;2023;4;10;44;31;24;24;Product 24;Toys;Subcat A;Brand X;54;54;Customer 54;Texas;Male;56+;2;Mobile App;3152.80;7;3;3.85;f
+138;2023-05-18;2023;2;5;20;18;22;22;Product 22;Home & Garden;Subcat B;Brand Z;54;54;Customer 54;Texas;Male;56+;1;Website;168.09;3;1;3.81;f
+307;2023-11-03;2023;4;11;44;3;49;49;Product 49;Toys;Subcat B;Brand Y;99;99;Customer 99;Florida;Female;56+;2;Mobile App;2652.48;8;1;2.07;f
+19;2023-01-19;2023;1;1;3;19;12;12;Product 12;Home & Garden;Subcat A;Brand X;44;44;Customer 44;New York;Male;56+;2;Mobile App;393.12;6;1;3.00;f
+175;2023-06-24;2023;2;6;25;24;27;27;Product 27;Home & Garden;Subcat A;Brand W;39;39;Customer 39;Florida;Female;56+;1;Website;3924.30;10;1;2.13;f
+49;2023-02-18;2023;1;2;7;18;7;7;Product 7;Home & Garden;Subcat B;Brand W;19;19;Customer 19;Florida;Female;56+;2;Mobile App;921.36;8;3;2.84;f
+77;2023-03-18;2023;1;3;11;18;41;41;Product 41;Clothing;Subcat C;Brand Y;34;34;Customer 34;Texas;Male;56+;1;Website;760.86;9;3;2.46;f
+189;2023-07-08;2023;3;7;27;8;24;24;Product 24;Toys;Subcat A;Brand X;24;24;Customer 24;New York;Male;56+;1;Website;171.52;4;1;2.59;f
+285;2023-10-12;2023;4;10;41;12;38;38;Product 38;Books;Subcat C;Brand Z;44;44;Customer 44;New York;Male;56+;2;Mobile App;471.75;3;2;2.71;f
+261;2023-09-18;2023;3;9;38;18;6;6;Product 6;Clothing;Subcat A;Brand Z;99;99;Customer 99;Florida;Female;56+;1;Website;289.40;4;2;2.28;f
+101;2023-04-11;2023;2;4;15;11;43;43;Product 43;Books;Subcat B;Brand W;84;84;Customer 84;New York;Male;56+;1;Website;3602.76;7;1;3.04;f
+102;2023-04-12;2023;2;4;15;12;3;3;Product 3;Books;Subcat A;Brand W;84;84;Customer 84;New York;Male;56+;2;Mobile App;1324.72;4;4;2.20;f
+195;2023-07-14;2023;3;7;28;14;12;12;Product 12;Home & Garden;Subcat A;Brand X;59;59;Customer 59;Florida;Female;56+;1;Website;598.68;3;1;2.80;f
+27;2023-01-27;2023;1;1;4;27;32;32;Product 32;Home & Garden;Subcat C;Brand X;74;74;Customer 74;Texas;Male;56+;2;Mobile App;1034.86;2;2;2.36;f
+22;2023-01-22;2023;1;1;3;22;2;2;Product 2;Home & Garden;Subcat C;Brand Z;19;19;Customer 19;Florida;Female;56+;2;Mobile App;2516.04;6;1;2.97;t
+142;2023-05-22;2023;2;5;21;22;4;4;Product 4;Toys;Subcat B;Brand X;44;44;Customer 44;New York;Male;56+;1;Website;4157.82;9;4;2.48;f
+172;2023-06-21;2023;2;6;25;21;2;2;Product 2;Home & Garden;Subcat C;Brand Z;59;59;Customer 59;Florida;Female;56+;2;Mobile App;4318.16;11;3;3.56;f
+330;2023-11-26;2023;4;11;47;26;7;7;Product 7;Home & Garden;Subcat B;Brand W;39;39;Customer 39;Florida;Female;56+;2;Mobile App;1823.84;8;1;3.75;f
+92;2023-04-02;2023;2;4;13;2;8;8;Product 8;Books;Subcat C;Brand X;34;34;Customer 34;Texas;Male;56+;2;Mobile App;779.26;2;2;2.11;f
+11;2023-01-11;2023;1;1;2;11;17;17;Product 17;Home & Garden;Subcat C;Brand Y;34;34;Customer 34;Texas;Male;56+;2;Mobile App;373.47;1;3;2.37;f
+88;2023-03-29;2023;1;3;13;29;48;48;Product 48;Books;Subcat A;Brand X;94;94;Customer 94;Texas;Male;56+;2;Mobile App;1275.90;3;3;2.93;f
+27;2023-01-27;2023;1;1;4;27;46;46;Product 46;Clothing;Subcat B;Brand Z;4;4;Customer 4;New York;Male;56+;2;Mobile App;2455.50;6;1;3.15;f
+328;2023-11-24;2023;4;11;47;24;6;6;Product 6;Clothing;Subcat A;Brand Z;44;44;Customer 44;New York;Male;56+;1;Website;1903.62;6;1;2.61;f
+49;2023-02-18;2023;1;2;7;18;16;16;Product 16;Clothing;Subcat B;Brand X;34;34;Customer 34;Texas;Male;56+;1;Website;404.74;7;1;2.99;f
+236;2023-08-24;2023;3;8;34;24;9;9;Product 9;Toys;Subcat A;Brand Y;44;44;Customer 44;New York;Male;56+;2;Mobile App;2315.88;6;3;3.26;f
+178;2023-06-27;2023;2;6;26;27;29;29;Product 29;Toys;Subcat C;Brand Y;14;14;Customer 14;Texas;Male;56+;1;Website;654.92;2;2;2.33;f
+113;2023-04-23;2023;2;4;16;23;31;31;Product 31;Clothing;Subcat B;Brand W;99;99;Customer 99;Florida;Female;56+;2;Mobile App;3174.66;9;1;2.19;f
+103;2023-04-13;2023;2;4;15;13;17;17;Product 17;Home & Garden;Subcat C;Brand Y;4;4;Customer 4;New York;Male;56+;1;Website;3003.00;11;3;3.88;f
+55;2023-02-24;2023;1;2;8;24;34;34;Product 34;Toys;Subcat B;Brand Z;39;39;Customer 39;Florida;Female;56+;1;Website;84.90;1;3;3.11;f
+164;2023-06-13;2023;2;6;24;13;29;29;Product 29;Toys;Subcat C;Brand Y;44;44;Customer 44;New York;Male;56+;1;Website;3919.14;9;1;2.04;f
+78;2023-03-19;2023;1;3;11;19;41;41;Product 41;Clothing;Subcat C;Brand Y;44;44;Customer 44;New York;Male;56+;2;Mobile App;2539.20;5;1;3.28;f
+195;2023-07-14;2023;3;7;28;14;38;38;Product 38;Books;Subcat C;Brand Z;74;74;Customer 74;Texas;Male;56+;2;Mobile App;265.66;2;4;3.81;f
+190;2023-07-09;2023;3;7;27;9;8;8;Product 8;Books;Subcat C;Brand X;84;84;Customer 84;New York;Male;56+;2;Mobile App;2070.64;8;1;3.40;f
+143;2023-05-23;2023;2;5;21;23;44;44;Product 44;Toys;Subcat C;Brand X;14;14;Customer 14;Texas;Male;56+;2;Mobile App;1195.65;5;3;2.86;f
+226;2023-08-14;2023;3;8;33;14;22;22;Product 22;Home & Garden;Subcat B;Brand Z;64;64;Customer 64;New York;Male;56+;2;Mobile App;1253.70;6;1;3.92;f
+158;2023-06-07;2023;2;6;23;7;39;39;Product 39;Toys;Subcat A;Brand W;44;44;Customer 44;New York;Male;56+;2;Mobile App;334.86;6;3;3.78;f
+162;2023-06-11;2023;2;6;23;11;14;14;Product 14;Toys;Subcat C;Brand Z;59;59;Customer 59;Florida;Female;56+;1;Website;629.70;2;4;2.67;t
+178;2023-06-27;2023;2;6;26;27;42;42;Product 42;Home & Garden;Subcat A;Brand Z;64;64;Customer 64;New York;Male;56+;2;Mobile App;1557.40;4;1;2.66;f
+38;2023-02-07;2023;1;2;6;7;42;42;Product 42;Home & Garden;Subcat A;Brand Z;4;4;Customer 4;New York;Male;56+;1;Website;1284.90;6;1;3.63;f
+267;2023-09-24;2023;3;9;38;24;1;1;Product 1;Clothing;Subcat B;Brand Y;44;44;Customer 44;New York;Male;56+;2;Mobile App;2546.90;10;3;3.66;f
+26;2023-01-26;2023;1;1;4;26;31;31;Product 31;Clothing;Subcat B;Brand W;74;74;Customer 74;Texas;Male;56+;2;Mobile App;2827.26;9;4;3.14;f
+270;2023-09-27;2023;3;9;39;27;49;49;Product 49;Toys;Subcat B;Brand Y;64;64;Customer 64;New York;Male;56+;2;Mobile App;2386.12;11;1;2.35;f
+357;2023-12-23;2023;4;12;51;23;24;24;Product 24;Toys;Subcat A;Brand X;94;94;Customer 94;Texas;Male;56+;2;Mobile App;1249.00;2;4;3.31;f
+353;2023-12-19;2023;4;12;51;19;26;26;Product 26;Clothing;Subcat C;Brand Z;79;79;Customer 79;Florida;Female;56+;1;Website;913.62;6;3;3.66;f
+341;2023-12-07;2023;4;12;49;7;27;27;Product 27;Home & Garden;Subcat A;Brand W;34;34;Customer 34;Texas;Male;56+;1;Website;4028.30;10;1;2.63;t
+346;2023-12-12;2023;4;12;50;12;12;12;Product 12;Home & Garden;Subcat A;Brand X;4;4;Customer 4;New York;Male;56+;1;Website;3030.40;5;4;3.53;t
+347;2023-12-13;2023;4;12;50;13;36;36;Product 36;Clothing;Subcat A;Brand X;24;24;Customer 24;New York;Male;56+;1;Website;1417.98;6;1;2.58;f
+348;2023-12-14;2023;4;12;50;14;41;41;Product 41;Clothing;Subcat C;Brand Y;24;24;Customer 24;New York;Male;56+;1;Website;1764.08;4;2;2.97;f
+350;2023-12-16;2023;4;12;50;16;26;26;Product 26;Clothing;Subcat C;Brand Z;24;24;Customer 24;New York;Male;56+;1;Website;1960.05;5;1;2.70;f
+335;2023-12-01;2023;4;12;48;1;31;31;Product 31;Clothing;Subcat B;Brand W;84;84;Customer 84;New York;Male;56+;2;Mobile App;2366.08;8;1;2.65;f
+341;2023-12-07;2023;4;12;49;7;24;24;Product 24;Toys;Subcat A;Brand X;19;19;Customer 19;Florida;Female;56+;2;Mobile App;4272.30;6;3;2.02;t
+350;2023-12-16;2023;4;12;50;16;48;48;Product 48;Books;Subcat A;Brand X;59;59;Customer 59;Florida;Female;56+;2;Mobile App;592.92;6;2;3.34;f
+336;2023-12-02;2023;4;12;48;2;22;22;Product 22;Home & Garden;Subcat B;Brand Z;4;4;Customer 4;New York;Male;56+;1;Website;4312.38;6;3;3.83;t
+351;2023-12-17;2023;4;12;50;17;7;7;Product 7;Home & Garden;Subcat B;Brand W;99;99;Customer 99;Florida;Female;56+;1;Website;4561.20;6;2;2.02;f
+285;2023-10-12;2023;4;10;41;12;35;35;Product 35;Electronics;Subcat C;Brand W;39;39;Customer 39;Florida;Female;56+;1;Website;2746.50;6;4;4.00;f
+181;2023-06-30;2023;2;6;26;30;40;40;Product 40;Electronics;Subcat B;Brand X;59;59;Customer 59;Florida;Female;56+;1;Website;1483.35;3;4;4.00;f
+115;2023-04-25;2023;2;4;17;25;20;20;Product 20;Electronics;Subcat C;Brand X;44;44;Customer 44;New York;Male;56+;1;Website;1018.72;8;4;4.00;f
+263;2023-09-20;2023;3;9;38;20;10;10;Product 10;Electronics;Subcat B;Brand Z;34;34;Customer 34;Texas;Male;56+;1;Website;827.46;9;4;4.00;f
+205;2023-07-24;2023;3;7;30;24;45;45;Product 45;Electronics;Subcat A;Brand Y;14;14;Customer 14;Texas;Male;56+;1;Website;1723.36;4;4;4.00;f
+199;2023-07-18;2023;3;7;29;18;20;20;Product 20;Electronics;Subcat C;Brand X;14;14;Customer 14;Texas;Male;56+;1;Website;1569.89;7;4;4.00;f
+238;2023-08-26;2023;3;8;34;26;5;5;Product 5;Electronics;Subcat C;Brand Y;39;39;Customer 39;Florida;Female;56+;1;Website;2579.25;5;4;4.00;t
+290;2023-10-17;2023;4;10;42;17;35;35;Product 35;Electronics;Subcat C;Brand W;4;4;Customer 4;New York;Male;56+;1;Website;568.92;6;4;4.00;f
+238;2023-08-26;2023;3;8;34;26;10;10;Product 10;Electronics;Subcat B;Brand Z;44;44;Customer 44;New York;Male;56+;2;Mobile App;2641.98;6;4;4.00;f
+267;2023-09-24;2023;3;9;38;24;25;25;Product 25;Electronics;Subcat B;Brand Y;44;44;Customer 44;New York;Male;56+;2;Mobile App;1371.60;6;4;4.00;f
+79;2023-03-20;2023;1;3;12;20;45;45;Product 45;Electronics;Subcat A;Brand Y;44;44;Customer 44;New York;Male;56+;2;Mobile App;1616.35;5;4;4.00;f
+84;2023-03-25;2023;1;3;12;25;15;15;Product 15;Electronics;Subcat A;Brand W;74;74;Customer 74;Texas;Male;56+;2;Mobile App;3029.20;8;4;4.00;f
+308;2023-11-04;2023;4;11;44;4;25;25;Product 25;Electronics;Subcat B;Brand Y;44;44;Customer 44;New York;Male;56+;2;Mobile App;1245.78;6;4;4.00;f
+178;2023-06-27;2023;2;6;26;27;40;40;Product 40;Electronics;Subcat B;Brand X;84;84;Customer 84;New York;Male;56+;2;Mobile App;1344.60;10;4;4.00;f
+218;2023-08-06;2023;3;8;31;6;30;30;Product 30;Electronics;Subcat A;Brand Z;24;24;Customer 24;New York;Male;56+;1;Website;1705.40;4;4;4.00;t
+239;2023-08-27;2023;3;8;34;27;5;5;Product 5;Electronics;Subcat C;Brand Y;19;19;Customer 19;Florida;Female;56+;2;Mobile App;2159.15;5;4;4.00;f
+205;2023-07-24;2023;3;7;30;24;50;50;Product 50;Electronics;Subcat C;Brand Z;94;94;Customer 94;Texas;Male;56+;1;Website;3559.78;7;4;4.00;f
+301;2023-10-28;2023;4;10;43;28;35;35;Product 35;Electronics;Subcat C;Brand W;84;84;Customer 84;New York;Male;56+;2;Mobile App;583.52;4;4;4.00;f
+208;2023-07-27;2023;3;7;30;27;15;15;Product 15;Electronics;Subcat A;Brand W;34;34;Customer 34;Texas;Male;56+;1;Website;458.56;2;4;4.00;f
+84;2023-03-25;2023;1;3;12;25;45;45;Product 45;Electronics;Subcat A;Brand Y;14;14;Customer 14;Texas;Male;56+;2;Mobile App;2505.28;8;4;4.00;f
+328;2023-11-24;2023;4;11;47;24;50;50;Product 50;Electronics;Subcat C;Brand Z;54;54;Customer 54;Texas;Male;56+;1;Website;602.36;2;4;4.00;f
+98;2023-04-08;2023;2;4;14;8;40;40;Product 40;Electronics;Subcat B;Brand X;4;4;Customer 4;New York;Male;56+;1;Website;2104.02;6;4;4.00;f
+155;2023-06-04;2023;2;6;22;4;25;25;Product 25;Electronics;Subcat B;Brand Y;99;99;Customer 99;Florida;Female;56+;1;Website;376.28;4;4;4.00;f
+136;2023-05-16;2023;2;5;20;16;30;30;Product 30;Electronics;Subcat A;Brand Z;64;64;Customer 64;New York;Male;56+;1;Website;1694.24;8;4;4.00;f
+19;2023-01-19;2023;1;1;3;19;5;5;Product 5;Electronics;Subcat C;Brand Y;64;64;Customer 64;New York;Male;56+;1;Website;1556.22;6;4;4.00;f
+326;2023-11-22;2023;4;11;47;22;30;30;Product 30;Electronics;Subcat A;Brand Z;54;54;Customer 54;Texas;Male;56+;1;Website;2545.40;11;4;4.00;f
+311;2023-11-07;2023;4;11;45;7;50;50;Product 50;Electronics;Subcat C;Brand Z;14;14;Customer 14;Texas;Male;56+;1;Website;1391.16;6;4;4.00;f
+138;2023-05-18;2023;2;5;20;18;15;15;Product 15;Electronics;Subcat A;Brand W;39;39;Customer 39;Florida;Female;56+;2;Mobile App;2682.78;6;4;4.00;f
+147;2023-05-27;2023;2;5;21;27;45;45;Product 45;Electronics;Subcat A;Brand Y;34;34;Customer 34;Texas;Male;56+;2;Mobile App;190.89;3;4;4.00;f
+43;2023-02-12;2023;1;2;6;12;40;40;Product 40;Electronics;Subcat B;Brand X;4;4;Customer 4;New York;Male;56+;1;Website;865.50;3;4;4.00;f
+24;2023-01-24;2023;1;1;4;24;50;50;Product 50;Electronics;Subcat C;Brand Z;4;4;Customer 4;New York;Male;56+;2;Mobile App;936.36;6;4;4.00;f
+253;2023-09-10;2023;3;9;36;10;45;45;Product 45;Electronics;Subcat A;Brand Y;4;4;Customer 4;New York;Male;56+;1;Website;2199.30;10;4;4.00;f
+204;2023-07-23;2023;3;7;29;23;35;35;Product 35;Electronics;Subcat C;Brand W;64;64;Customer 64;New York;Male;56+;2;Mobile App;1513.92;8;4;4.00;f
+102;2023-04-12;2023;2;4;15;12;5;5;Product 5;Electronics;Subcat C;Brand Y;39;39;Customer 39;Florida;Female;56+;2;Mobile App;224.54;2;4;4.00;f
+122;2023-05-02;2023;2;5;18;2;45;45;Product 45;Electronics;Subcat A;Brand Y;99;99;Customer 99;Florida;Female;56+;2;Mobile App;2828.58;6;4;4.00;f
+365;2023-12-31;2023;4;12;52;31;10;10;Product 10;Electronics;Subcat B;Brand Z;14;14;Customer 14;Texas;Male;56+;1;Website;2227.92;4;4;4.00;f
+336;2023-12-02;2023;4;12;48;2;5;5;Product 5;Electronics;Subcat C;Brand Y;4;4;Customer 4;New York;Male;56+;2;Mobile App;528.92;1;4;4.00;f
+343;2023-12-09;2023;4;12;49;9;25;25;Product 25;Electronics;Subcat B;Brand Y;74;74;Customer 74;Texas;Male;56+;2;Mobile App;3538.60;5;4;4.00;t
+352;2023-12-18;2023;4;12;51;18;35;35;Product 35;Electronics;Subcat C;Brand W;94;94;Customer 94;Texas;Male;56+;1;Website;1087.38;2;4;4.00;f
+340;2023-12-06;2023;4;12;49;6;10;10;Product 10;Electronics;Subcat B;Brand Z;64;64;Customer 64;New York;Male;56+;2;Mobile App;898.80;8;4;4.00;f
+338;2023-12-04;2023;4;12;49;4;50;50;Product 50;Electronics;Subcat C;Brand Z;74;74;Customer 74;Texas;Male;56+;1;Website;884.79;3;4;4.00;f
+339;2023-12-05;2023;4;12;49;5;35;35;Product 35;Electronics;Subcat C;Brand W;94;94;Customer 94;Texas;Male;56+;2;Mobile App;2773.45;5;4;4.00;f
+234;2023-08-22;2023;3;8;34;22;21;21;Product 21;Clothing;Subcat A;Brand Y;99;99;Customer 99;Florida;Female;56+;1;Website;1239.08;4;2;2.46;t
+202;2023-07-21;2023;3;7;29;21;26;26;Product 26;Clothing;Subcat C;Brand Z;24;24;Customer 24;New York;Male;56+;2;Mobile App;1025.22;7;2;3.31;t
+320;2023-11-16;2023;4;11;46;16;26;26;Product 26;Clothing;Subcat C;Brand Z;74;74;Customer 74;Texas;Male;56+;2;Mobile App;298.92;2;1;3.39;t
+257;2023-09-14;2023;3;9;37;14;41;41;Product 41;Clothing;Subcat C;Brand Y;4;4;Customer 4;New York;Male;56+;1;Website;954.02;2;1;3.23;t
+156;2023-06-05;2023;2;6;23;5;16;16;Product 16;Clothing;Subcat B;Brand X;94;94;Customer 94;Texas;Male;56+;1;Website;784.78;2;1;2.41;t
+225;2023-08-13;2023;3;8;32;13;1;1;Product 1;Clothing;Subcat B;Brand Y;19;19;Customer 19;Florida;Female;56+;1;Website;990.80;10;2;2.05;t
+212;2023-07-31;2023;3;7;31;31;26;26;Product 26;Clothing;Subcat C;Brand Z;59;59;Customer 59;Florida;Female;56+;1;Website;277.42;2;1;2.62;t
+243;2023-08-31;2023;3;8;35;31;23;23;Product 23;Books;Subcat C;Brand W;49;49;Customer 49;California;Female;56+;1;Website;3935.16;9;1;2.06;f
+95;2023-04-05;2023;2;4;14;5;2;2;Product 2;Home & Garden;Subcat C;Brand Z;69;69;Customer 69;California;Female;56+;1;Website;318.71;7;4;3.95;f
+164;2023-06-13;2023;2;6;24;13;22;22;Product 22;Home & Garden;Subcat B;Brand Z;69;69;Customer 69;California;Female;56+;1;Website;695.84;2;3;3.50;f
+241;2023-08-29;2023;3;8;35;29;34;34;Product 34;Toys;Subcat B;Brand Z;9;9;Customer 9;California;Female;56+;2;Mobile App;1653.04;8;3;3.17;f
+78;2023-03-19;2023;1;3;11;19;23;23;Product 23;Books;Subcat C;Brand W;49;49;Customer 49;California;Female;56+;1;Website;2316.85;5;4;3.53;t
+236;2023-08-24;2023;3;8;34;24;34;34;Product 34;Toys;Subcat B;Brand Z;69;69;Customer 69;California;Female;56+;2;Mobile App;1546.51;7;3;3.08;f
+107;2023-04-17;2023;2;4;16;17;16;16;Product 16;Clothing;Subcat B;Brand X;89;89;Customer 89;California;Female;56+;1;Website;1282.98;3;1;2.89;f
+333;2023-11-29;2023;4;11;48;29;21;21;Product 21;Clothing;Subcat A;Brand Y;49;49;Customer 49;California;Female;56+;2;Mobile App;3100.57;11;3;2.91;f
+284;2023-10-11;2023;4;10;41;11;17;17;Product 17;Home & Garden;Subcat C;Brand Y;49;49;Customer 49;California;Female;56+;2;Mobile App;896.16;6;3;2.82;f
+158;2023-06-07;2023;2;6;23;7;13;13;Product 13;Books;Subcat B;Brand Y;49;49;Customer 49;California;Female;56+;1;Website;710.22;7;3;2.18;f
+25;2023-01-25;2023;1;1;4;25;21;21;Product 21;Clothing;Subcat A;Brand Y;89;89;Customer 89;California;Female;56+;1;Website;2963.10;7;4;2.43;f
+110;2023-04-20;2023;2;4;16;20;42;42;Product 42;Home & Garden;Subcat A;Brand Z;29;29;Customer 29;California;Female;56+;2;Mobile App;2743.70;10;1;2.46;f
+127;2023-05-07;2023;2;5;18;7;21;21;Product 21;Clothing;Subcat A;Brand Y;69;69;Customer 69;California;Female;56+;2;Mobile App;92.99;1;2;2.65;f
+163;2023-06-12;2023;2;6;24;12;16;16;Product 16;Clothing;Subcat B;Brand X;49;49;Customer 49;California;Female;56+;2;Mobile App;2424.35;5;1;2.81;f
+44;2023-02-13;2023;1;2;7;13;18;18;Product 18;Books;Subcat A;Brand Z;29;29;Customer 29;California;Female;56+;1;Website;463.24;1;2;2.89;f
+123;2023-05-03;2023;2;5;18;3;24;24;Product 24;Toys;Subcat A;Brand X;9;9;Customer 9;California;Female;56+;2;Mobile App;3138.30;11;2;2.45;f
+176;2023-06-25;2023;2;6;25;25;38;38;Product 38;Books;Subcat C;Brand Z;89;89;Customer 89;California;Female;56+;1;Website;238.36;2;1;3.75;f
+161;2023-06-10;2023;2;6;23;10;16;16;Product 16;Clothing;Subcat B;Brand X;49;49;Customer 49;California;Female;56+;2;Mobile App;1976.04;11;3;3.53;t
+150;2023-05-30;2023;2;5;22;30;19;19;Product 19;Toys;Subcat B;Brand W;69;69;Customer 69;California;Female;56+;2;Mobile App;639.98;2;1;3.38;f
+154;2023-06-03;2023;2;6;22;3;49;49;Product 49;Toys;Subcat B;Brand Y;49;49;Customer 49;California;Female;56+;1;Website;1758.96;4;3;2.85;f
+65;2023-03-06;2023;1;3;10;6;9;9;Product 9;Toys;Subcat A;Brand Y;49;49;Customer 49;California;Female;56+;2;Mobile App;2707.90;10;1;3.82;f
+45;2023-02-14;2023;1;2;7;14;39;39;Product 39;Toys;Subcat A;Brand W;9;9;Customer 9;California;Female;56+;1;Website;195.08;2;1;3.09;f
+324;2023-11-20;2023;4;11;47;20;41;41;Product 41;Clothing;Subcat C;Brand Y;89;89;Customer 89;California;Female;56+;1;Website;657.09;9;3;2.97;t
+179;2023-06-28;2023;2;6;26;28;27;27;Product 27;Home & Garden;Subcat A;Brand W;89;89;Customer 89;California;Female;56+;2;Mobile App;3619.88;11;3;2.37;f
+59;2023-02-28;2023;1;2;9;28;13;13;Product 13;Books;Subcat B;Brand Y;49;49;Customer 49;California;Female;56+;1;Website;600.68;4;4;3.13;t
+310;2023-11-06;2023;4;11;45;6;16;16;Product 16;Clothing;Subcat B;Brand X;89;89;Customer 89;California;Female;56+;2;Mobile App;2319.78;6;2;3.99;f
+48;2023-02-17;2023;1;2;7;17;38;38;Product 38;Books;Subcat C;Brand Z;9;9;Customer 9;California;Female;56+;2;Mobile App;1697.80;4;2;3.07;f
+38;2023-02-07;2023;1;2;6;7;32;32;Product 32;Home & Garden;Subcat C;Brand X;9;9;Customer 9;California;Female;56+;2;Mobile App;757.10;2;3;3.40;f
+168;2023-06-17;2023;2;6;24;17;38;38;Product 38;Books;Subcat C;Brand Z;9;9;Customer 9;California;Female;56+;1;Website;789.84;9;2;3.23;t
+330;2023-11-26;2023;4;11;47;26;27;27;Product 27;Home & Garden;Subcat A;Brand W;89;89;Customer 89;California;Female;56+;1;Website;2936.05;5;1;2.79;f
+29;2023-01-29;2023;1;1;4;29;44;44;Product 44;Toys;Subcat C;Brand X;9;9;Customer 9;California;Female;56+;1;Website;2455.15;5;3;3.53;f
+42;2023-02-11;2023;1;2;6;11;27;27;Product 27;Home & Garden;Subcat A;Brand W;9;9;Customer 9;California;Female;56+;1;Website;2448.32;7;2;3.18;f
+358;2023-12-24;2023;4;12;51;24;41;41;Product 41;Clothing;Subcat C;Brand Y;9;9;Customer 9;California;Female;56+;1;Website;2243.16;6;1;3.29;f
+336;2023-12-02;2023;4;12;48;2;28;28;Product 28;Books;Subcat B;Brand X;69;69;Customer 69;California;Female;56+;1;Website;4250.45;5;1;3.83;t
+91;2023-04-01;2023;2;4;13;1;20;20;Product 20;Electronics;Subcat C;Brand X;9;9;Customer 9;California;Female;56+;2;Mobile App;704.10;6;4;4.00;f
+268;2023-09-25;2023;3;9;39;25;5;5;Product 5;Electronics;Subcat C;Brand Y;49;49;Customer 49;California;Female;56+;2;Mobile App;4387.12;8;4;4.00;f
+154;2023-06-03;2023;2;6;22;3;45;45;Product 45;Electronics;Subcat A;Brand Y;69;69;Customer 69;California;Female;56+;1;Website;352.07;1;4;4.00;f
+44;2023-02-13;2023;1;2;7;13;40;40;Product 40;Electronics;Subcat B;Brand X;89;89;Customer 89;California;Female;56+;2;Mobile App;59.30;1;4;4.00;f
+117;2023-04-27;2023;2;4;17;27;35;35;Product 35;Electronics;Subcat C;Brand W;69;69;Customer 69;California;Female;56+;1;Website;359.22;3;4;4.00;f
+66;2023-03-07;2023;1;3;10;7;1;1;Product 1;Clothing;Subcat B;Brand Y;49;49;Customer 49;California;Female;56+;2;Mobile App;1317.88;4;3;2.45;t
+33;2023-02-02;2023;1;2;5;2;11;11;Product 11;Clothing;Subcat C;Brand W;89;89;Customer 89;California;Female;56+;1;Website;1059.48;6;3;2.86;t
+77;2023-03-18;2023;1;3;11;18;11;11;Product 11;Clothing;Subcat C;Brand W;49;49;Customer 49;California;Female;56+;1;Website;526.96;2;3;2.60;t
+87;2023-03-28;2023;1;3;13;28;36;36;Product 36;Clothing;Subcat A;Brand X;9;9;Customer 9;California;Female;56+;1;Website;1379.28;4;1;3.57;t
+63;2023-03-04;2023;1;3;9;4;26;26;Product 26;Clothing;Subcat C;Brand Z;29;29;Customer 29;California;Female;56+;1;Website;1675.29;3;1;2.84;t
